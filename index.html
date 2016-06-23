@@ -13,6 +13,20 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <div class="post_meta">
+            <span class="post_author">{{post.author}}</span>
+            <span class="post_sep"> | </span>
+            <span class="post_date">{{post.date}}</span>
+            <span class="post_sep"> | </span>
+
+
+            {{ post.excerpt }}
+
+            <span class="catagory">{{ post.categories | join: ', ' }}</span>
+            <br>
+          <a href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+
+          </div>
         </h2>
       </li>
     {% endfor %}
