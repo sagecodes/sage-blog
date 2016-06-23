@@ -22,7 +22,7 @@ layout: default
 
             {{ post.excerpt }}
 
-            <span class="catagory">{{ post.categories | join: ', ' }}</span>
+            <span class="catagory">{{ post.tags | join: ', ' }}</span>
             <br>
           <a href="{{post.url | prepend: site.baseurl }}"> Read more</a>
 
