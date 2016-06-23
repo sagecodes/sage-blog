@@ -1,0 +1,43 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <div class="post_meta">
+            <span class="post_author">{{post.author}}</span>
+            <span class="post_sep"> | </span>
+            <span class="post_date">{{post.date}}</span>
+            <span class="post_sep"> | </span>
+
+
+            {{ post.excerpt }}
+
+            <span class="catagory">{{ post.tags | join: ', ' }}</span>
+            <br>
+          <a href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+
+          </div>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
