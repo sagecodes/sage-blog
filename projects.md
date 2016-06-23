@@ -16,7 +16,11 @@ permalink: /projects/
           <div class="post_meta">
             <span class="post_excerpt"> {{ post.excerpt }} </span>
 
-            <span class="post_tag">{{ post.tags | join: ', ' }}</span>
+            {% if post.tags %}
+              {% for tag in post.tags %}
+                <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+              {% endfor %}
+            {% endif %}
             <br>
           <a href="{{post.url | prepend: site.baseurl }}">Demo</a>
           <a href="{{post.url | prepend: site.baseurl }}">Github</a>

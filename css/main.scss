@@ -56,11 +56,13 @@ $on-laptop:        800px;
 .post_excerpt {
  font-size:16px;
  color: $grey-color;
+ p {
+ margin-bottom: -10px;
+}
 }
 
 .post_tag {
  font-size:10px;
  color: $grey-color;
- background-color:blue;
  padding:10px;
 }

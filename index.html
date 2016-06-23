@@ -4,13 +4,11 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Latest Post:</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.post limit:1 %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <div class="post_meta">
@@ -18,20 +16,21 @@ layout: default
             <span class="post_sep"> | </span>
             <span class="post_date">{{post.date}}</span>
             <span class="post_sep"> | </span>
-
-
             <span class="post_excerpt">  {{ post.excerpt }} </span>
-
-            <span class="catagory">{{ post.tags | join: ', ' }}</span>
+            {% if post.tags %}
+              {% for tag in post.tags %}
+                <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+              {% endfor %}
+            {% endif %}
             <br>
           <a href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+
+
+
 
           </div>
         </h2>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

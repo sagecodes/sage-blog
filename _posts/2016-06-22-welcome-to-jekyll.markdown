@@ -3,7 +3,7 @@ layout: post
 title:  "hiya"
 date:   2016-06-22 18:44:02 -0700
 categories: post
-tags: testtag
+tags: tag1 tag2 tag3
 author: Sage Elliott
 published: true
 ---
