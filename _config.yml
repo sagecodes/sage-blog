@@ -15,4 +15,4 @@ github_username:  sageio
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title
