@@ -4,12 +4,36 @@ title: Projects
 permalink: /projects/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<div class="home">
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+  <h1 class="page-heading">Posts</h1>
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+  <ul class="post-list">
+    {% for post in site.categories.project %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <div class="post_meta">
+            <span class="post_author">{{post.author}}</span>
+            <span class="post_sep"> | </span>
+            <span class="post_date">{{post.date}}</span>
+            <span class="post_sep"> | </span>
+
+
+            {{ post.excerpt }}
+
+            <span class="catagory">{{ post.tags | join: ', ' }}</span>
+            <br>
+          <a href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+
+          </div>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
