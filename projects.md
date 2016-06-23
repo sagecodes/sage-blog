@@ -1,39 +1,29 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Projects:</h1>
 
   <ul class="post-list">
     {% for post in site.categories.project %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <div class="post_meta">
-            <span class="post_author">{{post.author}}</span>
-            <span class="post_sep"> | </span>
-            <span class="post_date">{{post.date}}</span>
-            <span class="post_sep"> | </span>
+            <span class="post_excerpt"> {{ post.excerpt }} </span>
 
-
-            {{ post.excerpt }}
-
-            <span class="catagory">{{ post.tags | join: ', ' }}</span>
+            <span class="post_tag">{{ post.tags | join: ', ' }}</span>
             <br>
-          <a href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+          <a href="{{post.url | prepend: site.baseurl }}">Demo</a>
+          <a href="{{post.url | prepend: site.baseurl }}">Github</a>
 
           </div>
         </h2>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

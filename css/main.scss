@@ -51,3 +51,16 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+.post_excerpt {
+ font-size:16px;
+ color: $grey-color;
+}
+
+.post_tag {
+ font-size:10px;
+ color: $grey-color;
+ background-color:blue;
+ padding:10px;
+}

@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default
 title: Blog
 permalink: /blog/
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Posts:</h1>
 
   <ul class="post-list">
     {% for post in site.categories.post %}
@@ -22,9 +22,9 @@ permalink: /blog/
             <span class="post_sep"> | </span>
 
 
-            {{ post.excerpt }}
+            <span class="post_excerpt"> {{ post.excerpt }} </span>
 
-            <span class="catagory">{{ post.tags | join: ', ' }}</span>
+            <span class="post_tag">{{ post.tags | join: ', ' }}</span>
             <br>
           <a href="{{post.url | prepend: site.baseurl }}"> Read more</a>
 
