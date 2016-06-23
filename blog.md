@@ -18,7 +18,7 @@ permalink: /blog/
           <div class="post_meta">
             <span class="post_author">{{post.author}}</span>
             <span class="post_sep"> | </span>
-            <span class="post_date">{{post.date}}</span>
+            <span class="post_date">{{ post.date | date: "%b %-d, %Y" }}</span>
             <span class="post_sep"> | </span>
 
 
