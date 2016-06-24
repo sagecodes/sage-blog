@@ -20,15 +20,16 @@ permalink: /blog/
             <span class="post_sep"> | </span>
             <span class="post_date">{{ post.date | date: "%b %-d, %Y" }}</span>
             <span class="post_sep"> | </span>
-
-
-            <span class="post_excerpt"> {{ post.excerpt }} </span>
-
             {% if post.tags %}
               {% for tag in post.tags %}
                 <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
               {% endfor %}
             {% endif %}
+
+
+            <span class="post_excerpt"> {{ post.excerpt }} </span>
+
+
             <br>
           <a href="{{post.url | prepend: site.baseurl }}"> Read more</a>
 

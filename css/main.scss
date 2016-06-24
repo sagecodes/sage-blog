@@ -60,12 +60,22 @@ $on-laptop:        800px;
  font-size:16px;
  color: $grey-color;
  p {
- margin-bottom: -5px;
+ margin-bottom: 5px;
  }
 }
 
 .post_tag {
- font-size:16px;
+ font-size:12px;
  color: $grey-color;
- padding:10px;
+ padding:5px;
+ background-color:$grey-color-light;
+ a {
+    color: $grey-color;
+ }
+}
+
+.btn {
+    padding:10px;
+    background-color:$grey-color-light;
+
 }
