@@ -1,24 +1,17 @@
 ---
 layout: post
 title:  "AWS setup for flask"
-date:   2016-06-22
+date:   2016-06-23
 categories: post
-tags: tag1 tag2 tag3
+tags: AWS flask python
 author: Sage Elliott
 published: true
 ---
 
 
 
-#Linux Server Configuration
-## Project 5 for Udacity Full-Stack Nanodegree
+# Linux Server Configuration
 
-See project live at: [http://ec2-52-27-192-5.us-west-2.compute.amazonaws.com/](http://ec2-52-27-192-5.us-west-2.compute.amazonaws.com/)
-
-Notes for reviewer:
-* public Ip: `52.27.192.5`
-* SSH PORT: `2200`
-* Full project URL: [http://ec2-52-27-192-5.us-west-2.compute.amazonaws.com/](http://ec2-52-27-192-5.us-west-2.compute.amazonaws.com/)
 
 ### Tasks given and method for completion:
 
