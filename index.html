@@ -10,10 +10,11 @@ layout: default
   </p>
 </section>
 
+<!-- Display projects -->
   <h1 class="page-heading">Recent Projects:</h1>
 
-  <ul class="post-list">
-    {% for post in site.categories.project limit:4 %}
+   <ul class="post-list">
+    {% for post in site.categories.project %}
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -26,8 +27,12 @@ layout: default
               {% endfor %}
             {% endif %}
             <br>
-          <a href="{{post.url | prepend: site.baseurl }}">Demo</a>
-          <a href="{{post.url | prepend: site.baseurl }}">Github</a>
+            {% if post.demo_url %}
+              <a href="{{ post.demo_url }}">Demo</a>
+            {% endif %}
+            {% if post.github_url %}
+              <a href="{{ post.github_url }}">Github</a>
+            {% endif %}
 
           </div>
         </h2>
@@ -38,6 +43,8 @@ layout: default
 
 <hr>
 
+
+<!-- Display latest post -->
 <div class="home">
 
   <h1 class="page-heading">Latest Post:</h1>
