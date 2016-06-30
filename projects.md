@@ -22,8 +22,12 @@ permalink: /projects/
               {% endfor %}
             {% endif %}
             <br>
-          <a href="{{post.url | prepend: site.baseurl }}">Demo</a>
-          <a href="{{post.url | prepend: site.baseurl }}">Github</a>
+            {% if post.demo_url %}
+              <a href="{{ post.demo_url }}">Demo</a>
+            {% endif %}
+            {% if post.github_url %}
+              <a href="{{ post.github_url }}">Github</a>
+            {% endif %}
 
           </div>
         </h2>

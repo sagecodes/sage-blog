@@ -6,7 +6,7 @@ categories: project
 tags: python AppEngine
 author: Sage Elliott
 published: true
-demo:
-github:
+demo_url: https://conference-elliott.appspot.com/#/
+github_url: https://github.com/sageio
 ---
 PUsing Google App Engine's Endpoints API, built the Python backend to support a web- and Android-based conference organization application.
