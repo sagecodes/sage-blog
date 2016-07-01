@@ -67,10 +67,11 @@ $on-laptop:        800px;
 .post_tag {
  font-size:12px;
  color: $grey-color;
- padding:5px;
  background-color:$grey-color-light;
  a {
     color: $grey-color;
+    padding: 5px;
+    background-color:$grey-color-light;
  }
 }
 
