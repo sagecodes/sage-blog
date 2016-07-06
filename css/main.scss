@@ -5,7 +5,7 @@
 
 
 
-// Our variables
+// Our variables (Jekyll defaults)
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
@@ -53,6 +53,17 @@ $on-laptop:        800px;
         "bourbon/bourbon",
         "neat/neat"
 ;
+
+
+
+body {
+  font-family: "Alegreya", Georgia, serif;
+  font-weight: normal;
+  color: #333;
+  font-size: 1.20em;
+  background: #f9f9f9;
+  margin: 0px;
+}
 
 .post_author, .post_date, .post_sep {
     font-size:16px;
