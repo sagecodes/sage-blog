@@ -155,6 +155,13 @@ pre {
 /**
  * Wrapper
  */
+ // used for menu items
+.large-wrapper {
+  max-width: $large-wrapper;
+  margin-right: auto;
+  margin-left: auto;
+}
+// used for rest of content
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
