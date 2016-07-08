@@ -1,0 +1,200 @@
+/* General styles
+===========================================*/
+
+* {
+    box-shadow: none;
+}
+html,
+body {
+    overflow-x: hidden;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+}
+
+body {
+    font-family: "Alegreya", Georgia, serif;
+    font-weight: normal;
+    color: #333;
+    font-size: 1.75em;
+    background: #f9f9f9;
+    margin: 0px;
+}
+
+.row {
+    margin: 0;
+}
+
+#portfolio,
+#contact{
+    padding-top: 55px;
+    background: #f9f9f9;
+    min-height: 500px;
+}
+
+
+
+/* Navigation & Header
+===========================================*/
+
+.navbar {
+    border: none;
+    box-shadow: none;
+    opacity: 0.99;
+    background: none;
+    padding: 0px 15px 0px;
+}
+
+.navbar.scrolled {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    background: #f9f9f9;
+    -webkit-transition: all 0.7s ease; /* For Safari 3.1 to 6.0 */
+    transition: all 0.7s;
+}
+
+.navbar-collapse{
+    background: #f9f9f9;
+}
+
+.navbar-nav li a {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    min-width: 100px;
+}
+.navbar-text {
+    display: none;
+}
+.logo img {
+    width: 110px;
+    margin: 0px 0px -5px 15px;
+}
+.navbar-collapse {
+    text-align: center;
+}
+/* About
+===========================================*/
+
+
+.landing-photo {
+    max-width: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+#about {
+    min-height: 500px;
+    margin: 0px 0 60px;
+    padding: 200px 0 0;
+    margin-top: 55px;
+
+}
+
+.intro {
+    max-width: 750px;
+    margin: 0 auto 0px;
+    padding: 15px;
+    /*position: relative;
+    top: -400px;*/
+    background-color:rgba(255,255,255,0.8);}
+
+
+h1 {
+    text-align: center;
+    font-size: 3.25em;
+}
+
+.dropcap {
+    font-size: 3.4em;
+    display: block;
+    float: left;
+    width: .8em;
+    height: .7em;
+    line-height: 0.8;
+    margin: 0;
+}
+/* Portfolio
+===========================================*/
+.tag {
+    visibility: hidden;
+    transition: all 0.5s ease-in-out;
+    -ms-transform: translate(50px,100px); /* IE 9 */
+    -webkit-transform: translate(50px,100px); /* Safari */
+    transform: translate(0px,500px); /* Standard syntax */
+    position: fixed;
+}
+
+.tag.show {
+   position: relative;
+    left: 0px;
+    visibility: visible;
+    transform: translate(0px,0px); /* Standard syntax */
+}
+
+.thumbnail {
+
+    height: 385px;
+    overflow: hidden;
+}
+.pic-frame{
+    height: 100px;
+    overflow: hidden;
+    text-align: center;
+}
+.project-picture{
+    width: 100%;
+    height: auto;
+    -webkit-transition: all 3s; /* For Safari 3.1 to 6.0 */
+    transition: all 3s;
+}
+
+.project-picture:hover{
+    -ms-transform: translate(0px,-100px); /* IE 9 */
+    -webkit-transform: translate(0px,-100px); /* Safari */
+    transform: translate(0px,-100px); /* Standard syntax */
+}
+
+.btn-wrapper {
+    position:absolute;
+    bottom:0;
+    margin-bottom: 0px;
+}
+
+.btn {
+    background: none;
+    box-shadow: none;
+
+}
+.btn-primary {
+    background: #829aa8;
+    border: solid 1px #829aa8;
+}
+#portfolio a {
+    cursor: pointer;
+}
+/* Contact
+===========================================*/
+
+.icons {
+    margin: 0 auto 0px;
+    max-width: 160px;
+    padding: 5px 0 20px;
+}
+.icons img {
+    width: 50px;
+}
+/* Footer
+===========================================*/
+
+#footer {
+    border-top: solid 2px;
+    background: #1e1e1e;
+    color: #606060;
+    text-align: center;
+    padding: 30px 0 70px;
+}
+#footer a {
+    color: #606060;
+}
