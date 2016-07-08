@@ -239,7 +239,7 @@ published: true
     * Note that it may take a few minutes for you to see changes, so if you still can't login right away don't panic!
 
 
-##Exceeds specs requirements
+## Exceeds specs requirements
 
 
 * Install glances for monitoring (Exceeds specs requirement)
