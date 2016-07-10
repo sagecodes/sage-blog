@@ -1,10 +1,6 @@
-// add background to navbar on scroll
-jQuery(window).scroll(function(){
-    var fromTopPx = 55; // distance to trigger
-    var scrolledFromtop = jQuery(window).scrollTop();
-    if(scrolledFromtop > fromTopPx){
-        jQuery('.navbar').addClass('scrolled');
-    }else{
-        jQuery('.navbar').removeClass('scrolled');
-    }
-});
+// Closes mobile drop down menu when nav link clicked
+$(function () {
+            $('.navbar-collapse ul li a:not(.dropdown-toggle)').click(function () {
+                    $('.navbar-toggle:visible').click();
+            });
+    });
