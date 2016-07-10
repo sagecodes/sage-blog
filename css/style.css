@@ -140,7 +140,7 @@ h1 {
 
 .thumbnail {
 
-    height: 385px;
+    height: 270px;
     overflow: hidden;
 }
 .pic-frame{
@@ -164,7 +164,7 @@ h1 {
 .btn-wrapper {
     position:absolute;
     bottom:0;
-    margin-bottom: 0px;
+    padding-bottom: 10px;
 }
 
 .btn {
