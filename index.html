@@ -67,10 +67,12 @@ layout: default
 <!-- Display latest post -->
 
 <div class="row">
-<h1>Latest Post:</h1>
-  <div class="col-sm-6 col-lg-12">
+<h1>Latest Blog Post:</h1>
+
   <ul class="post-list">
     {% for post in site.categories.post limit:1 %}
+    <div class="col-sm-6 col-lg-12">
+    <div class="thumbnail">
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -87,9 +89,9 @@ layout: default
             <span class="post_excerpt">  {{ post.excerpt }} </span>
 
           <a class="btn" href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+        </div>
 
 
-</div>
 
           </div>
         </h2>

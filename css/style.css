@@ -23,6 +23,9 @@ body {
     background: #f9f9f9;
     margin: 0px;
 }
+a:focus, a:hover {
+  color: #777;
+}
 
 .row {
     margin: 0;

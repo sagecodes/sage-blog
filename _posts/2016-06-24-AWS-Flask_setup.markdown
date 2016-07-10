@@ -8,6 +8,10 @@ author: Sage Elliott
 published: true
 ---
 
+Polaroid semiotics messenger bag whatever cronut occupy. Kinfolk crucifix austin, celiac semiotics farm-to-table hoodie typewriter single-origin coffee raw denim waistcoat banjo freegan aesthetic.
+
+ Taxidermy master cleanse gochujang, twee yuccie ramps celiac craft beer paleo freegan iPhone jean shorts intelligentsia gluten-free raw denim. Wolf banjo squid, yuccie stumptown trust fund truffaut pitchfork. Poutine tumblr iPhone sustainable normcore helvetica. Pitchfork offal franzen iPhone slow-carb. Chia cred kickstarter drinking vinegar artisan mumblecore.
+
 
 
 # Linux Server Configuration
