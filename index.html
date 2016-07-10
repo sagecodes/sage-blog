@@ -4,11 +4,20 @@ layout: default
 
 <div class="home">
 
-<section id="about">
-  <p class="intro">
-    <span class="dropcap">H</span>ello, world! I'm a developer with a passion for exploring new technologies, great designs, and connecting people! My goal is to always be learning something new and contribute back to the world and the amazing developer community. I have a strong interest in web development, data science, dev-ops, and artificial intelligence. If you're doing something awesome and looking for someone to join your team, <a href="#contact">contact</a> me!
-  </p>
-</section>
+  <section id="about">
+              <div class="row">
+                  <div class="col-md-6">
+
+                      <img class="profile-photo" src="img/sage-lg.png" srcset="img/sage-lg.png 2000w,
+                                                      img/sage-md.png 500w" alt="Picture of Sage Elliott">
+                  </div>
+                  <div class=" col-md-6">
+                      <p class="intro">
+                          <span class="dropcap">H</span>ello, world! I'm a developer with a passion for exploring new technologies, great designs, and connecting people! My goal is to always be learning something new and contribute back to the world and the amazing developer community. I have a strong interest in web development, data science, dev-ops, and artificial intelligence. If you're doing something awesome and looking for someone to join your team, <a href="#contact">contact</a> me!
+                      </p>
+                  </div>
+              </div>
+          </section>
 
 <!-- Display projects -->
   <h1 class="page-heading">Recent Projects:</h1>
@@ -28,10 +37,10 @@ layout: default
             {% endif %}
             <br>
             {% if post.demo_url %}
-              <a href="{{ post.demo_url }}">Demo</a>
+              <a class="btn btn-primary" href="{{ post.demo_url }}">Demo</a>
             {% endif %}
             {% if post.github_url %}
-              <a href="{{ post.github_url }}">Github</a>
+              <a class="btn btn-default" href="{{ post.github_url }}">Github</a>
             {% endif %}
 
           </div>

@@ -92,6 +92,11 @@ body {
 
 }
 
+.profile-photo {
+ max-width: 300px;
+ border-radius: 50%;
+}
+
 .intro {
     max-width: 750px;
     margin: 0 auto 0px;
