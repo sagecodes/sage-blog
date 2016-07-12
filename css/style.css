@@ -27,6 +27,14 @@ a:focus, a:hover {
   color: #777;
 }
 
+h2 {
+  margin: 0;
+}
+
+h3 {
+  
+}
+
 .row {
     margin: 0;
 }
@@ -144,6 +152,14 @@ h1 {
     height: 270px;
     overflow: hidden;
 }
+
+.post-section {
+  height: 220px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+
 .pic-frame{
     height: 100px;
     overflow: hidden;
