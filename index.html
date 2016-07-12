@@ -22,7 +22,7 @@ layout: default
 <!-- Display projects -->
 <section id="projects">
 
-  <h1>Recent Projects:</h1>
+  <h1>Featured Projects:</h1>
   <div class="row">
 
    <ul class="post-list">
@@ -98,41 +98,40 @@ layout: default
 
 <!-- Display latest post -->
 
-<div class="row">
-<h1>Latest Blog Post:</h1>
+<section id="projects">
 
-  <ul class="post-list">
-    {% for post in site.categories.post limit:1 %}
-    <div class="col-sm-6 col-lg-12">
-    <div class="thumbnail post-section">
+  <h1>Recent Posts:</h1>
+  <div class="row">
+
+   <ul class="post-list">
+    {% for post in site.categories.post limit:2 %}
+    <div class="col-sm-6 col-lg-6">
+      <div class="thumbnail">
       <li>
         <h2>
           <div class="caption">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <div class="post_meta">
-            <span class="post_author">{{post.author}}</span>
-            <span class="post_sep"> | </span>
-            <span class="post_date">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <span class="post_sep"> | </span>
-
-            <span class="post_excerpt">  {{ post.excerpt }} </span>
+            <span class="post_excerpt"> {{ post.excerpt }} </span>
 
             {% if post.tags %}
               {% for tag in post.tags %}
                 <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
               {% endfor %}
-            {% endif %}<br>
+            {% endif %}
+            <br>
             <div class="btn-wrapper">
-          <a class="btn btn-default" href="{{post.url | prepend: site.baseurl }}">Read more</a>
+            <a class="btn btn-default" href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+          </div>
+          </div>
         </div>
-      </div>
         </div>
-
-
-
           </div>
         </h2>
       </li>
     {% endfor %}
   </ul>
-</div>
+
+  </div>
+
+</section>
