@@ -193,6 +193,26 @@ h1 {
     background: #829aa8;
     border: solid 1px #829aa8;
 }
+
+.btn-email {
+    background: #c0392b;
+    border: solid 1px #829aa8;
+}
+
+.btn-twitter {
+    background: #6CADDE;
+    border: solid 1px #829aa8;
+}
+
+.btn-github {
+    background: #000000;
+    border: solid 1px #829aa8;
+}
+
+.btn-linkedin {
+    background: #1D87BE;
+    border: solid 1px #829aa8;
+}
 #portfolio a {
     cursor: pointer;
 }
