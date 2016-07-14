@@ -9,7 +9,7 @@
 title: Sage Elliott
 email: hello@sageelliott.com
 description: I make things.
-# baseurl: '/sage-blog' #change this for hosting on GH-Pages
+baseurl: '/sage-blog' #change this for hosting on GH-Pages
 url: "http://sageelliott.com" # the base hostname & protocol for your site
 twitter_username: sagecoder
 github_username:  sageio
