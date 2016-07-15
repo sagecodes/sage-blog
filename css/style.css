@@ -194,25 +194,38 @@ h1 {
     border: solid 1px #829aa8;
 }
 
-.btn-email {
+.btn-email, .btn-twitter, .btn-github, .btn-linkedin  {
+    background: none;
+    border: solid 1px #829aa8;
+}
+
+.btn-email:hover {
     background: #c0392b;
     border: solid 1px #829aa8;
+    color: #ffffff;
 }
 
-.btn-twitter {
+
+.btn-twitter:hover {
     background: #6CADDE;
     border: solid 1px #829aa8;
+    color: #ffffff;
 }
 
-.btn-github {
+.btn-github:hover {
     background: #000000;
     border: solid 1px #829aa8;
+    color: #ffffff;
 }
 
-.btn-linkedin {
+
+.btn-linkedin:hover {
     background: #1D87BE;
     border: solid 1px #829aa8;
+    color: #ffffff;
 }
+
+
 #portfolio a {
     cursor: pointer;
 }
