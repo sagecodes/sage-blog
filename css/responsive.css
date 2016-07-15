@@ -34,6 +34,9 @@
         max-width: 650px;
         margin: 15px 0 0 0px;
     }
+    .social-buttons {
+      text-align: left;
+    }
 
 
     /* Portfolio
