@@ -1,0 +1,45 @@
+---
+layout: default
+title: Blog
+permalink: /blog/
+---
+
+<!-- Display latest post -->
+
+<section id="Posts">
+
+  <h1>Recent Posts:</h1>
+  <div class="row">
+
+   <ul class="post-list">
+    {% for post in site.categories.post %}
+    <div class="col-sm-6 col-lg-6">
+      <div class="thumbnail">
+      <li>
+        <h2>
+          <div class="caption">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <div class="post_meta">
+            <span class="post_excerpt"> {{ post.excerpt }} </span>
+
+            {% if post.tags %}
+              {% for tag in post.tags %}
+                <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+              {% endfor %}
+            {% endif %}
+            <br>
+            <div class="btn-wrapper">
+            <a class="btn btn-default" href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+          </div>
+          </div>
+        </div>
+        </div>
+          </div>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  </div>
+
+</section>
