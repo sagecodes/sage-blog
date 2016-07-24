@@ -31,7 +31,7 @@ permalink: /blog/
 
 
             <br>
-          <a class="btn" href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+          <a class="btn btn-default" href="{{post.url | prepend: site.baseurl }}"> Read more</a>
 
           </div>
         </h2>
