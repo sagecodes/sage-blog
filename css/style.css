@@ -39,14 +39,7 @@ h3 {
     margin: 0;
 }
 
-#portfolio,
-#contact{
-    padding-top: 55px;
-    background: #f9f9f9;
-    min-height: 300px;
-}
-
-
+{}
 
 /* Navigation & Header
 ===========================================*/
@@ -92,8 +85,8 @@ h3 {
 
 
 #about {
-    min-height: 300px;
-    margin: 0px 0 60px;
+    /*min-height: 300px;*/
+    margin: 0px 0 0px;
     padding: 20px 0 0;
 
 
