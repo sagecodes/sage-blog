@@ -146,10 +146,15 @@ h1 {
     transform: translate(0px,0px); /* Standard syntax */
 }
 
-.thumbnail {
+.project-thumbnail {
 
     height: 270px;
     overflow: hidden;
+}
+
+.post-thumbnail {
+
+    min-height: 170px;
 }
 
 .post-section {
