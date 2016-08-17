@@ -30,6 +30,9 @@
     #about {
         margin-top: 20px;
     }
+    .profile-photo{
+      margin: 0;
+    }
     .intro {
         max-width: 650px;
         margin: 15px 0 0 0px;
