@@ -258,3 +258,27 @@ h1 {
 #footer a {
     color: #606060;
 }
+
+
+
+
+/*BLOG*/
+
+.all {
+    visibility: hidden;
+    transition: all 0.5s ease-in-out;
+    -ms-transform: translate(50px,100px); /* IE 9 */
+    -webkit-transform: translate(50px,100px); /* Safari */
+    transform: translate(0px,500px); /* Standard syntax */
+    position: fixed;
+}
+
+.show {
+   position: relative;
+    left: 0px;
+    visibility: visible;
+    transform: translate(0px,0px); /* Standard syntax */
+}
+
+
+

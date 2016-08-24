@@ -3,7 +3,7 @@ layout: post
 title:  "AWS setup for flask"
 date:   2016-06-23
 categories: post
-tags: AWS flask python
+tags: AWS flask Javascript
 author: Sage Elliott
 published: true
 ---
