@@ -9,6 +9,13 @@ permalink: /blog/
 <section id="Posts">
 
   <h1>Recent Posts:</h1>
+
+
+    {% for tagitem in site.tags  %}
+      <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tagitem[0] | slugify }}" class="post-tag">{{ tagitem[0] }}</a></span>
+    {% endfor %}
+
+    <br><br>
   <div class="row">
 
    <ul class="post-list">
