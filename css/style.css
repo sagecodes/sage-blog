@@ -286,15 +286,15 @@ h1 {
 /*BLOG*/
 
 .all {
-    transition: all 0.3s ease-in-out;
     visibility: hidden;
-    -ms-transform: translate(50px,100px); /* IE 9 */
-    -webkit-transform: translate(50px,100px); /* Safari */
-    transform: translate(300px,0px); /* Standard syntax */
+    -ms-transform: translate(0px,10px); /* IE 9 */
+    -webkit-transform: translate(0px,10px); /* Safari */
+    transform: translate(0px,100px); /* Standard syntax */
     position: fixed;
 }
 
 .show {
+    transition: all 0.3s ease-in-out;
     position: relative;
     left: 0px;
     visibility: visible;
