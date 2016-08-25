@@ -10,11 +10,17 @@ permalink: /blog/
 
   <h1>Recent Posts:</h1>
 
-
-    {% for tagitem in site.tags  %}
+    <!-- {% for tagitem in site.tags except %}
       <span class="post_tag {{ tagitem[0] }}-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tagitem[0] | slugify }}" class="post-tag">{{ tagitem[0] }}</a></span>
-    {% endfor %}
+    {% endfor %} -->
 
+    <span class="post_tag python-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'python' | slugify }}" class="post-tag">python</a></span>
+
+    <span class="post_tag Javascript-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'Javascript' | slugify }}" class="post-tag">Javascript</a></span>
+
+    <span class="post_tag ruby-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'ruby' | slugify }}" class="post-tag">ruby</a></span>
+
+    <span class="post_tag flask-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'flask' | slugify }}" class="post-tag">flask</a></span>
 
 
     <br><br>
