@@ -10,6 +10,10 @@ body {
     height: 100%;
 }
 
+a, a:visited {
+ color: #1756a9;
+}
+
 .container-fluid {
     padding: 0;
     margin: 0 auto;
@@ -50,7 +54,7 @@ h3 {
     margin: 0;
 }
 
-{}
+
 
 /* Navigation & Header
 ===========================================*/
@@ -204,6 +208,7 @@ h1 {
     box-shadow: none;
 
 }
+
 .btn-primary {
     background: #829aa8;
     border: solid 1px #829aa8;
