@@ -26,9 +26,13 @@ $(document).ready(function(){
         $(".all").removeClass('show');
         $(".python-tag").addClass('show');
     });
-    $(".js-btn").click(function(){
+    $(".javascript-btn").click(function(){
         $(".all").removeClass('show');
-        $(".js-tag").addClass('show');
+        $(".javascript-tag").addClass('show');
+    });
+    $(".ruby-btn").click(function(){
+        $(".all").removeClass('show');
+        $(".ruby-tag").addClass('show');
     });
     $(".flask-btn").click(function(){
         $(".all").removeClass('show');
@@ -37,5 +41,9 @@ $(document).ready(function(){
     $(".sql-btn").click(function(){
         $(".all").removeClass('show');
         $(".sql-tag").addClass('show');
+    });
+    $(".aws-btn").click(function(){
+        $(".all").removeClass('show');
+        $(".aws-tag").addClass('show');
     });
 });

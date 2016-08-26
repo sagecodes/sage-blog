@@ -10,7 +10,7 @@ body {
     height: 100%;
 }
 
-a, a:visited {
+a, a:visited, a:focus {
  color: #1756a9;
 }
 

@@ -14,13 +14,17 @@ permalink: /blog/
       <span class="post_tag {{ tagitem[0] }}-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tagitem[0] | slugify }}" class="post-tag">{{ tagitem[0] }}</a></span>
     {% endfor %} -->
 
+    <span class="post_tag all-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'all' | slugify }}" class="post-tag">all</a></span>
+
     <span class="post_tag python-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'python' | slugify }}" class="post-tag">python</a></span>
 
-    <span class="post_tag Javascript-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'Javascript' | slugify }}" class="post-tag">Javascript</a></span>
+    <span class="post_tag javascript-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'javascript' | slugify }}" class="post-tag">javascript</a></span>
 
     <span class="post_tag ruby-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'ruby' | slugify }}" class="post-tag">ruby</a></span>
 
     <span class="post_tag flask-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'flask' | slugify }}" class="post-tag">flask</a></span>
+
+    <span class="post_tag aws-btn"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ 'aws' | slugify }}" class="post-tag">aws</a></span>
 
 
     <br><br>
