@@ -169,7 +169,7 @@ h1 {
 
 .post-thumbnail {
 
-    min-height: 170px;
+    min-height: 200px;
 }
 
 .post-section {
@@ -198,6 +198,12 @@ h1 {
 }
 
 .btn-wrapper {
+    position:absolute;
+    bottom:0;
+    padding-bottom: 10px;
+}
+
+.blog-btn-wrapper {
     position:absolute;
     bottom:0;
     padding-bottom: 10px;
