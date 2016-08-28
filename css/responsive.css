@@ -13,6 +13,11 @@
         margin: 0px 0 0 20px;
     }
 
+    .post-thumbnail, .project-thumbnail  {
+
+    min-height: 200px;
+}
+
     /* portfolio
     ===========================================*/
 

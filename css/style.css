@@ -163,13 +163,13 @@ h1 {
 
 .project-thumbnail {
 
-    height: 270px;
+    height: 235px;
     overflow: hidden;
 }
 
 .post-thumbnail {
 
-    min-height: 200px;
+    min-height: 250px;
 }
 
 .post-section {
