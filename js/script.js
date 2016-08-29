@@ -1,3 +1,7 @@
+var subject = document.location.hash;
+
+var subjectclass = '.' + subject.slice(1);
+
 // Closes mobile drop down menu when nav link clicked
 $(function () {
             $('.navbar-collapse ul li a:not(.dropdown-toggle)').click(function () {
@@ -46,4 +50,13 @@ $(document).ready(function(){
         $(".all").removeClass('show');
         $(".aws-tag").addClass('show');
     });
+
+
+// Show posts with class clicked on from index
+
+    if(document.location.hash) {
+    $(".all").removeClass('show');
+    $(subjectclass +'-tag').addClass('show');
+}
+
 });
