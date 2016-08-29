@@ -13,11 +13,18 @@
         margin: 0px 0 0 20px;
     }
 
+    .post-thumbnail, .project-thumbnail  {
+
+    min-height: 200px;
+}
+
     /* portfolio
     ===========================================*/
 
     .btn-wrapper {
     margin-bottom: 20px;
+
+}
 
 }
 
@@ -28,7 +35,11 @@
     ===========================================*/
 
     #about {
-        margin-top: 20px;
+        margin-top: -60px;
+        padding-top: 80px;
+    }
+    .profile-photo{
+      margin: 0;
     }
     .intro {
         max-width: 650px;
@@ -39,20 +50,38 @@
     }
 
 
+
+
+
+
     /* Portfolio
     ===========================================*/
     #portfolio {
         padding: 55px 30px 0;
     }
 
-}
+
     /* Contact
     ===========================================*/
 
     #contact h2 {
         margin-bottom: 80px;
     }
+
+
+
 }
+
+@media screen and (min-width: 1200px) {
+   .blog-btn-wrapper {
+    margin-bottom: 20px;
+
+}
+
+}
+
+
+
 
 @media screen and (min-width: 1700px) {
 

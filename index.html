@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home" id="top">
 
   <section id="about">
               <div class="row">
-                  <div class="col-md-5">
+                  <div class="col-md-4">
 
                       <img class="profile-photo" src="img/sage-lg.png" srcset="img/sage-lg.png 2000w,
                                                       img/sage-md.png 500w" alt="Picture of Sage Elliott">
                   </div>
-                  <div class=" col-md-7">
+                  <div class=" col-md-8">
                       <p class="intro">
                           <span class="dropcap">H</span>ello, world! I'm a developer with a passion for exploring new technologies, great designs, and connecting people! My goal is to always be learning something new and contribute back to the world and the amazing developer community. I have a strong interest in web development, data science, dev-ops, and artificial intelligence.
                       </p>
@@ -20,10 +20,10 @@ layout: default
 
                         <div class="col-12">
                           <div class="social-buttons">
-                          <a class="btn btn-email" href="#">Email</a>
-                          <a class="btn btn-twitter" href="#">Twitter</a>
-                          <a class="btn btn-github" href="#">Github</a>
-                          <a class="btn btn-linkedin" href="#">LinkedIn</a>
+                          <a class="btn btn-email" href="{{ site.email }}">Email</a>
+                          <a class="btn btn-github" href="{{ site.github }}" target="blank">Github</a>
+                          <a class="btn btn-twitter" href="{{ site.twitter }}" target="blank">Twitter</a>
+                          <a class="btn btn-linkedin" href="{{ site.linkedin }}" target="blank">LinkedIn</a>
                         </div>
                           </div>
 
@@ -35,7 +35,6 @@ layout: default
 
 
           <!-- Display latest post -->
-
           <section id="Posts">
 
             <h1>Recent Post:</h1>
@@ -48,18 +47,18 @@ layout: default
                 <li>
                   <h2>
                     <div class="caption">
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
                     <div class="post_meta">
-                      <span class="post_excerpt"> {{ post.excerpt }} </span>
+                      <span class="post_excerpt"> <p>{{ post.content | strip_html | truncate: 190 }} <a href="{{post.url | prepend: site.baseurl }}">Read&nbsp;more&nbsp;>></a></p> </span>
 
                       {% if post.tags %}
                         {% for tag in post.tags %}
-                          <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+                          <span class="post_tag {{ tag }}-btn""><a href="{{ site.baseurl }}/blog#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
                         {% endfor %}
                       {% endif %}
                       <br>
-                      <div class="btn-wrapper">
-                      <a class="btn btn-default" href="{{post.url | prepend: site.baseurl }}"> Read more</a>
+                      <div class="blog-btn-wrapper">
+                      <a class="btn btn-default" href="{{post.url | prepend: site.baseurl }}">Read more</a>
                     </div>
                     </div>
                   </div>
@@ -76,8 +75,7 @@ layout: default
 
 <!-- Display projects -->
 <section id="projects">
-
-  <h1>Featured Projects:</h1>
+  <h1 class="section-header">Projects:</h1>
   <div class="row">
 
    <ul class="post-list">
@@ -87,9 +85,9 @@ layout: default
       <li>
         <h2>
           <div class="caption">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
           <div class="post_meta">
-            <span class="post_excerpt"> {{ post.excerpt }} </span>
+            <span class="post_excerpt"> <p>{{ post.content | strip_html | truncate: 100 }} <a href="{{ post.url | prepend: site.baseurl }}">Read&nbsp;more&nbsp;>></a></p> </span>
 
             {% if post.tags %}
               {% for tag in post.tags %}

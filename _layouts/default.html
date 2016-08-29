@@ -2,19 +2,22 @@
 <html>
 
   {% include head.html %}
-  <link rel="icon" type="image/png" href="img/logoblack.png">
+  <link rel="icon" type="image/png" href="{{ "/img/logoblack.png" | prepend: site.baseurl }}">
 
   <body data-spy="scroll", data-target=".navbar-collapse">
 
     {% include header.html %}
 
     <div class="page-content">
+    <div class="outer-wrapper">
       <div class="wrapper">
         {{ content }}
       </div>
     </div>
 
+
     {% include footer.html %}
+    </div>
 
   </body>
 

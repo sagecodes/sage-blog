@@ -7,13 +7,13 @@
 
 # Site settings
 title: Sage Elliott
-email: hello@sageelliott.com
+email: mailto:hello@sageelliott.com
 description: I make things.
 baseurl: '/sage-blog'
 url: "http://sageelliott.com" # the base hostname & protocol for your site
-twitter_username: sagecoder
-github_username:  sageio
-linkedin_url: https://www.linkedin.com/in/sageelliott
+twitter: https://twitter.com/sagecoder
+github: https://github.com/sageio
+linkedin: https://www.linkedin.com/in/sageelliott
 # Add about_me value
 # Add Status value
 
