@@ -1,5 +1,4 @@
 var subject = document.location.hash;
-
 var subjectclass = '.' + subject.slice(1);
 
 // Closes mobile drop down menu when nav link clicked
@@ -52,11 +51,29 @@ $(document).ready(function(){
     });
 
 
-// Show posts with class clicked on from index
+    // WIP Of replacing above and below toggle with efficient solution:
 
+    // $(".post_tag").click(function(){
+    // subject = document.location.hash;
+    // subjectclass = '.' + subject.slice(1);
+
+    //   if(document.location.hash) {
+    //     $(".all").removeClass('show');
+    //     $(subjectclass +'-tag').addClass('show');
+    // }
+
+    // });
+
+    // Show posts with class clicked on from index
     if(document.location.hash) {
     $(".all").removeClass('show');
     $(subjectclass +'-tag').addClass('show');
 }
 
 });
+
+
+
+
+
+
