@@ -148,8 +148,8 @@ h1 {
 .tag {
     visibility: hidden;
     transition: all 0.5s ease-in-out;
-    -ms-transform: translate(50px,100px); /* IE 9 */
-    -webkit-transform: translate(50px,100px); /* Safari */
+    -ms-transform: translate(0px,500px); /* IE 9 */
+    -webkit-transform: translate(0px,500px); /* Safari */
     transform: translate(0px,500px); /* Standard syntax */
     position: fixed;
 }
@@ -159,6 +159,8 @@ h1 {
     left: 0px;
     visibility: visible;
     transform: translate(0px,0px); /* Standard syntax */
+     -ms-transform: translate(0px,0px); /* IE 9 */
+    -webkit-transform: translate(0px,0px); /* Safari */
 }
 
 .project-thumbnail {
@@ -298,18 +300,22 @@ h1 {
 
 .all {
     visibility: hidden;
-    -ms-transform: translate(0px,10px); /* IE 9 */
-    -webkit-transform: translate(0px,10px); /* Safari */
-    transform: translate(0px,100px); /* Standard syntax */
+    -ms-transform: translate(100px,0px); /* IE 9 */
+    -webkit-transform: translate(100px,0px); /* Safari */
+    transform: translate(100px,0px); /* Standard syntax */
     position: fixed;
 }
 
 .show {
     transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
     position: relative;
     left: 0px;
     visibility: visible;
     transform: translate(0px,0px); /* Standard syntax */
+    -ms-transform: translate(0px,0px); /* IE 9 */
+    -webkit-transform: translate(0px,0px); /* Safari */
 }
 
 
