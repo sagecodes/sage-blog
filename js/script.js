@@ -18,6 +18,7 @@ $(document).ready(function(){
     if(document.location.hash) {
         $(".all").removeClass('show');
         $(subjectclass +'-tag').addClass('show');
+        // $(subjectclass +'-link').addClass('active');
     } else {
         $(".all").addClass('show');
     }

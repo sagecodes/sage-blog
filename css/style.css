@@ -290,13 +290,14 @@ h1 {
     color: #606060;
 }
 
-.footer-margin {
-}
 
 
 
 
 /*BLOG*/
+
+
+
 
 .all {
     visibility: hidden;
@@ -319,4 +320,8 @@ h1 {
 }
 
 
+.active, .active:visited{
+background-color: #828282;
+color: red;
+}
 

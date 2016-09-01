@@ -9,7 +9,7 @@
 title: Sage Elliott
 email: mailto:hello@sageelliott.com
 description: I make things.
-baseurl: '/sage-blog'
+# baseurl: '/sage-blog'
 url: "http://sageelliott.com" # the base hostname & protocol for your site
 twitter: https://twitter.com/sagecoder
 github: https://github.com/sageio
