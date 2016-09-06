@@ -20,7 +20,7 @@ permalink: /projects/
 
    <ul class="post-list">
     {% for post in site.categories.project %}
-    <div class="col-sm-6 col-lg-4">
+    <div class="col-sm-6 col-lg-4 all {% for tag in post.tags %} {{ tag }}-tag{% endfor %}">
       <div class="thumbnail project-thumbnail">
       <li>
         <h2>
@@ -31,7 +31,7 @@ permalink: /projects/
 
             {% if post.tags %}
               {% for tag in post.tags %}
-                <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+                <span class="post_tag {{ tag }}-btn"><a href="{{ site.baseurl }}/projects#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
               {% endfor %}
             {% endif %}
             <br>
