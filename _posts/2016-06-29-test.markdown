@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Conference Central"
 date:   2016-06-22
 categories: project
