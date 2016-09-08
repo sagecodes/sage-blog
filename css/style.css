@@ -331,7 +331,7 @@ h1 {
  color: #828282;
  background-color: #e8e8e8;
  padding: 10px;
-
+ line-height: 45px;
 }
  .blog-post_tag a, .blog-post_tag a:visited {
     text-decoration: none;
