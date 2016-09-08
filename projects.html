@@ -31,7 +31,7 @@ permalink: /projects/
 
             {% if post.tags %}
               {% for tag in post.tags %}
-                <span class="post_tag {{ tag }}-btn"><a href="{{ site.baseurl }}/projects#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+                <span class="post_tag {{ tag }}-btn"><a href="{{ site.baseurl }}/projects#{{ tag | slugify }}">{{ tag }}</a></span>
               {% endfor %}
             {% endif %}
             <br>
