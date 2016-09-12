@@ -224,7 +224,9 @@ h1 {
 .btn-primary {
     background: #829aa8;
     border: solid 1px #829aa8;
+    color: red;
 }
+
 
 .btn-email, .btn-twitter, .btn-github, .btn-linkedin  {
     background: none;
@@ -347,4 +349,3 @@ h1 {
 background-color: #828282;
 color: #e8e8e8;
 }
-
