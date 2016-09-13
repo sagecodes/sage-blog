@@ -10,15 +10,10 @@ body {
     height: 100%;
 }
 
-a, a:visited, a:focus {
+/*a, a:visited, a:focus {
  color: #1756a9;
-}
+}*/
 
-.container-fluid {
-    padding: 0;
-    margin: 0 auto;
-    width: 100%;
-}
 
 
 .outer-wrapper{
@@ -69,12 +64,7 @@ h3 {
     background: #f9f9f9;
 }
 
-.navbar.scrolled {
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
-    background: #f9f9f9;
-    -webkit-transition: all 0.7s ease; /* For Safari 3.1 to 6.0 */
-    transition: all 0.7s;
-}
+
 
 .navbar-collapse{
     background: #f9f9f9;
@@ -104,11 +94,8 @@ margin-bottom: 40px;
 
 
 #about {
-    /*min-height: 300px;*/
     margin: 0px 0 0px;
     padding: 0px 0 0;
-
-
 }
 
 .profile-photo {
@@ -141,11 +128,6 @@ h1 {
     margin: 0;
 }
 
-.social-buttons {
-  text-align: center;
-  margin: 0 auto 0;
-}
-
 
 /* Portfolio
 ===========================================*/
@@ -168,13 +150,11 @@ h1 {
 }
 
 .project-thumbnail {
-
     height: 235px;
     overflow: hidden;
 }
 
 .post-thumbnail {
-
     min-height: 250px;
 }
 
@@ -185,23 +165,6 @@ h1 {
 }
 
 
-.pic-frame{
-    height: 100px;
-    overflow: hidden;
-    text-align: center;
-}
-.project-picture{
-    width: 100%;
-    height: auto;
-    -webkit-transition: all 3s; /* For Safari 3.1 to 6.0 */
-    transition: all 3s;
-}
-
-.project-picture:hover{
-    -ms-transform: translate(0px,-100px); /* IE 9 */
-    -webkit-transform: translate(0px,-100px); /* Safari */
-    transform: translate(0px,-100px); /* Standard syntax */
-}
 
 .btn-wrapper {
     position:absolute;
@@ -218,14 +181,17 @@ h1 {
 .btn {
     background: none;
     box-shadow: none;
-
 }
 
 .btn-primary {
     background: #829aa8;
     border: solid 1px #829aa8;
-    color: red;
+    color: #fff;
 }
+
+ .btn-primary a, .btn-primary a:visited {
+    color: #fff;
+ }
 
 
 .btn-email, .btn-twitter, .btn-github, .btn-linkedin  {
@@ -259,22 +225,6 @@ h1 {
     color: #ffffff;
 }
 
-
-#portfolio a {
-    cursor: pointer;
-}
-/* Contact
-===========================================*/
-
-.icons {
-    margin: 0 auto 0px;
-    max-width: 160px;
-    padding: 5px 0 20px;
-}
-.icons img {
-    width: 50px;
-}
-
 /* Footer
 ===========================================*/
 
@@ -301,9 +251,6 @@ h1 {
 
 
 /*BLOG*/
-
-
-
 
 .all {
     visibility: hidden;
