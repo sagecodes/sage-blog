@@ -1,0 +1,13 @@
+---
+layout: project
+title:  "Froggerish"
+date:   2016-06-22
+categories: project
+tags: html5 canvas javascript
+author: Sage Elliott
+published: true
+demo_url: http://sageio.github.io/froggerish/
+github_url: https://github.com/sageio/froggerish
+---
+
+ An HTML5 Canvas powered video game, developed using the best practices in Object Oriented JavaScript. Extra features: Score and loss counter, increased difficulty as your score progresses, and random character sprite on page load.
