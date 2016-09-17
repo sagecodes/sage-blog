@@ -8,11 +8,19 @@ permalink: /projects/
 <!-- Display projects -->
 <section id="projects">
   <h1 class="section-header">Projects:</h1>
+  <span class="blog-post_tag all-btn"><a href="{{ site.baseurl }}/projects">all</a></span>
+    <span class="blog-post_tag python-btn"><a href="{{ site.baseurl }}/projects#{{ 'python' | slugify }}">python</a></span>
+    <span class="blog-post_tag javascript-btn"><a class="javascript-link" href="{{ site.baseurl }}/projects#{{ 'javascript' | slugify }}">javascript</a></span>
+    <span class="blog-post_tag ruby-btn"><a href="{{ site.baseurl }}/projects#{{ 'ruby' | slugify }}">ruby</a></span>
+    <span class="blog-post_tag flask-btn"><a href="{{ site.baseurl }}/projects#{{ 'flask' | slugify }}" >flask</a></span>
+    <span class="blog-post_tag aws-btn"><a href="{{ site.baseurl }}/projects#{{ 'aws' | slugify }}" >aws</a></span>
+    <br><br>
+
   <div class="row">
 
    <ul class="post-list">
     {% for post in site.categories.project %}
-    <div class="col-sm-6 col-lg-4">
+    <div class="col-sm-6 col-lg-4 all {% for tag in post.tags %} {{ tag }}-tag{% endfor %}">
       <div class="thumbnail project-thumbnail">
       <li>
         <h2>
@@ -23,16 +31,16 @@ permalink: /projects/
 
             {% if post.tags %}
               {% for tag in post.tags %}
-                <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+                <span class="post_tag {{ tag }}-btn"><a href="{{ site.baseurl }}/projects#{{ tag | slugify }}">{{ tag }}</a></span>
               {% endfor %}
             {% endif %}
             <br>
             <div class="btn-wrapper">
             {% if post.demo_url %}
-              <a class="btn btn-primary" href="{{ post.demo_url }}">Demo</a>
+              <a class="btn btn-primary" href="{{ post.demo_url }}" target="blank">Demo</a>
             {% endif %}
             {% if post.github_url %}
-              <a class="btn btn-default" href="{{ post.github_url }}">Github</a>
+              <a class="btn btn-default" href="{{ post.github_url }}" target="blank">Github</a>
             {% endif %}
           </div>
           </div>

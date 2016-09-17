@@ -8,11 +8,11 @@ layout: default
               <div class="row">
                   <div class="col-md-4">
 
-                      <img class="profile-photo" src="img/sage-min.png" alt="Sage Elliott">
+                      <img class="profile-photo" src="img/sage2016.jpg" alt="Sage Elliott">
                   </div>
                   <div class=" col-md-8">
                       <p class="intro">
-                          <span class="dropcap">H</span>ello, world! I'm a developer with a passion for exploring new technologies, great designs, and connecting people! My goal is to always be learning something new and contribute back to the world and the amazing developer community. I have a strong interest in web development, data science, dev-ops, and artificial intelligence.
+                          <span class="dropcap">H</span>ello, world! I'm a developer with a passion for exploring new technologies, great designs, and connecting people! My goal is to always be learning something new while contributing back to the world and the amazing developer community. I love web development, data science, artificial intelligence, and any technology making an impact. If you're doing something awesome and looking for someone to join your team; get in touch.
                       </p>
                   </div>
                   <div class=" col-md-7">
@@ -78,7 +78,7 @@ layout: default
   <div class="row">
 
    <ul class="post-list">
-    {% for post in site.categories.project %}
+    {% for post in site.categories.project limit:3%}
     <div class="col-sm-6 col-lg-4">
       <div class="thumbnail project-thumbnail">
       <li>
@@ -90,16 +90,16 @@ layout: default
 
             {% if post.tags %}
               {% for tag in post.tags %}
-                <span class="post_tag"><a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+                <span class="post_tag"><a href="{{ site.baseurl }}/projects#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
               {% endfor %}
             {% endif %}
             <br>
             <div class="btn-wrapper">
             {% if post.demo_url %}
-              <a class="btn btn-primary" href="{{ post.demo_url }}">Demo</a>
+              <a class="btn btn-primary" href="{{ post.demo_url }}" target="blank">Demo</a>
             {% endif %}
             {% if post.github_url %}
-              <a class="btn btn-default" href="{{ post.github_url }}">Github</a>
+              <a class="btn btn-default" href="{{ post.github_url }}" target="blank">Github</a>
             {% endif %}
           </div>
           </div>
