@@ -1,20 +1,14 @@
 ---
 layout: post
-title:  "AWS setup for flask"
-date:   2016-06-23
+title:  "AWS configuration for flask"
+date:   2016-08-16
 categories: post
 tags: aws flask python
 author: Sage Elliott
 published: true
 ---
 
-Polaroid semiotics messenger bag whatever cronut occupy. Kinfolk crucifix austin, celiac semiotics farm-to-table hoodie typewriter single-origin coffee raw denim waistcoat banjo freegan aesthetic.
-
- Taxidermy master cleanse gochujang, twee yuccie ramps celiac craft beer paleo freegan iPhone jean shorts intelligentsia gluten-free raw denim. Wolf banjo squid, yuccie stumptown trust fund truffaut pitchfork. Poutine tumblr iPhone sustainable normcore helvetica. Pitchfork offal franzen iPhone slow-carb. Chia cred kickstarter drinking vinegar artisan mumblecore.
-
-
-
-# Linux Server Configuration
+This was originally an assigned project from Udacity's full-stack nanodegree program. It seemed complicated enough to deserve a post documenting the steps taken. I hope you enjoy  setting it up from scratch as much I did!
 
 
 ### Tasks given and method for completion:
