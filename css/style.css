@@ -150,12 +150,13 @@ h1 {
 }
 
 .project-thumbnail {
-    height: 235px;
-    overflow: hidden;
+    min-height: 200px;
+    padding-bottom: 50px;
 }
 
 .post-thumbnail {
-    min-height: 250px;
+    min-height: 200px;
+    padding-bottom: 50px;
 }
 
 .post-section {
@@ -268,7 +269,7 @@ h1 {
     left: 0px;
     visibility: visible;
     transform: translate(0px,0px); /* Standard syntax */
-    -ms-transform: translate(0px,0px); /* IE 9 */
+    -ms-transform: translate(0px,0px); /* EI 9 */
     -webkit-transform: translate(0px,0px); /* Safari */
 }
 
