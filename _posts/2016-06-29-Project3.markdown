@@ -6,7 +6,7 @@ categories: project
 tags: html5 canvas javascript
 author: Sage Elliott
 published: true
-demo_url: http://sageio.github.io/froggerish/
+demo_url: http://sagecodes.github.io/froggerish/
 github_url: https://github.com/sageio/froggerish
 ---
 
