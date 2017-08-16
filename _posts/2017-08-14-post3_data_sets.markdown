@@ -8,7 +8,7 @@ author: Sage Elliott
 published: true
 ---
 
-### List of resources to get find neat data sets
+### List of resources for data sets:
 
 - [Kaggle](https://www.kaggle.com/)
 - [kdnuggets](http://www.kdnuggets.com/)
@@ -16,4 +16,4 @@ published: true
 - [Data.gov](https://www.data.gov/open-gov/)
 
 
-I'll keep this list updated as I find more resources. If you know a resource that should be listed tweet at me [@sagecodes](https://twitter.com/sagecodes).
+I'll keep this list updated as I find more resources. If you know of one that should be listed, tweet at me [@sagecodes](https://twitter.com/sagecodes).
