@@ -1,9 +1,19 @@
 ---
 layout: post
 title:  "Data Sets"
-date:   2016-06-23
+date:   2017-08-15
 categories: post
 tags: data
 author: Sage Elliott
-published: false
+published: true
 ---
+
+### List of resources to get find neat data sets
+
+- [Kaggle](https://www.kaggle.com/)
+- [kdnuggets](http://www.kdnuggets.com/)
+- [r/datasets](https://www.reddit.com/r/datasets/)
+- [Data.gov](https://www.data.gov/open-gov/)
+
+
+I'll keep this list updated as I find more resources. If you know a resource that should be listed tweet at me [@sagecodes](https://twitter.com/sagecodes).
