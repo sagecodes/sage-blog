@@ -5,7 +5,7 @@ date:   2018-06-11
 categories: post
 tags: git
 author: Sage Elliott
-published: false
+published: true
 ---
 
 # Git & Github Commands
@@ -27,16 +27,26 @@ esc to get back to where to save and exit `:wq` (enter)
 
 ## First time setup
 
+###
+Config
+`git config --global user.email email@example.com`
+`git config --global user.name first last`
+
+### repo setup
 - `git init`
 - `git add .` to add all files in directory or use `git add fileName` to add individual files
 - `git commit -m"initial commit`
-- `git add remote origin `
+- `git remote add origin guthuburl`
 - `git push -u origin master`
 
 ## .gitignore
 create file in directory called `.gitignore`
+
 ### File Contents
 - `file_name` will not add file here to 
+- `**/folderName` anything in `folderName` 
+- `*.fileType` anything that is `fileType`
 
+### Common contents in .gitignore:
 
-## Others
+`.DS_Store`
