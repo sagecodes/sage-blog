@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "git commands"
+title:  "Git & Github commands"
 date:   2018-06-11
 categories: post
 tags: git
@@ -8,12 +8,11 @@ author: Sage Elliott
 published: true
 ---
 
-# Git & Github Commands
 I forget a lot of things including git commands...
 Here is a reference I made mostly for myself or when setting people with git & github for the first time:
 
 ## The usual suspects
-commands often use:
+commands often used:
 
 - `git add .` add all unstaged files
 - `git commit -m"message here"` commit message
@@ -25,12 +24,12 @@ commands often use:
 	- `i` to enter interactive mode in vim
 esc to get back to where to save and exit `:wq` (enter)
 
+
 ## First time setup
 
-###
-Config
-`git config --global user.email email@example.com`
-`git config --global user.name first last`
+### Config
+- `git config --global user.email email@example.com`
+- `git config --global user.name first last`
 
 ### repo setup
 - `git init`
