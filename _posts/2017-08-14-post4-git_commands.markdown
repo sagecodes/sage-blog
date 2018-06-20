@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Git & Github commands"
+permalink: /git-github-commands/
 date:   2018-06-11
 categories: post
 tags: git
