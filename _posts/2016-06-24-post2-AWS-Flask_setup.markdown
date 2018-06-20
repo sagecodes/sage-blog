@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "AWS configuration for flask"
+permalink: /AWS-configuration-for-flask/
 date:   2016-08-16
 categories: post
 tags: aws flask python

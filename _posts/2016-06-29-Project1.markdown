@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "Conference Central"
+permalink: /Conference-Central/
 date:   2016-06-22
 categories: project
 tags: python AppEngine

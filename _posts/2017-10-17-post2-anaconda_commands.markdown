@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Anaconda Commands"
+permalink: /Anaconda Commands/
 date:   2016-06-23
 categories: post
 tags: python anaconda

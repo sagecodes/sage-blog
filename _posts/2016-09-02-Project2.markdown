@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "Dev Profile"
+permalink: /Dev-Profile/
 date:   2016-06-22
 categories: project
 tags: python flask postgres

@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "Froggerish"
+permalink: /Froggerish/
 date:   2016-06-22
 categories: project
 tags: html5 canvas javascript
