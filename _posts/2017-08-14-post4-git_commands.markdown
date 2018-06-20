@@ -34,8 +34,8 @@ esc to get back to where to save and exit `:wq` (enter)
 ### repo setup
 - `git init`
 - `git add .` to add all files in directory or use `git add fileName` to add individual files
-- `git commit -m"initial commit`
-- `git remote add origin guthuburl`
+- `git commit -m"initial commit"`
+- `git remote add origin github_url`
 - `git push -u origin master`
 
 ## .gitignore
