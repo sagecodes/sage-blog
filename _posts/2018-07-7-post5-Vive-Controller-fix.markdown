@@ -2,31 +2,78 @@
 layout: post
 title:  "Vive Controller Fix"
 permalink: /vive-controller-fix/
-date:   2018-07-07
+date:   2018-07-09
 categories: post
 tags: vr, vive
 author: Sage Elliott
-published: false
+published: true
 ---
 
-# Vive Controller Fix
+# How I broke and fixed(mostly) a vive controller
 
 ## What Happened
 
-I set my vive up in a new location. What I though would be the best spot out my limited options. Of course I had to make sure everything worked by playing a couple rounds of [Beat Saber](). During only my 2nd round I hit the controller pretty hard on the kitchen bar edge. 
+I set my vive up in a new location. What I though would be the best spot out my limited options. Of course I had to make sure everything worked by playing a couple rounds of [Beat Saber](http://www.beatsaber.com/). During only my 2nd round I hit the controller pretty hard on the kitchen bar edge. After doing this the controller stopped tracking completely. :(
 
-*picture of after math
+
+Picture of the damage on the outside:
+![vive controller damage](https://lh3.googleusercontent.com/W4Y9x-FBqQk-HACsHIsMKIqu0tTvhb1qUhSA030tciB6rbfyAN4x-7FS_HqCnCRY9q76gv4SYBabedG66VOhJnWYoam41ycA48AhHJCAV-rg8UNn2iYrq3nvXCwo_isiuQHTOhE5ME3c-qVajF5gjSUWP75usJkM8PWFR2QWSNt0K3VPTeMYniyzfsxvrNzTK2NJbC2CFfVrvgUAZOytOiyjCLW_4HBMET1n0eZ8TU8ahxTCN0lWuIlLhDXarZtK_mx72ucbSNSm4RSti9aobi-e2RjzgRfF1gvei9MfxDBvgc-_RSHBa3gCEetxJmFZgVth50XMg7Qzs6kLhL7suFXzKeXakZUl0UtvLhio6Ep-totuZqhCt4jhYoHoQWKeEt9cU6NOo8W8nJgd52HWtYg9hKT0xDctycNzrsByYeJRr1NjRT2lfTzanaxDSpvPO12EoXfAmXDnpLqnMqG5IKwZ4AFZGOjcepZ6JS4RvMrefdlvDjeJfC5hHwHZZ-2Hf4Klsi0H9UmFzh-a6v3wfgserHGxReHk62MovM9q3iPISF_5s0E0J3Qjyy4YE2wEaFjt3mGfdYBtPjcqXKLzEBV7Tl2DRlNcfuQdRVW5=w906-h735-no) 
+
+Replication of how I hit it:
+![broke vive controller](https://lh3.googleusercontent.com/COy5TZVFkd29tt-P3C0VCkJZm5eySflDuI16ocifrLJiVqV9rPpx8TPmGLpCAplPAmv898p-kH_0vTPh88weKS-z-P5xdZC2BfIMsd8yM9qZfBeyB1Bwpc81nxynYQgkkFo3guVdR9Jus01XDKrqA6Yi_535b1Pqn9iGQdZx72ld2GvKqoqL9YMGt4NJxJgiiPfeOoYnFuvL8GrizeB1WabZPM_y57TJ9Vo5ubB1kk72wzu1PeLb1i3DsNwD88vEZD7HraG4aXttS7Gz1iVx3r0VzRudhK-cd-oPbTe60tgVX3r_P5qD5ZZlR3ugXtve6b4zyVxDWCozJdTntbMdLOH-yg1PnYupNXNR6ak3vIZXKcUXf-tlJoE6mRvSUu0YfCDMXRSIiFfOTuJRRDZFuTNKhT2MCpOkkqQu_Jfv7KG_TY6L3KdiGinYX4kn5IOO9nNxkUn_Vi7XzDhzXpoX3rIW1vqC7vbsDlxzBCS6yS_As6TtCKBGSIgts27Vg9CMQsuEKnGQaZM5VpwaJXDpYkGeVxsq59cNxnlM4obMvFKq-D88mrr9J9WCiyzYBuVcr0TujuNDXFHNxiiv2Lilc0iC-WcgsI7S73NxFNjV=w1070-h735-no)
 
 ## Taking it apart
 
-*pictures and steps
+Heres what i did... Don't blame me if you break your controller even more!
+
+What I needed:
+
+- T5 Screwdriver
+- To get over my fear of taking it apart
+
+I removed the first 5 screws located on the bottom of screwdriver(One screw has a stick on it. I believe to show you voided your warranty).
+![vive controller Screws](https://lh3.googleusercontent.com/um2kEgLzel0CxTfgJ_HkxyyVbLvfhPMqXumKI6STbwoNx2k8M5Elll_YGaAOEhzcjGJroOqRtJrxhcdbJ1huETeWqeepw1VdpxGobnsV1tTgBd2KTPe_CucwcOxSKsC6c3y4s-u6ePPhNQx9FRjFGDJxGy4JqELM14zC2Bihi3TaZ_TlrP4XI93XTMUECuGpQ7yxPlbVDgNrdTcOCadtgLlwV-T_0OUioUKIrwS6pmHIBTSy2U_B0k3xuo_NBqajF2ehFCZGq44a4NYMHbKeOYEHTsgfS9WLwo60z5Kbjh5nhzgSyXPRhLiPwFTIV3QsNwX8gkz9e1TfVfg9KyWNGSWnGJY8v74Kbf677UHMyVVg0wgAgRWwL7JGs6I_VlU44pcBOGmUHBefyP92Kq-OFSvzjlqk44WJKW1xdZAr5Vnj848la_twsCmhsoqWE1R9X_N9usXDKLf1M0m5PK75mFuW1I5_jGOA_cS9JlgOLvz_8jejidtPFRSEbHFsHFcCtO7DycdE5eZp7WEoePr1ur42a4a8IE8U_wV5_O2DBVZ8I67nvxTJrxCiZK7LQVgg9ZwoFyCl_mg-VaY3MGfV_nMDG5VRAGE-P2YkBiXw=w388-h735-no)
+
+This top part of the circle came off pretty easy for me. You may need to pull up multiple sides for it to come all the off:
+
+![vive controller top](https://lh3.googleusercontent.com/6rULOSffAs8VhMvU1Akc_Mfj-ALvrhXo9WuQnSvSYHo8vWDNjulscomWvXQRfvV8NSsnrPW80NWzLytQepSsWvQgOP83iy89u90AY9HrcL1tLHUnAC1cEzO4KhAyGf-9Vjpwkc3MKDfJsFTw_20WuUPugxIIjg1Z7YPfmCHUCXO55rBQomDLVSRH5kwIuehgJXmEd5CF1rIyefh1j6hpxWZoFBl9U3QP79L2feAWgXkkUI6faGS3bGgrug_DmQtR5vGALjC-9JHIFNSpgB2a1ehz38pQI8cPnSu-YH8M1PbBEOircxPOPuhhZb6-eaaZ5n7dB82w31-BvxIkbC_Z-t-eF4J2te6edPRvkW_WnDxVM-abVoKpBpjiqc_owpnaoqIwAMIefiae2t9k9lh43h1x6A_DCZFAyP4q7hYYGXPkjKJRMacdBMDqnMoJPbKReoELIAbeYRjvyNrPZq0Q1A2DKhI8SP8w7W42PJCjbTm-jWMJSXxWG-e0J94sG3dDrJo_geWcilNEta2bV1RkApMTm9UrWrasrKI9urbY4KvH_HiqmgN5muV6X2zMgvcC2FmsGtyt-v5FmNCAWsgiyf4nzFiWnN9jApr-qP_l=w358-h735-no)
+
+![vive controller side](https://lh3.googleusercontent.com/zd2k9qrRzbgKN8uqVjHGoUM1T3PjKFX4RZQrgq1W_EM2yKL0wgxrj6iaYzs7v0p3V9YRkIU41P6j-TNTQX7eHTTBY3Aqw8f1AnuPBIGU32UTsHArVUrQ3e-X1taMeZZpGz0TTM-5lum7zEK7i2_NCMn9oNEs4uhtsjhAwF0zFTPn3IsPU0NaHV26YR_aFEXup3p3Dwz1oS3wnrKGo5F9FoEwBfI-NOT4dQk_mXrTlERbbFkNv2PC9-XRueLN8oqBfPtDFdUkk7QM3X0LVMuELV7lgrZsyOyVwc7H_tCdZa8gCRevLT0r7ouTyjNZrbdMBDZnXf9ez4H5O_bLiVzQd0YTGnKjEyAOAcPML3sVeXnSsQ9tp4DRzY8V6Gf4QAIXsFaBqE_G8lI2l9rgB908kJV8tcZtuUcIrVQeMARjima7bP-MuEAOl1qh_59iR3TonFf65PFheJY3vAQroOdMFYi9oNszHa2CQwoQRtkFDJ0rZ52--XA62bOxtUIUjFluyDuAJvcXYAcxy3evmpTO1JoCGKA9cEIEC_4TYuzPhiu5tyZMui3QiNihIXDmo7sykVINI3I2Wy-EJz2sWO4s5oPMnCEaTuimBVOP_W3S=w358-h735-no)
+
+
+Next these 3 screws needs to be removed:
+
+![vive controller screws](https://lh3.googleusercontent.com/QH773tHJ_bWIaZkYUPbQqMl4dRD4sK_OEToutMnyUE_fl2JoVKcoQJs1TzTJ6sBPyCWtVXsoAvbIdVJ1Zu6z2k-eqDfKJ5ZjU5ElmyZu8yZuiVfDHbYuAyoqvyzSvFRL2zpjV3nmVtlE_cm-SR0UwsLbR1YnZU4pf4tJJcnZK6Bz30S4xWaJmmvA21kw_jsonyG4r1YZpt0PFO3L2V83SUGQRXEkBkSIL-aK-b-vkbAF4zCBP7QYpMkyi6lkGJqWGV1Yw5XlWX99m_wHNpcY3mfpRCwCbwAoGEmdIzBmR7K-q2m9PT9r3gZVhWzylHSoZog_biNvHzbhYJZkQdqtBXD2-qTOXxCFJ0KOP02RDBhCmpc8TsjumxrL4mSJ5DHTjHQxcLJWmt-k35NMzGUnXxKyU8ejCLcmqmdY40OEo0aEzVRNcRDckv9aqKLRNC_BCV7NgovNSBOdukuvVe1HrA78mW1E4XouA29TG8Nd1Djwic-J0Ll0Tg7RseFXj5nofbgFYbezsslyCSu71LwapfPusEORLugndZCV-0sDT7nb_qtvE_FbjIWByIEGm7fw1FZvDTN4sz21DLsV8SBXucS4vTcPNwYCdnyUYvnH=w636-h735-no)
+
+Ooooh the top part is so cool looking!
+
+![vive controller top](https://lh3.googleusercontent.com/B3rq1nDVkGr0zADU8stF25J40dQbCI0xyeMtaKhaLD38NYarSSgAMNnQImSYtUvztx7kd-7zA1XM9FDxr0NneigNI5GUX7TU-iyck9B61741PgtAuAgF5YJ11NWXZtmYpQ_5v6YpZdu_RptmIPvKtYcXAYB8TpaG70t_v_-23Z93LuUriq60L1TBspr4Jlb69fLXUQLh38nwK321HBvvVWWlKQIqtOrrjT60phnV6gS3oIiV5EorE84-lWO7YaMJpcw5at9jGKkT45AkAx5SCihL_828DPjUIyZkmNCH4k8AuX100ZxUi8EcliPVvfPeExeKUfrXPmNjGssmHSCH3Ui1i0xXFttdSr-ZQHj2OVMGjSUaNCdHM6H_okvbmZ9HsxqWeuP1tX4xcX3aDG1QwaFS7Bk-3wvCXcgTxznOzUBVbX-GYu0s3b_0p5zHEBomqV-fT1m_5MQdZ3d452fBCRQkX17Xk4x1eX3kGuijdXaJNU8i-Rrcn5rLCV9p4tA1gf_RrYqzVWarMOnlzVaBXiE5kBz4sx0IS_fF6Kk8h0MqQpQPi9Bl7PbZldNo1jrhwgITFB_rJMbrd0Lx45-shZw77-cC4aw0A0NcZ8S-=w358-h735-no)
+
+The bottom of the circle was the hardest part for me to take off. I ended up squeezing the sides the protrude out and pulling hard hoping for the best. the piece came off without breaking.
+
+![vive controller side](https://lh3.googleusercontent.com/fOneGpn5CtBKKWwhwMiJYj1LFjhx0gM6j4NCMX6BfMwAai31-QrknGq51LAj2Ndtnu-4f-uA-ZdGSohfzFZcj7gNbMARwNmaz4ce6wwvwL4oFN2T5k4H9VVqj_pZvk9UrUeC76Zp3BSZ_LP7DUyWVe7rJz0PHUMok_482Yt3fFyxvVf4YPuBCqJrSwf0deS1K-zi-_c0bhdViiZZpHvQehkTW44dsfWr4ec1C8j8WuDWGUe2SW9r7PvjHMYf5CkRdQ_P2oZfBIU1btd6H-atLcIaLFKmRr-V6aqYi5XI1vylNLzKAml1Egqc5f-0k55GX7w0Bz_nRBfZ_BPzOpLcbyuTekSAWsCG9MR9S9XU4rcJVCIHJKkRvxty-NmqjreYgWFYAHwC_LuPipTEqWENqJIwAOhbFvAmwEMiZgP6waQy6jL1dQaPa1QGikB76CFPHlJpXn4wlJwHTvORtdm8pbUtDQ-sIxPEinAAUW8zpVSae2gx96mosfDt9kWahGRG9ccAM2SdzWeAVMpxiIZ0Q2pFJPPPoDKCEdYFbZ36DUzvR2G2B-1wqnTRKlq9DBW5mEit8_SGjrpk2rHkVf_r_e7QgjvOMIT57EyL4EWG=w358-h735-no)
+
+The last 3 screws! The one highlighted by a poorly drawn exclamation point actually holds the entire circle part onto the handle. If your ribbon cables are all the way disconnected the entire circle with sensors mounted will fall... so make sure it doesn't have a ways to go.
+
+![vive controller screws](https://lh3.googleusercontent.com/eoZ8clQB5XUOpSyJgGVVOT1duUmwseNFk3RiPALh9n1zx4PHrxL6LCqYAtQYNvgAtDCtKTEY03YaetAIzf-pfcmzLcEBpxxDt3HzZxL45CNDcPydsuumGm6Pm8U0A2EtIt28aYwHcEjtSuuVFSJcqbeHmIYYpbhnYF6yAF9f5Ysi5NFcPmgqQUBIa05iIbN8GjrJL07nvOhqML11wIaPe_yCyW8osOpcI0QnLtRE85UcunCpWjQlKXN5Nj4uR2yGtcrkPeF1WA6sjZtGUzFcst6_nIv3Lru46Oibnups3Nms2MGpc06t121nv0jFIDHX_E9VUJkDwPZbBSHRG4UH_Ggx5XgTeB44W1wbNYFSVCoPaTpFcrQeE6GZV5z6BvNcry7JYj-sBkMUXSeqXie9zNzN6gCUk_4vNP502ED7wdFELMhITOU6k8e13DpfTaYY0pIz62nz5MRltNVwgG3HYEU4uOg_hOn2II9JiGr-AP7FBQ9qvSoNgWJXu_Sxw9_NMt0rmJRwHPusVlevA4TOdt0ldgXlQkD8P8ATHQzNTuYzVZaT5t3FVMSyGs_vg5jIbv9HMrL3LPv8QVF1UxObuWZo4Jc5VTloyoreexPT=w358-h735-no)
+
+The top of the handle should now open when you pry it apart:
+
+![vive controller opened](https://lh3.googleusercontent.com/BNslg4a3qdqLTkUPfngkXK3gwfPSdiF7kzxGLzqD168mo2JeMt-Q3907TNiOL9QFQSqLlJW3uVp35DH9T9vo3swAs1kZ-4ifc0tDZeF9ftgXtkXKPdHIl58HwCSfbdz_YtaQjFGBGUFAPGwEw8KDc4ZLpa6PTaX8VIplthk43eOg2FiCODyKK6HZgZvHxGG3PwvaMrqf98YKrNt0wwOhkU8adHjKu0frBvcgirPzjJ6ycGjRn5p6pXBbOM8q6POWVudS8IZ-fFEY6wxUqNDhhkEvM9t3tfJrC5RexyL5-Ma1Sb12YRxeOGLLNAwwoaYwkCTPGIkaTUDDVsz361BUukuXijVeamzBeYF451AM18za_lYQ1JTaneyImz5AJi_zvfRlXrzo5yRQr9dBUNusCrcILIaWPanJGdfiuffcBrlsbq6dNfCwo7WCzKcZtMdNkvoquALVgDnuzk2GBECG8qELyRLkUbF5-QXwaFx4c88ehcEcFFBprj8gqNHYmVL2udPWpSmiFTiyOJdXyeflhXFtXoj_9xjWtlVjC8FpACgdBLcPePE8YbZqOtreRO4x3v6ZNGQC5VW_WwaUvq3I6wdq0sAdNbrxu4D1J_Xm=w1413-h687-no)
 
 ## The fix
 
-Ribbon Cables
+For my controller both of these ribbon cables were entirely pulled out from their sockets.
 
-* pictures and steps
+I lifted up the small white tab on each one, reinserted the cables, and closed the tabs. 
+
+![vive controller ribbon cables](https://lh3.googleusercontent.com/au3uIlix2MbwpupXUCusVfKjMmDVEKeT_TRhHwa1n6luTmu-W1tyi6rpe2w6hx0Pi1rQlHhVHFftayC9SJFHwQsOruGbeTf-W86D2x_yLP1MwfAeX8Ktc70qpmEcZzx9EE7_Ka4_IAxSPe9DJhv23ozXgNtL7PM_dxjCeBFqVjD5j2WB0o9vxA2gUi5SMR0PUcn9_TRoxikv1P6olz-gHohNDMDxwvVcKR08lxDB4XhJOSymaDm-7OXHXhhWcPdpcxJxskuG57_EiX2DeM8OGkgciS3QYbYB-VRcN5YoM6yUwWDpfM4vpmsKwfq2L_PY5hR5Qh3SlvR-d9D0A-GWaq2kykzNZ7qDYjtMVivw4F59_G2hYQye-KuZtedih9533XtP46wEpM2O1iLXBjqwwdQ3GVcoviNATDz0zKRtOGbOoRYVog-eLUGTAmVN-gLAX3WBZoYrc3dluLrLXtpk_3RB6WfCA1kwoUt4QEDi-HAnAGbOnF3xcgCoYBO-uM-U9G6lzng3val7yFkS1Ebkv3SrbjxU31Gslq7IVxxsrQXqhUFqrBGPCXMsFmeW-Y5Z7eYQOR3Fjy3iakI4eoLMJQR9h0E0_qWDNqAqAUb1=w1413-h687-no)
+
+Then I put everything else back the way I found it. 
 
 ## It worked!
 
-Hey it worked! The controller is now tracking again! The audio and haptic feedback no longer on the controller though... Likely damaged during the impact, but it could of also been from me opening up everything and maybe not being as careful as I should have been. 
+Hey it worked! My controller is now tracking again! The audio and haptic feedback no longer work though... Likely damaged during the impact, but it could of also been from me opening up everything and maybe not being as careful as I should have been. 
+
+### Questions or comments? Tweet at me!
+[@sagecodes](https://twitter.com/sagecodes)
