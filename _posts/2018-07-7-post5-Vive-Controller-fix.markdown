@@ -4,7 +4,7 @@ title:  "Vive Controller Fix"
 permalink: /vive-controller-fix/
 date:   2018-07-09
 categories: post
-tags: vr, vive
+tags: vr vive
 author: Sage Elliott
 published: true
 ---
@@ -33,7 +33,7 @@ What I needed:
 - T5 Screwdriver
 - To get over my fear of taking it apart
 
-I removed the first 5 screws located on the bottom of screwdriver(One screw has a stick on it. I believe to show you voided your warranty).
+I removed the first 5 screws located on the bottom of screwdriver(One screw has a stick on it. I believe to show you voided your warranty). A friend shared this [article](https://motherboard.vice.com/en_us/article/ne9qdq/warranty-void-if-removed-stickers-illegal-ftc) with me after this post about warranty void stickers. You may fiind it interesting.
 
 ![vive controller Screws](https://lh3.googleusercontent.com/um2kEgLzel0CxTfgJ_HkxyyVbLvfhPMqXumKI6STbwoNx2k8M5Elll_YGaAOEhzcjGJroOqRtJrxhcdbJ1huETeWqeepw1VdpxGobnsV1tTgBd2KTPe_CucwcOxSKsC6c3y4s-u6ePPhNQx9FRjFGDJxGy4JqELM14zC2Bihi3TaZ_TlrP4XI93XTMUECuGpQ7yxPlbVDgNrdTcOCadtgLlwV-T_0OUioUKIrwS6pmHIBTSy2U_B0k3xuo_NBqajF2ehFCZGq44a4NYMHbKeOYEHTsgfS9WLwo60z5Kbjh5nhzgSyXPRhLiPwFTIV3QsNwX8gkz9e1TfVfg9KyWNGSWnGJY8v74Kbf677UHMyVVg0wgAgRWwL7JGs6I_VlU44pcBOGmUHBefyP92Kq-OFSvzjlqk44WJKW1xdZAr5Vnj848la_twsCmhsoqWE1R9X_N9usXDKLf1M0m5PK75mFuW1I5_jGOA_cS9JlgOLvz_8jejidtPFRSEbHFsHFcCtO7DycdE5eZp7WEoePr1ur42a4a8IE8U_wV5_O2DBVZ8I67nvxTJrxCiZK7LQVgg9ZwoFyCl_mg-VaY3MGfV_nMDG5VRAGE-P2YkBiXw=w388-h735-no)
 
