@@ -5,7 +5,7 @@ permalink: /intro-git/
 categories: event
 author: Sage Elliott
 link: https://www.meetup.com/meetup-datascience/events/248152512/
-recording: https://entreprov.com/machine-learning-in-retail-live-discussion-panel-update/
+recording: https://entreprov.com/machine-learning-in-retail-live-discussion-panel-live-recording/
 displaydate: 05/31/2018 
 time: 5:00pm
 published: true
