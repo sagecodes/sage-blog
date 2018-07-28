@@ -3,7 +3,7 @@ layout: speaking
 title:  "Machine Learning in Retail: Live Discussion Panel"
 
 categories: event
-date:   2018-07-25
+date:   2018-05-31
 author: Sage Elliott
 link: https://www.meetup.com/meetup-datascience/events/248152512/
 recording: https://entreprov.com/machine-learning-in-retail-live-discussion-panel-live-recording/

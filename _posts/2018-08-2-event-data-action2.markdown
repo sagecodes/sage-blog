@@ -2,7 +2,7 @@
 layout: speaking
 title:  "How To Apply Machine Learning in Retail: Discussion Panel"
 categories: event
-date:   2018-07-25
+date:   2018-08-02
 author: Sage Elliott
 link: https://www.meetup.com/meetup-datascience/events/ttrjlpyxlbdb/
 displaydate: 08/02/2018 

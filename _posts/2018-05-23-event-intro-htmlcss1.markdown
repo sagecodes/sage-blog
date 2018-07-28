@@ -3,7 +3,7 @@ layout: speaking
 title:  "Learn to Code Seattle Workshop: Intro to HTML & CSS"
 categories: event
 author: Sage Elliott
-date:   2018-07-25
+date:   2018-05-23
 link: https://www.eventbrite.com/e/learn-to-code-seattle-workshop-intro-to-html-css-523-tickets-45979322391#
 displaydate: 05/23/2018 
 time: 6:30pm
