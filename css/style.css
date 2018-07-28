@@ -1,5 +1,9 @@
 /* General styles
 ===========================================*/
+/* * {
+    border:1px solid red;
+} */
+
 
 * {
     box-shadow: none;
@@ -303,3 +307,4 @@ h1 {
 background-color: #828282;
 color: #e8e8e8;
 }
+
