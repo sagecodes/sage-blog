@@ -8,6 +8,11 @@ author: Sage Elliott
 published: true
 ---
 
+
+Going to meetups is an amazing way to meet new people, learn new skills, and find new career opportunities. Attending meetups is my number one tip when job searching!
+
+I get asked a lot about what meetups are worth going attending. It can be time consuming and sometimes hard to keep up with all of them going on in Seattle, so I'm creating a weekly list of meetups I think are notable and hopefully worth your time to check out! Go out and talk to people! Am I missing any notable meetups? Tweet at me! [@sagecodes]({{site.twitter}})
+
 ### 7/30/2018 - 8/5/2018
 
 - [Practicing Coding Interviews](https://www.meetup.com/PSPPython/events/250691731/) - Monday, July 30, 2018
