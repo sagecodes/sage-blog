@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Learn to Code Seattle Workshop: Intro to Javsscript"
+title:  "Learn to Code Seattle Workshop: Intro to Javascript"
 categories: event
 author: Sage Elliott
 date:   2018-10-04
