@@ -13,6 +13,65 @@ Going to meetups is an amazing way to meet new people, learn new skills, and fin
 
 I get asked a lot about what meetups are worth attending in the Seattle area. It can be time consuming and sometimes hard to keep up with all of them going on in Seattle, so I'm creating a weekly list of meetups I think are notable and hopefully worth your time to check out! Go out and talk to people! Am I missing any notable meetups? Tweet at me! [@sagecodes]({{site.twitter}})
 
+
+### 8/13/2018 - 8/19/2018
+
+- [[WAW] Work on Your Startup](https://www.meetup.com/WorkAfterWork/events/253571172/) - Monday, August 13, 2018
+5:00 PM to 8:30 PM
+
+
+- [Hack Night @ WeWork Denny Triangle](https://www.meetup.com/seattlejshackers/events/253618476/) - Monday, August 13, 2018
+5:30 PM to 8:30 PM
+
+- [Practicing Coding Interviews](https://www.meetup.com/PSPPython/events/252185366/) - Monday, August 13, 2018
+6:30 PM to 8:00 PM
+
+- [Seattle Rust Monthly meetup](https://www.meetup.com/Seattle-Rust-Meetup/events/252350462/) - Monday, August 13, 2018
+6:30 PM to 9:00 PM
+
+- [Tech career mentoring](https://www.meetup.com/Seattle-Tech-Mentors/events/252851996/) - Monday, August 13, 2018
+7:15 PM to 8:15 PM
+
+- [Learn to Code: Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/253387688/) - Tuesday, August 14, 2018
+6:30 PM to 8:30 PM
+
+- [Seattle Startup Open Coffee](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/253399077/) - Tuesday, August 14, 2018
+8:30 AM to 11:30 AM
+
+- [New Tech Seattle](https://www.meetup.com/NewTechSeattle/events/248746901/) - Tuesday, August 14, 2018
+5:30 PM to 8:00 PM
+
+- [Exploring the Tech Hiring Process with Lara Miller](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/246940617/) - Tuesday, August 14, 2018
+6:00 PM to 8:00 PM
+
+- [Community Hack Night](https://www.meetup.com/seattlejshackers/events/253317142/) - Tuesday, August 14, 2018
+6:00 PM to 8:00 PM
+
+- [Seattle Indies Social](https://www.meetup.com/SeattleIndies/events/252993809/) - Tuesday, August 14, 2018
+7:00 PM to 10:30 PM
+
+- [Learn to Code Seattle Workshop: Intro to HTML & CSS (8.15)](https://www.meetup.com/Learn-Code-Seattle/events/253432004/) - Wednesday, August 15, 2018
+6:30 PM to 8:30 PM
+
+- [Seattle Beer&&Code](https://www.meetup.com/Beer-Code-Seattle/events/dfmznnyxlbtb/) - Wednesday, August 15, 2018
+6:00 PM to 9:00 PM
+
+- [ Data Warehouse Built for the Cloud](https://www.meetup.com/Big-Data-Bellevue-BDB/events/252367649/) - Wednesday, August 15, 2018
+6:30 PM to 8:00 PM
+
+- [PuPPy Programming Night](https://www.meetup.com/PSPPython/events/253229361/) - Thursday, August 16, 2018
+6:30 PM to 8:45 PM
+
+- [Introduction to Machine Learning - Workshop](https://www.meetup.com/PSPPython/events/252531409/) - Saturday, August 18, 2018
+9:30 AM to 5:30 PM
+
+- [Indie Support Group](https://www.meetup.com/SeattleIndies/events/253737501/) - Saturday, August 18, 2018
+1:00 PM to 6:00 PM
+
+- [Modern PHP for Junior Devs](https://www.meetup.com/seaphp/events/253700677/) - Sunday, August 19, 2018
+10:00 AM to 1:00 PM
+
+
 ### 8/6/2018 - 8/12/2018
 
 - [Work on Your Startup](https://www.meetup.com/WorkAfterWork/events/253078574/) - Monday, August 6, 2018 5:00 PM to 8:30 PM
