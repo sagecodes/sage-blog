@@ -13,6 +13,92 @@ Going to meetups is an amazing way to meet new people, learn new skills, and fin
 
 I get asked a lot about what meetups are worth attending in the Seattle area. It can be time consuming and sometimes hard to keep up with all of them going on in Seattle, so I'm creating a weekly list of meetups I think are notable and hopefully worth your time to check out! Go out and talk to people! Am I missing any notable meetups? Tweet at me! [@sagecodes]({{site.twitter}})
 
+### 8/20/2018 - 8/26/2018
+
+- [Connect with Web Designers and Clients!](https://www.meetup.com/Webdevelopersofseattle/events/252856983/) - Monday, August 20, 2018
+5:00 PM to 6:30 PM
+
+- [[WAW] Work on Your Startup](https://www.meetup.com/WorkAfterWork/events/253574032/) - Monday, August 20, 2018
+5:30 PM to 8:30 PM
+
+- [EastSide HackNight / Learning Circles 💞💯](https://www.meetup.com/Seattle-PyLadies/events/253219734/) - Monday, August 20, 2018
+6:00 PM to 8:00 PM
+
+- [Practicing Coding Interviews](https://www.meetup.com/PSPPython/events/253232173/) - Monday, August 20, 2018
+6:30 PM to 8:00 PM
+
+- [Dragonchain x KeepKey](https://www.meetup.com/blockchain-seattle/events/253559616/) - Monday, August 20, 2018
+6:30 PM to 8:30 PM
+
+- [Learn to Code: Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/253455813/) - Tuesday, August 21, 2018
+6:30 PM to 8:30 PM
+
+- [An Active Learning Approach to Image Recognition](https://www.meetup.com/aittg-seattle/events/253682708/) - Tuesday, August 21, 2018
+10:00 AM to 11:00 AM
+
+- [Product Management Live Chat by Amazon Senior Product Manager](https://www.meetup.com/product-management-seattle/events/253296801/) - Tuesday, August 21, 2018
+11:15 AM to 12:00 PM
+
+- [Community Hack Night @ Code Fellows](https://www.meetup.com/seattlejshackers/events/253592928/) - Tuesday, August 21, 2018
+6:00 PM to 8:00 PM
+
+- [WooCommerce Lightning Talks & Help Desk](https://www.meetup.com/SeattleWordPressMeetup/events/252124944/) - Tuesday, August 21, 2018
+6:30 PM to 8:30 PM
+
+- [Discuss: The Merkle ecosystem - Infura | Project: Further extend the React App](https://www.meetup.com/Blockchain-Smart-Contracts-Seattle-Working-Group/events/253876771/) - Tuesday, August 21, 2018
+6:30 PM to 8:30 PM
+
+- [Eastside Programming Night](https://www.meetup.com/PSPPython/events/252656692/) - Tuesday, August 21, 2018
+6:45 PM to 9:00 PM
+
+- [Ballard Tech HH](https://www.meetup.com/BallardTechHH/events/252825772/) - Wednesday, August 22, 2018
+5:30 PM to 7:30 PM
+
+- [Open Seattle Projects Night](https://www.meetup.com/openseattle/events/252754005/) - Wednesday, August 22, 2018
+6:00 PM to 8:00 PM
+
+- [Axon hosts Seattle React.js](https://www.meetup.com/seattle-react-js/events/253096715/) - Wednesday, August 22, 2018
+6:00 PM to 8:30 PM
+
+- [Unosquare & Logic20/20 Present: AI & Wine](https://www.eventbrite.com/e/unosquare-logic2020-present-ai-wine-tickets-47300068779) - Wed, August 22, 2018
+6:30 PM – 8:30 PM
+
+- [How to Balance Your Tasks As a Product Manager by Uber PM](https://www.meetup.com/product-management-seattle/events/252228850/) - Wednesday, August 22, 2018
+6:30 PM to 8:30 PM
+
+- [Angular in August @ Globant](https://www.meetup.com/Angular-Seattle/events/253595182/) - Wednesday, August 22, 2018
+6:30 PM to 8:30 PM
+
+- [PuPPy Programming Night](https://www.meetup.com/PSPPython/events/253249692/) - Thursday, August 23, 2018
+6:30 PM to 8:45 PM
+
+- [Kaggle Meetup](https://www.meetup.com/Greater-Seattle-Kaggle-Meetup/events/hbtrspyxlbfc/) - Thursday, August 23, 2018
+6:30 PM to 8:00 PM
+
+
+- [Monthly Meetup: August - Immersive Technology for the Planet](https://www.meetup.com/Seattle-VR-Demos-Experiences/events/253445128/) - Thursday, August 23, 2018
+7:00 PM to 9:00 PM
+
+- [Seattle CoffeeOps (Dev 💙Ops) Community](https://www.meetup.com/Seattle-CoffeeOps/events/252553752/) - Friday, August 24, 2018 8:00 AM to 9:30 AM
+
+- [Build Actions For Your Community - Create Actions for Google Assistant](https://www.meetup.com/aittg-seattle/events/252238707/) - Friday, August 24, 2018
+10:00 AM to 5:00 PM
+
+- [Hack the Now & Next: The Future of Retail](https://www.eventbrite.com/e/hack-the-now-next-the-future-of-retail-tickets-48221106628?aff=eac2) - Fri, Aug 24, 2018, 7:00 PM – Sat, Aug 25, 2018, 7:00 PM
+
+- [NEW! DIY User Group for Bloggers & more](https://www.meetup.com/SeattleWordPressMeetup/events/253252189/) - Saturday, August 25, 2018
+10:00 AM to 12:00 PM
+
+- [Indie Support Group](https://www.meetup.com/SeattleIndies/events/253250693/) - Saturday, August 25, 2018
+1:00 PM to 6:00 PM
+
+- [WordPress Study Group for Women](https://www.meetup.com/SeattleWordPressMeetup/events/kvkqfpyxlbhc/) - Saturday, August 25, 2018
+2:00 PM to 4:00 PM
+
+- [Sunday Coffee Break](https://www.meetup.com/seattlejshackers/events/253669471/) - Sunday, August 26, 2018
+12:00 PM to 5:00 PM
+
+
 
 ### 8/13/2018 - 8/19/2018
 
