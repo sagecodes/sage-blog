@@ -7,15 +7,18 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
   </header>
 
+  {% if page.demo_url %}
+  <a class="btn btn-primary" href="{{ page.demo_url }}" target="blank">Demo</a>
+{% endif %}
+{% if page.github_url %}
+  <a class="btn btn-default" href="{{ page.github_url }}" target="blank">Github</a>
+{% endif %}
+<br><br>
+
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
   <div>
-  {% if page.demo_url %}
-              <a class="btn btn-primary" href="{{ page.demo_url }}" target="blank">Demo</a>
-            {% endif %}
-            {% if page.github_url %}
-              <a class="btn btn-default" href="{{ page.github_url }}" target="blank">Github</a>
-            {% endif %}
+
 </div>
 </article>
