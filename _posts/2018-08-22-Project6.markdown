@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "USA Unemployment Rate"
+title:  "USA Unemployment"
 permalink: /usa-unemployment-rate/
 date:   2018-08-22
 categories: project
