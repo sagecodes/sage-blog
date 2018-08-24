@@ -13,6 +13,64 @@ Going to meetups is an amazing way to meet new people, learn new skills, and fin
 
 I get asked a lot about what meetups are worth attending in the Seattle area. It can be time consuming and sometimes hard to keep up with all of them going on in Seattle, so I'm creating a weekly list of meetups I think are notable and hopefully worth your time to check out! Go out and talk to people! Am I missing any notable meetups? Tweet at me! [@sagecodes]({{site.twitter}})
 
+### 8/27/2018 - 9/03/2018
+
+- [[WAW] Work on Your Startup](https://www.meetup.com/WorkAfterWork/events/253574035/) - Monday, August 27, 2018
+5:30 PM to 8:30 PM
+
+- [Hack Night @ WeWork Denny Triangle](https://www.meetup.com/seattlejshackers/events/253823797/) - Monday, August 27, 2018
+5:30 PM to 8:30 PM
+
+- [Practicing Coding Interviews](https://www.meetup.com/PSPPython/events/253249700/) - Monday, August 27, 2018
+6:30 PM to 8:00 PM
+
+- [Tech career mentoring](https://www.meetup.com/Seattle-Tech-Mentors/events/253729169/) - Monday, August 27, 2018
+7:15 PM to 8:15 PM
+
+- [Learn to Code: Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/253885110/) - Tuesday, August 28, 2018
+6:30 PM to 8:30 PM
+
+- [Seattle Startup Open Coffee at Galvanize](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/253466618/) - Tuesday, August 28, 2018
+8:30 AM to 11:30 AM
+
+- [Enterprise Adoption of Hyperledger Fabric](https://www.meetup.com/Hyperledger-Seattle-Chapter/events/253713537/) - Tuesday, August 28, 2018
+4:00 PM to 6:00 PM
+
+- [Operation Code at Axon](https://www.meetup.com/OperationCode-SeattleWA/events/248789562/) - Tuesday, August 28, 2018
+6:00 PM to 8:30 PM
+
+- [Community Hack Night @ Code Fellows](https://www.meetup.com/seattlejshackers/events/253802889/) - Tuesday, August 28, 2018
+6:00 PM to 8:00 PM
+
+- [Julia Seattle: Language Features for Data Science](https://www.meetup.com/Metis-Seattle-Data-Science/events/254042390/) - Tuesday, August 28, 2018
+6:00 PM to 8:00 PM
+
+- [Discuss Elixir and functional programming](https://www.meetup.com/Seattle-Elixir-Programming-Meetup/events/253155744/) - Tuesday, August 28, 2018
+7:00 PM to 9:00 PM
+
+- [Q&A with Paul Sonier, Dragonchain CTO!](https://www.meetup.com/blockchain-seattle/events/248498239/) - Wednesday, August 29, 2018
+11:30 AM to 1:00 PM
+
+- [Keras-Pandas: Automated Deep Learning](https://www.meetup.com/Metis-Seattle-Data-Science/events/253815938/) - Wednesday, August 29, 2018
+6:00 PM to 8:00 PM
+
+- [Trading Crypto with Moving Averages](https://www.meetup.com/Algorithmic-Crypto-Traders-of-Seattle/events/253746731/) - Wednesday, August 29, 2018
+6:30 PM to 8:30 PM
+
+- [Learn to Code Seattle: Intro to SQL](https://www.meetup.com/Learn-Code-Seattle/events/253466201/) - Thursday, August 30, 2018
+6:30 PM to 8:30 PM
+
+- [ML at Rover.com](https://www.meetup.com/Seattle-DAML/events/253532832/) - Thursday, August 30, 2018
+6:00 PM to 9:00 PM
+
+- [PuPPy Programming Night](https://www.meetup.com/PSPPython/events/253249703/) - Thursday, August 30, 2018
+6:30 PM to 8:45 PM
+
+- [Seattle Indies Expo 2018](https://www.meetup.com/SeattleIndies/events/253363165/) - Sunday, September 2, 2018
+12:00 PM to 9:00 PM
+
+
+
 ### 8/20/2018 - 8/26/2018
 
 - [Connect with Web Designers and Clients!](https://www.meetup.com/Webdevelopersofseattle/events/252856983/) - Monday, August 20, 2018
