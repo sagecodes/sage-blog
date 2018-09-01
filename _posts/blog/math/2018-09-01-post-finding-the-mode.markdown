@@ -26,9 +26,9 @@ Check to see if any numbers repeat. The ones that repeat the most are the mode.
 
 `1,`**`2,2,`**`5,`**`6,6,6,`**`7,9,30`
 
-We can see that `2`s repteat 2 times and `6` repeats 3 times. So in the exmample `6` is the Mode.
+We can see that `2`s repeat 2 times and `6` repeats 3 times. So in the example `6` is the Mode.
 
-if all numbers are repeated same amount of times the list is considred multimodal. Any number would be considred a valid mode. 
+if all numbers are repeated same amount of times the list is considered multimodal. Any number would be considered a valid mode. 
 
 `6,7,8,9` is a multimodal list. 
 
