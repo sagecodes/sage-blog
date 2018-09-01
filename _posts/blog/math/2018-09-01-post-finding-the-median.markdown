@@ -6,16 +6,16 @@ date:   2018-09-01
 categories: post
 tags: math python
 author: Sage Elliott
-published: true
+published: false
 ---
 
-This post will cover how to find the median from a set of numbers. We'll then implement a solution in the python programming language!
+This post will cover how to find the median(the middle number) from a set of numbers. We'll then implement a solution in the python programming language!
 
 For this example we will find the mean for this set of numbers: 
 
 `5,7,2,6,9,12,1` 
 
-Step1: Rearrange your list of numbers in the order of least to greatest
+Step1: Sort your list of numbers in the order of least to greatest
 
 `1,2,5,6,7,9,12`
 
