@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finding the mean"
-permalink: /Anaconda Commands/
+permalink: /find-mean-python/
 date:   2018-09-01
 categories: post
 tags: math python
