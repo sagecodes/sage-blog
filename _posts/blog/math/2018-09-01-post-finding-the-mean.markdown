@@ -27,7 +27,7 @@ Step3: We then divide the sum of the numbers (`66`) by how many numbers there ar
 
 The mean or average for `5,6,7,2,6,9,30,1` is `8.25`
 
-### Findig the mean with Python:
+### Finding the mean with Python:
 
 ```
 # Take a list of numbers and return the mean
@@ -35,6 +35,7 @@ def findMean(numbers):
     mean = sum(numbers) / len(numbers)
     print(mean)
 
+#Run the function and provide list of numbers 
 findMean([2,4,5,6,7])
 ```
 
