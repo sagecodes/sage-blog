@@ -102,3 +102,12 @@ body {
 
 }
 
+// Layout changes for embeding Jupyter notebooks
+table {
+    background-color: #fff !important;
+}
+
+td, th {
+    padding: 0 4px !important;
+    text-align: center;
+}
