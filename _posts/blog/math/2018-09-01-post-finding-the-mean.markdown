@@ -9,6 +9,8 @@ author: Sage Elliott
 published: true
 ---
 
+### How to find the mean
+
 This post will cover how to find the mean (also called average) from a set of numbers. We'll then implement a solution in the python programming language!
 
 For this example we will find the mean for this set of numbers: 

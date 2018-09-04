@@ -2,7 +2,7 @@
 layout: post
 title:  "Weekly: Notable Seattle Tech Meetups"
 permalink: /meetups/
-date:   2018-07-30
+date:   2018-08-30
 categories: post
 author: Sage Elliott
 published: true
@@ -12,6 +12,49 @@ published: true
 Going to meetups is an amazing way to meet new people, learn new skills, and find new career opportunities. Attending meetups is my number one tip when job searching!
 
 I get asked a lot about what meetups are worth attending in the Seattle area. It can be time consuming and sometimes hard to keep up with all of them going on in Seattle, so I'm creating a weekly list of meetups I think are notable and hopefully worth your time to check out! Go out and talk to people! Am I missing any notable meetups? Tweet at me! [@sagecodes]({{site.twitter}})
+
+
+### 9/04/2018 - 9/09/2018
+
+- [Product Management Live Chat by Google Product Manager](https://www.meetup.com/product-management-seattle/events/253971241/) - Tuesday, September 4, 2018
+11:15 AM to 12:00 PM
+
+- [Community Hack Night](https://www.meetup.com/seattlejshackers/events/253802890/) - Tuesday, September 4, 2018
+6:00 PM to 8:00 PM
+
+- [Manage your LED project!](https://www.meetup.com/Seattle-Arduino-Meetup/events/253792791/) - Tuesday, September 4, 2018
+7:00 PM to 10:00 PM
+
+- [Discuss: The Merkle Ecosystem | Project: Extend React Dapp w/ member ideas](https://www.meetup.com/Blockchain-Smart-Contracts-Seattle-Working-Group/events/254017318/) - Tuesday, September 4, 2018
+7:00 PM to 9:00 PM
+
+- [Haskell Learners' Group](https://www.meetup.com/SEAHUG/events/253558584/) - Wednesday, September 5, 2018
+6:00 PM to 8:00 PM
+
+- [How to Know Your Customers by Amazon Senior Product Manager](https://www.meetup.com/product-management-seattle/events/253614688/) - Wednesday, September 5, 2018
+6:30 PM to 8:30 PM
+
+- [Dragonchain x UW Blockchain Society](https://www.meetup.com/blockchain-seattle/events/254253416/) - Wednesday, September 5, 2018
+6:30 PM to 8:30 PM
+
+- [Learn to Code Workshop: Intro to JavaScript](https://www.meetup.com/Learn-Code-Seattle/events/253466275/) - Thursday, September 6, 2018
+6:30 PM to 8:30 PM
+
+- [PuPPy Programming Night](https://www.meetup.com/PSPPython/events/253249716/) - Thursday, September 6, 2018
+6:30 PM to 8:45 PM
+
+- [Seattle CoffeeOps (Dev 💙Ops) Community](https://www.meetup.com/Seattle-CoffeeOps/events/252553755/) - Friday, September 7, 2018
+8:00 AM to 9:30 AM
+
+- [Seattle CoffeeOps Summer BBQ](https://www.meetup.com/Seattle-CoffeeOps/events/251780184/) - Saturday, September 8, 2018
+11:00 AM to 5:00 PM
+
+- [Indie Support Group](https://www.meetup.com/SeattleIndies/events/254249815/) - Saturday, September 8, 2018
+1:00 PM to 6:00 PM
+
+- [Sunday Coffee Break](https://www.meetup.com/seattlejshackers/events/253802892/) - Sunday, September 9, 2018
+12:00 PM to 5:00 PM
+
 
 ### 8/27/2018 - 9/03/2018
 
