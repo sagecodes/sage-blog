@@ -105,6 +105,8 @@ body {
 // Layout changes for embeding Jupyter notebooks
 table {
     background-color: #fff !important;
+    overflow-x: scroll;
+    display: block;
 }
 
 td, th {
