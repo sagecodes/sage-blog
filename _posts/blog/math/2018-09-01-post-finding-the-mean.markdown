@@ -31,6 +31,10 @@ The mean or average for `5,6,7,2,6,9,30,1` is `8.25`
 
 ### Finding the mean with Python:
 
+Seeing how to do it from scratch will probably help you understand how to implement the math, but you can actuallt use a mean function from Pythons statistics library. Read about it [here](https://docs.python.org/3/library/statistics.html#statistics.mean)
+
+#### Mean from scratch:
+
 ```
 # Take a list of numbers and return the mean
 def findMean(numbers):
