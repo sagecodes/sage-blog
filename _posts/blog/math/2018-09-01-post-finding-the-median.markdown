@@ -2,7 +2,7 @@
 layout: post
 title:  "Finding the median"
 permalink: /find-median-python/
-date:   2018-09-01
+date:   2018-09-08
 categories: post
 tags: math python
 author: Sage Elliott
