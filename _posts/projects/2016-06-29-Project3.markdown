@@ -4,7 +4,7 @@ title:  "Froggerish"
 permalink: /Froggerish/
 date:   2016-06-22
 categories: project
-tags: html5 canvas javascript
+tags: html5 canvas javascript web-dev
 author: Sage Elliott
 published: true
 demo_url: http://sagecodes.github.io/froggerish/

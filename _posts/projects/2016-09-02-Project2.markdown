@@ -4,7 +4,7 @@ title:  "Dev Profile"
 permalink: /Dev-Profile/
 date:   2016-06-22
 categories: project
-tags: python flask postgres
+tags: python flask postgres web-dev
 author: Sage Elliott
 published: true
 github_url: https://github.com/sageio/devpost

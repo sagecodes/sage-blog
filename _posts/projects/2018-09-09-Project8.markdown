@@ -4,7 +4,7 @@ title:  "Store Sales Analysis"
 permalink: /store-sales-analysis/
 date:   2018-09-09
 categories: project
-tags: tableau data
+tags: tableau data-analysis
 author: Sage Elliott
 published: true
 demo_url: https://public.tableau.com/shared/YDSDFH3QX?:display_count=yes

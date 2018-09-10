@@ -4,7 +4,7 @@ title:  "Titanic Survival"
 permalink: /titanic-survival-exploration/
 date:   2018-09-03
 categories: project
-tags: machine-learning
+tags: machine-learning data-analysis
 author: Sage Elliott
 published: true
 demo_url: https://github.com/sagecodes/titanic_survival_exploration/blob/master/titanic_survival_exploration.ipynb
