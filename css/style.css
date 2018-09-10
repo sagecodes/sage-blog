@@ -284,6 +284,10 @@ h1 {
     padding: 10px 0px 10px 0px;
 }
 
+#tag-btns {
+    padding: 0 15px
+}
+
 .blog-post_tag {
  font-size:15px;
  color: #828282;
