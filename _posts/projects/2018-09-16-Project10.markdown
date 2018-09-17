@@ -10,6 +10,10 @@ published: true
 github_url: https://github.com/sagecodes/vr-carnival
 ---
 
+
+![VR carnival](../img/Carnival.jpg) 
+
+
 Starting with the majority of assets and experience created, I fixed several aspects of the game and provided minor customizations. Android build is provided in Zipped build folder.
 
 I learned:
