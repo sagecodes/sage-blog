@@ -14,7 +14,7 @@ Going to meetups is an amazing way to meet new people, learn new skills, and fin
 I get asked a lot about what meetups are worth attending in the Seattle area. It can be time consuming and sometimes hard to keep up with all of them going on in Seattle, so I'm creating a weekly list of meetups I think are notable and hopefully worth your time to check out! Go out and talk to people! Am I missing any notable meetups? Tweet at me! [@sagecodes]({{site.twitter}})
 
 
-### 9/17/2018 - 9/23/2018
+### 10/1/2018 - 10/7/2018
 
 - [[WAW] Work on Your Startup](https://www.meetup.com/WorkAfterWork/events/255011848/) - Monday, October 1, 2018
 5:30 PM to 8:30 PM
