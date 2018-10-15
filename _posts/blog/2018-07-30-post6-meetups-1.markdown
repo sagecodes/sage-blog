@@ -2,7 +2,7 @@
 layout: post
 title:  "Weekly: Notable Seattle Tech Meetups"
 permalink: /meetups/
-date:   2018-08-30
+date:   2018-10-15
 categories: post
 author: Sage Elliott
 published: true
