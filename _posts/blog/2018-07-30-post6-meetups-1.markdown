@@ -14,48 +14,67 @@ Going to meetups is an amazing way to meet new people, learn new skills, and fin
 I get asked a lot about what meetups are worth attending in the Seattle area. It can be time consuming and sometimes hard to keep up with all of them going on in Seattle, so I'm creating a weekly list of meetups I think are notable and hopefully worth your time to check out! Go out and talk to people! Am I missing any notable meetups? Tweet at me! [@sagecodes]({{site.twitter}})
 
 
-### 10/1/2018 - 10/7/2018
+### 10/15/2018 - 10/21/2018
 
-- [[WAW] Work on Your Startup](https://www.meetup.com/WorkAfterWork/events/255011848/) - Monday, October 1, 2018
+- [[WAW] Work on Your Startup](https://www.meetup.com/WorkAfterWork/events/rvxpcqyxnbtb/) - Monday, October 15, 2018
 5:30 PM to 8:30 PM
 
-- [Practicing Coding Interviews](https://www.meetup.com/PSPPython/events/254280032/) - Monday, October 1, 2018
+- [JS Hack Night](https://www.meetup.com/seattlejshackers/events/255481202/) - Monday, October 15, 2018
+5:30 PM to 7:30 PM
+
+- [Practicing Coding Interviews](https://www.meetup.com/PSPPython/events/pmqfjqyxnbtb/) - Monday, October 15, 2018
 6:30 PM to 8:30 PM
 
-- [Seattle Startup Open Coffee](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/254766849/) - Tuesday, October 2, 2018
+- [Blockchain NW Summit](https://www.meetup.com/Seattle-Blockchain-NW-Community/events/254469916/) - Tuesday, October 16, 2018
+8:00 AM to 6:00 PM
+
+- [Seattle Startup Open Coffee](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/xftnplyxnbvb/) - Tuesday, October 16, 2018
 8:30 AM to 11:30 AM
 
-- [New Tech Seattle](https://www.meetup.com/NewTechSeattle/events/249301505/) - Tuesday, October 2, 2018
-5:30 PM to 8:00 PM
+- [Community Hack Night](https://www.meetup.com/seattlejshackers/events/zfxqbqyxnbvb/) - Tuesday, October 16, 2018
+6:00 PM to 8:00 PM
 
-- [Amazon hosts Seattle React.js ](https://www.meetup.com/seattle-react-js/events/254713205/) - Tuesday, October 2, 2018
-6:00 PM to 8:30 PM
+- [All Day DevOps Viewing Party](https://www.meetup.com/Chef-Meetup/events/253624727/) - Wednesday, October 17, 2018
+9:00 AM to 9:00 PM
 
-- [Community Hack Night](https://www.meetup.com/seattlejshackers/events/253802901/) - 
-
-- [Uber Tech Talk Cadence: Fault Tolerant Actor Framework](https://www.meetup.com/aittg-seattle/events/255069930/) - Tuesday, October 2, 2018
-6:00 PM to 9:00 PM
-
-- [Data Science vs Data Analytics featuring Slalom Consulting](https://www.meetup.com/Seattle-Data-Science/events/255004464/) - Wednesday, October 3, 2018
-6:30 PM to 8:00 PM
-
-- [How to Make Good Decisions in Product by eBay Product Manager](https://www.meetup.com/product-management-seattle/events/253841165/) - Wednesday, October 3, 2018
-6:30 PM to 8:30 PM
-
-- [Intro to JavaScript](https://www.meetup.com/Learn-Code-Seattle/events/253466491/) - Thursday, October 4, 2018
-6:30 PM to 8:30 PM
-
-- [AI & Analytics: Is it Possible for Small Businesses?](https://www.meetup.com/meetup-datascience/events/250629258/) - Thursday, October 4, 2018
+- [[SIXR] An Evening of VR Delight and Fireside Chat](https://www.meetup.com/Seattle-VR-Panels-Presentations/events/255513667/) - Wednesday, October 17, 2018
 5:00 PM to 7:00 PM
 
-- [PuPPy Programming Night](https://www.meetup.com/PSPPython/events/255081312/) - Thursday, October 4, 2018
+- [Snacks Over Security](https://www.meetup.com/Seattle-DevSecOps/events/jsfxgqyxnbwb/) - Wednesday, October 17, 2018
+6:00 PM to 8:00 PM
+
+- [October TalkNight: Python in Space](https://www.meetup.com/Seattle-PyLadies/events/255198279/) - Wednesday, October 17, 2018
+6:00 PM to 8:00 PM
+
+- [How to be a Good Machine Learning PM](https://www.meetup.com/product-management-seattle/events/254987046/) - Wednesday, October 17, 2018
+6:30 PM to 8:30 PM
+
+- [Workshop: Intro to Machine Learning](https://www.meetup.com/Learn-Code-Seattle/events/253466541/) - Thursday, October 18, 2018
+6:30 PM to 8:30 PM
+
+- [Distributed Machine Learning services and Android](https://www.meetup.com/aittg-seattle/events/255474428/) - Thursday, October 18, 2018
+9:00 AM to 11:00 AM
+
+- [PuPPy Programming Night](https://www.meetup.com/PSPPython/events/zdzrxpyxnbxb/) - Thursday, October 18, 2018
 6:30 PM to 8:45 PM
 
-- [Seattle CoffeeOps](https://www.meetup.com/Seattle-CoffeeOps/events/254565561/) - Friday, October 5, 2018
+- [Scientific Computing](https://www.meetup.com/PSPPython/events/255434603/) - Thursday, October 18, 2018
+6:30 PM to 8:30 PM
+
+- [Seattle CoffeeOps](https://www.meetup.com/Seattle-CoffeeOps/events/kgmkbqyxnbzb/) - Friday, October 19, 2018
 8:00 AM to 9:30 AM
 
-- [Indie Support Group](https://www.meetup.com/SeattleIndies/events/254741654/) - Saturday, October 6, 2018
+- [WordPress 101](https://www.meetup.com/SeattleWordPressMeetup/events/xwgjwnyxnbbc/) - Saturday, October 20, 2018
+10:00 AM to 1:00 PM
+
+- [Indie Support Group](https://www.meetup.com/SeattleIndies/events/kddxgqyxnbbc/) - Saturday, October 20, 2018
 1:00 PM to 6:00 PM
 
-- [Sunday Coffee Break](https://www.meetup.com/seattlejshackers/events/253802902/) - Sunday, October 7, 2018
+- [ADL Game Jam Day 1](https://www.meetup.com/SeattleIndies/events/255168201/) - Saturday, October 20, 2018
+7:00 PM to 11:00 PM
+
+- [ADL Game Jam Day 2](https://www.meetup.com/SeattleIndies/events/255168333/) - SSaturday, October 20, 2018
+7:00 PM to 11:00 PM
+
+- [Sunday Coffee Break](https://www.meetup.com/seattlejshackers/events/dwrqmpyxnbcc/) - Sunday, October 21, 2018
 12:00 PM to 5:00 PM
