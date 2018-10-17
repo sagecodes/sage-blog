@@ -73,8 +73,8 @@ I get asked a lot about what meetups are worth attending in the Seattle area. It
 - [ADL Game Jam Day 1](https://www.meetup.com/SeattleIndies/events/255168201/) - Saturday, October 20, 2018
 7:00 PM to 11:00 PM
 
-- [ADL Game Jam Day 2](https://www.meetup.com/SeattleIndies/events/255168333/) - SSaturday, October 20, 2018
-7:00 PM to 11:00 PM
+- [ADL Game Jam Day 2](https://www.meetup.com/SeattleIndies/events/255168333/) - Sunday, October 21, 2018
+7:00 AM to 7:00 PM
 
 - [Sunday Coffee Break](https://www.meetup.com/seattlejshackers/events/dwrqmpyxnbcc/) - Sunday, October 21, 2018
 12:00 PM to 5:00 PM
