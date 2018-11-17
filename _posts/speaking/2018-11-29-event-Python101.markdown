@@ -1,0 +1,15 @@
+---
+layout: speaking
+title:  "Learn to Code Seattle Workshop: Python 101"
+categories: event
+author: Sage Elliott
+date:   2018-11-29
+link: https://www.eventbrite.com/e/python-101-tickets-52723311845
+time: 6:30pm
+published: true
+---
+
+This FREE event is especially for aspiring coders in Seattle who want to learn the basics of Python!
+
+This is a friendly workshop focused on learning the basics of the Python for beginners! We hope you'll leave excited and more comfortable using Python! 
+
