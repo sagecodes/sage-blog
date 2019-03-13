@@ -261,22 +261,22 @@ h1 {
 
 .all {
     visibility: hidden;
-    -ms-transform: translate(100px,0px); /* IE 9 */
-    -webkit-transform: translate(100px,0px); /* Safari */
-    transform: translate(100px,0px); /* Standard syntax */
+    /* -ms-transform: translate(100px,0px); 
+    -webkit-transform: translate(100px,0px); 
+    transform: translate(100px,0px);  */
     position: fixed;
 }
 
 .show {
-    transition: all 0.3s ease-in-out;
+    /* transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
-    -webkit-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out; */
     position: relative;
     left: 0px;
     visibility: visible;
-    transform: translate(0px,0px); /* Standard syntax */
-    -ms-transform: translate(0px,0px); /* EI 9 */
-    -webkit-transform: translate(0px,0px); /* Safari */
+    /* transform: translate(0px,0px); 
+    -ms-transform: translate(0px,0px); 
+    -webkit-transform: translate(0px,0px); */
 }
 
 
