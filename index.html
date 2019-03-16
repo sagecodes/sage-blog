@@ -6,78 +6,37 @@ layout: default
 
   <section id="about">
               <div class="row">
-                  <div class="col-md-4">
+                  <div class="col-md-3">
 
                       <img class="profile-photo" src="img/sage2016.jpg" alt="Sage Elliott">
                   </div>
-                  <div class=" col-md-8">
+                  <div class=" col-md-9">
                       <p class="intro">
                           <span class="dropcap">H</span>ello world! I’m an Engineer, Educator, and Community Builder. 
                           I’m interested in Web Development, Data Science, Artificial Intelligence, Virtual Reality, and any technology making an impact!
                           If you’re doing something awesome and looking for someone to help, get in touch!
-                          If you'd like to get neat weekly updates about Technology and Events in Seattle Signup for my newsletter!
+                          <br><br>
+                          Get weekly updates about Technology and Events in Seattle Signup for my newsletter!
+                          <br><br>
+                          See a list of my upcoming talks here
                           
                       </p>
                   </div>
-                  <div class=" col-md-7">
 
+                  <h1>Connect with me:</h1>
+                  <div class="row">
                         <div class="col-12">
                           <div class="social-buttons">
-                          <a class="btn btn-email" href="{{ site.email }}">Email</a>
-                          <a class="btn btn-github" href="{{ site.github }}" target="blank">Github</a>
-                          <a class="btn btn-twitter" href="{{ site.twitter }}" target="blank">Twitter</a>
-                          <a class="btn btn-linkedin" href="{{ site.linkedin }}" target="blank">LinkedIn</a>
-                          <a class="btn btn-email" href="{{ site.linkedin }}" target="blank">YouTube</a>
-                        </div>
+                            <a class="btn btn-email" href="{{ site.email }}">Email</a>
+                            <a class="btn btn-github" href="{{ site.github }}" target="blank">Github</a>
+                            <a class="btn btn-twitter" href="{{ site.twitter }}" target="blank">Twitter</a>
+                            <a class="btn btn-linkedin" href="{{ site.linkedin }}" target="blank">LinkedIn</a>
+                            <a class="btn btn-email" href="{{ site.linkedin }}" target="blank">YouTube</a>
                           </div>
-
+                        </div>
                   </div>
               </div>
           </section>
-
-          <!-- Display latest post -->
-          <section id="Posts">
-
-            <h1>Next Talk:</h1>
-            <div class="row">
-
-             <ul class="post-list">
-              {% for post in site.categories.event reversed limit:1 %}
-              {% if post.date > site.time %}
-              <div class="col-lg-12">
-                <div class="thumbnail post-thumbnail">
-                <li>
-                  <h2>
-                    <div class="caption">
-                    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-                    <h3>{{ post.date | date: "%m/%d/%Y" }} - {{ post.time }} </h3>
-                    <div class="post_meta">
-                      <span class="post_excerpt"> <p>{{ post.content | strip_html | truncate: 190 }} <a href="{{post.url | prepend: site.baseurl }}">Read&nbsp;more&nbsp;>></a></p> </span>
-
-                      {% if post.tags %}
-                        {% for tag in post.tags %}
-                          <span class="post_tag {{ tag }}-btn"><a href="{{ site.baseurl }}/blog#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
-                        {% endfor %}
-                      {% endif %}
-                      <br>
-                      <div class="blog-btn-wrapper">
-                      <a class="btn btn-default" href="{{ post.link }}">Event Details</a>
-                    </div>
-                    </div>
-                  </div>
-                  </div>
-                    </div>
-                  </h2>
-                </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-
-            </div>
-
-          </section>
-
-
 
 
           <!-- Display latest post -->
