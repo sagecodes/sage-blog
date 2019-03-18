@@ -38,8 +38,9 @@ layout: default
           <!-- Display latest post -->
           <section id="Posts">
 
-            <h1>Recent Post:</h1>
+            
             <div class="row">
+                <h1>Recent Post:</h1>
 
              <ul class="post-list">
               {% for post in site.categories.post limit:1 %}
@@ -76,9 +77,9 @@ layout: default
 
 <!-- Display projects -->
 <section id="projects">
-  <h1 class="section-header">Recent Projects:</h1>
+  
   <div class="row">
-
+      <h1 class="section-header">Recent Projects:</h1>
    <ul class="post-list">
     {% for post in site.categories.project limit:3%}
     <div class="col-sm-6 col-lg-4">
