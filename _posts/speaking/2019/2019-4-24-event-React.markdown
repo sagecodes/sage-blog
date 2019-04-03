@@ -3,8 +3,8 @@ layout: speaking
 title:  "Intro to Web Development with React"
 categories: event
 author: Sage Elliott
-date:   2019-04-04
-link: https://www.eventbrite.com/e/intro-to-data-analytics-with-tableau-tickets-58877700788
+date:   2019-04-24
+link: https://www.eventbrite.com/e/intro-to-react-tickets-58878540299
 time: 6:30pm
 published: true
 ---

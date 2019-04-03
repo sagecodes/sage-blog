@@ -9,7 +9,7 @@ time: 6:30pm
 published: true
 ---
 
-This FREE event is especially for aspiring coders in Seattle who is interested in Data Analytics with Tableau!
+This FREE event is especially for aspiring coders in Seattle who are interested in Data Analytics with Tableau!
 
 This is a friendly workshop focused on learning about the basics of tableau for beginners!!
 

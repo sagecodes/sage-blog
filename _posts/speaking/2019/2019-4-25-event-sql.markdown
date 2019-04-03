@@ -1,10 +1,10 @@
 ---
 layout: speaking
-title:  "Intro to Data Analytics with Tableau"
+title:  "Intro to SQL"
 categories: event
 author: Sage Elliott
-date:   2019-04-04
-link: https://www.eventbrite.com/e/intro-to-data-analytics-with-tableau-tickets-58877700788
+date:   2019-04-25
+link: https://www.eventbrite.com/e/sql-101-tickets-58878275507
 time: 6:30pm
 published: true
 ---
