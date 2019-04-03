@@ -9,7 +9,7 @@ time: 6:30pm
 published: true
 ---
 
-This FREE event is especially for aspiring coders in Seattle who is interested in Machine Learning!
+This FREE event is especially for aspiring coders in Seattle who are interested in Machine Learning!
 
 This is a friendly workshop focused on learning about Machine Learning for beginners!!
 
