@@ -53,6 +53,9 @@ h3 {
     margin: 0;
 }
 
+.section-header {
+    margin-left:15px;
+}
 
 
 /* Navigation & Header
@@ -96,6 +99,9 @@ h3 {
 margin-bottom: 40px;
 }
 
+#connect {
+    margin-bottom: 40px;
+}
 
 #about {
     margin: 0px 0 0px;
@@ -111,16 +117,21 @@ margin-bottom: 40px;
 }
 
 .intro {
-    max-width: 750px;
-    margin: 0 auto 0px;
+    max-width: 800px;
     padding: 15px 0;
+    margin: 15px 0 0 0px;
   }
 
 
 h1 {
-    text-align: center;
-    font-size: 2.5em;
+    /* text-align: center; */
+    font-size: 2em;
 }
+
+.social-buttons {
+    /* padding-left: 15px; */
+    line-height: 40px;
+  }
 
 
 
@@ -261,22 +272,22 @@ h1 {
 
 .all {
     visibility: hidden;
-    -ms-transform: translate(100px,0px); /* IE 9 */
-    -webkit-transform: translate(100px,0px); /* Safari */
-    transform: translate(100px,0px); /* Standard syntax */
+    /* -ms-transform: translate(100px,0px); 
+    -webkit-transform: translate(100px,0px); 
+    transform: translate(100px,0px);  */
     position: fixed;
 }
 
 .show {
-    transition: all 0.3s ease-in-out;
+    /* transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
-    -webkit-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out; */
     position: relative;
     left: 0px;
     visibility: visible;
-    transform: translate(0px,0px); /* Standard syntax */
-    -ms-transform: translate(0px,0px); /* EI 9 */
-    -webkit-transform: translate(0px,0px); /* Safari */
+    /* transform: translate(0px,0px); 
+    -ms-transform: translate(0px,0px); 
+    -webkit-transform: translate(0px,0px); */
 }
 
 
