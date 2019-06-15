@@ -1,0 +1,14 @@
+---
+layout: speaking
+title:  "Intro to JavaScript"
+categories: event
+author: Sage Elliott
+date:   2019-05-15
+link: https://www.eventbrite.com/e/javascript-101-tickets-60952523639
+time: 6:30pm
+published: true
+---
+
+This FREE event is especially for aspiring coders in Seattle who are interested in Web development with JavaScript
+
+This is a friendly workshop focused on learning about Web development for beginners!!

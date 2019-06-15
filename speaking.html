@@ -5,14 +5,16 @@ permalink: /speaking/
 ---
 
 <!-- Display latest post -->
-
+<div class="header-space"></div>
 <section id="Posts">
+  
 
-  <h1 class="section-header">Events I'll be speaking or teaching at:</h1>
-  <p class="text-center"><a  href="{{ site.email }}">Email</a> or <a href="{{ site.twitter }}">Tweet</a> me with event inquires</p>
+  <!-- <h1 class="section-header">Events I'll be speaking or teaching at:</h1> -->
+  <!-- <p class=""><a  href="{{ site.email }}">Email</a> or <a href="{{ site.twitter }}">Tweet</a> me with event inquires</p> -->
 
-    <h1 class="section-header">Upcoming:</h1>
-  <div class="row">
+    <h1 class="section-header">{% assign counter = 0 %}{% for item in site.categories.event %}{% if item.date > site.time %}{% assign counter=counter | plus:1 %}{% endif %}{% endfor %}{{ counter }} Upcoming Events:</h1>
+    
+    <div class="row">
       <ul class="post-list">
           {% for post in site.categories.event reversed %}
           {% if post.date > site.time %}
@@ -41,7 +43,7 @@ permalink: /speaking/
           {% endfor %}
         </ul>
 
-        <h1 class="section-header">Past:</h1>
+        <h1 class="section-header">{% assign counter = 0 %}{% for item in site.categories.event %}{% if item.date < site.time %}{% assign counter=counter | plus:1 %}{% endif %}{% endfor %}{{ counter }} Past Events:</h1>
 
    <ul class="post-list">
     {% for post in site.categories.event %}
