@@ -12,4 +12,3 @@ published: true
 This FREE event is especially for aspiring coders in Seattle who are interested in programming with Python!
 
 This is a friendly workshop focused on learning about Python for beginners!!
-
