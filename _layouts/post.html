@@ -4,12 +4,24 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    <div class="header-space"></div>
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+
+    -
+    <br>
+    Connect with me:
+    <br><br>
+    <a class="btn btn-email" href="{{ site.email }}">Email</a>
+    <a class="btn btn-github" href="{{ site.github }}" target="blank">Github</a>
+    <a class="btn btn-twitter" href="{{ site.twitter }}" target="blank">Twitter</a>
+    <a class="btn btn-linkedin" href="{{ site.linkedin }}" target="blank">LinkedIn</a>
+    <br><br>
   </div>
+
 
 </article>
