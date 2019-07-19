@@ -54,25 +54,54 @@ https://www.kaggle.com/sid321axn/amazon-alexa-reviews
 
 ## Day 5 ☐
 
+More Random Forest
+Naive Bayes
+
 ## Day 6 ☐
+
+Basic linear regression
+Regression performance
+Polynomial regrssion
 
 ## Day 7 ☐
 
+Multiple Linear regrssion
+Logistic regrssion
+
 ## Day 8 ☐
 
+Artificial Neural Networks & Regression
+Lasso & ridge regression
+
 ## Day 9 ☐
+Artificial Neural Network prediction
+
+
 
 ## Day 10 ☐
+Deep Neural Networks CIFAR
+
+
 
 ## Day 11 ☐
+Deep Learning & LE-NET
+
 
 ## Day 12 ☐
 
+NLP w/ Bayes 
+
 ## Day 13 ☐
+Reccomender System
+
 
 ## Day 14 ☐
 
+
+
 ## Day 15 ☐
+
+
 
 ## Day 16 ☐
 
