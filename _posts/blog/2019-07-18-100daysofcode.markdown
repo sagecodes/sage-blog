@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My 100 days of ML code progress"
+title:  "My 100 days of ML code - Round 1"
 permalink: /100daysofmlcode/
 date:   2019-07-18
 categories: post
@@ -9,26 +9,34 @@ author: Sage Elliott
 published: true
 ---
 
-A diary type post of my 100 days of Machine learning code (#100DaysofMLcode)
+A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah).
 
 ## Day 1 ☑
 
-Continue learning about classification models in scikit learn
+Continue learning about classification models in scikit learn.
 
-a couple of k-NN implementations as I  Continuing work thru common classification models in sklearn. I had done an iris k-NN before but using an external dataset let me use Label Encoders!
+I did a couple of k-NN implementations as I Continue working through common classification models in sklearn. I had done an iris k-NN before but using an external dataset let me use Label Encoders!
 
-https://github.com/sagecodes/irsit-classification2-knn
-https://github.com/sagecodes/tshirt-size-prediction-KNN
+#### Code for the day:
+
+- [Iris Classification](https://github.com/sagecodes/irsit-classification2-knn)
+- [T-Shirt Classfication](https://github.com/sagecodes/tshirt-size-prediction-KNN)
 
 
 
 ## Day 2 ☑
 
-Went to a @ps_python meetup discussing time series forecasting at scale with FB Prophet so I thought I would do an implementation using it. Used it on a Chicago crime dataset. 
+Went to a [Python Meetup](https://www.meetup.com/PSPPython/) discussing time series forecasting at scale with FB Prophet so I thought I would do an implementation using it. Used it on a Chicago crime dataset. 
 
-Read more about prophet here: https://peerj.com/preprints/3190.pdf
+Read more about forecasting at scale with prophet [here]( https://peerj.com/preprints/3190.pdf).
 
-https://github.com/sagecodes/chicago-crime-prediction-fbprophet
+Read more about Time series [here](https://otexts.com/fpp2/arima.html). 
+
+ Find the github for Facebook prohet [here](https://github.com/facebook/prophet). 
+
+#### Code for the day:
+
+- [Chicago Crime Rate forecast](https://github.com/sagecodes/chicago-crime-prediction-fbprophet)
  
 
 ## Day 3 ☑
@@ -37,10 +45,10 @@ Another prophet forecasting implementation on one of the most important commodit
 
 Refreshed on some SQL and updating content on a SQL workshop
 
-https://github.com/sagecodes/avocado-forecasting-fbprophet
-https://github.com/sagecodes/intro-to-sql
+#### Code for the day:
 
-
+- [Avocado Price forecast](https://github.com/sagecodes/avocado-forecasting-fbprophet)
+- [Intro to SQL workshop for my workshop](https://github.com/sagecodes/intro-to-sql)
 
 
 ## Day 4 ☑
@@ -48,9 +56,14 @@ https://github.com/sagecodes/intro-to-sql
 Learned more about using decision trees and random forests also about text feature extraction with sklearn CountVectorizer.
 Used this to predict is a customer reviews on alexa were positive or negative.
 
-https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest
+Dataset used: https://www.kaggle.com/sid321axn/amazon-alexa-reviews
 
-https://www.kaggle.com/sid321axn/amazon-alexa-reviews
+#### Code for the day:
+
+- [Alexa Amazon Review Classfication](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
+
+
+
 
 ## Day 5 ☐
 
@@ -98,9 +111,7 @@ Reccomender System
 ## Day 14 ☐
 
 
-
 ## Day 15 ☐
-
 
 
 ## Day 16 ☐
