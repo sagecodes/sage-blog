@@ -56,7 +56,7 @@ Refreshed on some SQL and updating content on a SQL workshop
 Learned more about using decision trees and random forests also about text feature extraction with sklearn CountVectorizer.
 Used this to predict is a customer reviews on alexa were positive or negative.
 
-Dataset used: https://www.kaggle.com/sid321axn/amazon-alexa-reviews
+Dataset used: [Kaggle Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/amazon-alexa-reviews)
 
 #### Code for the day:
 
