@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "My 100 days of ML code progress"
+permalink: /100daysofmlcode/
+date:   2019-07-18
+categories: post
+tags: machine-learning
+author: Sage Elliott
+published: false
+---
+
+A diary type post of my 100 days of Machine learning code (#100DaysofMLcode)
+
+## Day 1
+
+Continue learning about classification models in scikit learn
+
+a couple of k-NN implementations as I  Continuing work thru common classification models in sklearn. I had done an iris k-NN before but using an external dataset let me use Label Encoders!
+
+https://github.com/sagecodes/irsit-classification2-knn
+https://github.com/sagecodes/tshirt-size-prediction-KNN
+
+
+
+## Day 2
+
+Went to a @ps_python meetup discussing time series forecasting at scale with FB Prophet so I thought I would do an implementation using it. Used it on a Chicago crime dataset. 
+
+Read more about prophet here: https://peerj.com/preprints/3190.pdf
+
+https://github.com/sagecodes/chicago-crime-prediction-fbprophet
+ 
+
+## Day 3
+
+Another prophet forecasting implementation on one of the most important commodities 🥑 Avocados! The price looks like its dropping over all across the US but rises  across west coast regions. I'll never be able to buy a house #millennial
+
+Refreshed on some SQL and updating content on a SQL workshop
+
+https://github.com/sagecodes/avocado-forecasting-fbprophet
+https://github.com/sagecodes/intro-to-sql
+
+
+
+
+## Day 4
+
+Learned more about using decision trees and random forests also about text feature extraction with sklearn CountVectorizer.
+Used this to predict is a customer reviews on alexa were positive or negative.
+
+https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest
+
+https://www.kaggle.com/sid321axn/amazon-alexa-reviews
