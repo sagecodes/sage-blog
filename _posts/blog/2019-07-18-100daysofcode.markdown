@@ -67,11 +67,20 @@ Dataset used: [Kaggle Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/ama
 
 ## Day 5 ☐
 
-More Random Forest
-Naive Bayes
+More Random Forests
+
+More Decision Trees and Random Forests. I'm really impressed with the random forest results! Used this Kyphosis Kaggle datset and visually it seems very hard to classify data points, but the classifier worked well. Cool to see how much better the random forest performed vs just the decsion tree.
+
+Dataset used: [Kaggle Kyphosis](https://www.kaggle.com/abbasit/kyphosis-dataset)
+
+#### Code for the day:
+
+[Kyphosis Prediction Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
+
 
 ## Day 6 ☐
 
+Naive Bayes
 Basic linear regression
 Regression performance
 Polynomial regrssion
