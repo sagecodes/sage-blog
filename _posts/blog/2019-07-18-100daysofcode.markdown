@@ -9,7 +9,36 @@ author: Sage Elliott
 published: true
 ---
 
-A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah).
+A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah). Read below project list micro blog posts about each day.
+
+## Completed Projects & case studies during 100 days:
+
+These were completed during my 100 days of Machine Learning Code:
+
+1. [Iris Classification - kNN](https://github.com/sagecodes/irsit-classification2-knn)
+2. [T-Shirt Classfication- kNN](https://github.com/sagecodes/tshirt-size-prediction-KNN)
+3. [Chicago Crime Rate time series forecast - FBprophet ](https://github.com/sagecodes/chicago-crime-prediction-fbprophet)
+4. [Avocado Price forecast - FBprophet](https://github.com/sagecodes/avocado-forecasting-fbprophet)
+5. [Alexa Amazon Review Classfication - Random Forest](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
+6. [Kyphosis Prediction - Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
+7. [Email Spam Classifer -  Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
+8. [Credit Card Fraud - Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
+9. [Icecream vs. Temp - Simple Linear Regression](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
+10. [Fuel Consumption vs. horsepower - Simple Linear Regression](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
+11. [Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
+
+
+<!-- ## Awesome Learning Resources
+
+The structured learning resources I found really awesome as I went through my 100 days
+
+
+## Great Articles / links
+
+Great articles or links to code I found very helpful or insightful during the 100 days -->
+
+----------------
+
 
 ## Day 1 ☑
 
@@ -23,6 +52,7 @@ I did a couple of k-NN implementations as I Continue working through common clas
 - [T-Shirt Classfication](https://github.com/sagecodes/tshirt-size-prediction-KNN)
 
 
+----------------
 
 ## Day 2 ☑
 
@@ -38,6 +68,7 @@ Read more about Time series [here](https://otexts.com/fpp2/arima.html).
 
 - [Chicago Crime Rate forecast](https://github.com/sagecodes/chicago-crime-prediction-fbprophet)
  
+----------------
 
 ## Day 3 ☑
 
@@ -48,8 +79,9 @@ Refreshed on some SQL and updating content on a SQL workshop
 #### Code for the day:
 
 - [Avocado Price forecast](https://github.com/sagecodes/avocado-forecasting-fbprophet)
-- [Intro to SQL workshop for my workshop](https://github.com/sagecodes/intro-to-sql)
+- [Intro to SQL update for my workshop](https://github.com/sagecodes/intro-to-sql)
 
+----------------
 
 ## Day 4 ☑
 
@@ -64,6 +96,7 @@ Dataset used: [Kaggle Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/ama
 
 
 
+----------------
 
 ## Day 5 ☑
 
@@ -75,8 +108,9 @@ Dataset used: [Kaggle Kyphosis](https://www.kaggle.com/abbasit/kyphosis-dataset)
 
 #### Code for the day:
 
-[Kyphosis Prediction Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
+- [Kyphosis Prediction Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
 
+----------------
 
 ## Day 6 ☑
 
@@ -94,6 +128,7 @@ Completed [ Machine Learning Classification Bootcamp in Python](https://www.udem
 - [Email Spam Classifer with Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
 - [Credit Card Fraud with Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
 
+----------------
 
 ## Day 7 ☑
 
@@ -108,225 +143,426 @@ I Performed 2 simple linear regression case studies. Temperature vs. ice cream r
 - [Icecream vs. Temp](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
 - [Fuel Consumption vs. horsepower](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
 
+----------------
+
 ## Day 8 ☐
 
-Regression performance
+Learn about Regression performance indicaters 
 
-Polynomial regrssion
+Implement Polynomial Regrssion with Scikit learn
 
-Multiple Linear regrssion
+Implement Multiple Linear regrssion
 
-Logistic regrssion
+Implement Logistic regrssion
 
-Artificial Neural Networks & Regression
+Neat reads:
 
-Lasso & ridge regression
+https://github.com/rasbt/python-machine-learning-book-2nd-edition
+
+
+#### Code for the day:
+
+[Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
+
+----------------
 
 ## Day 9 ☐
+
+rtificial Neural Networks & Regression
+
+Lasso & ridge regression
 
 Artificial Neural Network prediction
 
 
+----------------
 
 ## Day 10 ☐
 
 Deep Neural Networks CIFAR
 
 
+----------------
 
 ## Day 11 ☐
 
 Deep Learning & LE-NET
 
+----------------
 
 ## Day 12 ☐
 
 NLP w/ Bayes 
 
+----------------
+
 ## Day 13 ☐
 
 Reccomender System
 
+----------------
 
 ## Day 14 ☐
 
 Deep Learning For Computer Vision
 
+
+----------------
+
+
 ## Day 15 ☐
 
+----------------
 
 ## Day 16 ☐
 
+----------------
+
 ## Day 17 ☐
+
+----------------
 
 ## Day 18 ☐
 
+----------------
+
 ## Day 19 ☐
+
+----------------
 
 ## Day 20 ☐
 
+----------------
+
 ## Day 21 ☐
+
+----------------
 
 ## Day 22 ☐
 
+----------------
+
 ## Day 23 ☐
+
+----------------
 
 ## Day 24 ☐
 
+----------------
+
 ## Day 25 ☐
+
+----------------
 
 ## Day 26 ☐
 
+----------------
+
 ## Day 27 ☐
+
+----------------
 
 ## Day 28 ☐
 
+----------------
+
 ## Day 29 ☐
+
+----------------
 
 ## Day 30 ☐
 
+----------------
+
 ## Day 31 ☐
+
+----------------
 
 ## Day 32 ☐
 
+----------------
+
 ## Day 33 ☐
+
+----------------
 
 ## Day 34 ☐
 
+----------------
+
 ## Day 35 ☐
+
+----------------
 
 ## Day 36 ☐
 
+----------------
+
 ## Day 37 ☐
+
+----------------
 
 ## Day 38 ☐
 
+----------------
+
 ## Day 39 ☐
+
+----------------
 
 ## Day 40 ☐
 
-## Day 41 ☐
-
-## Day 42 ☐
+----------------
 
 ## Day 41 ☐
 
+----------------
+
 ## Day 42 ☐
+
+----------------
+
+## Day 41 ☐
+
+----------------
+
+## Day 42 ☐
+
+----------------
 
 ## Day 43 ☐
 
+----------------
+
 ## Day 44 ☐
+
+----------------
 
 ## Day 45 ☐
 
-## Day 46☐
+----------------
+
+## Day 46 ☐
+
+----------------
 
 ## Day 47 ☐
 
+----------------
+
 ## Day 48 ☐
 
+----------------
+
 ## Day 49 ☐
+
+----------------
 
 ## Day 50 ☐
 HALF WAY!
 
+----------------
+
 ## Day 51 ☐
+
+----------------
 
 ## Day 52 ☐
 
+----------------
+
 ## Day 53 ☐
+
+----------------
 
 ## Day 54 ☐
 
+----------------
+
 ## Day 55 ☐
+
+----------------
 
 ## Day 56 ☐
 
+----------------
+
 ## Day 57 ☐
+
+----------------
 
 ## Day 58 ☐
 
+----------------
+
 ## Day 59 ☐
+
+----------------
 
 ## Day 60 ☐
 
+----------------
+
 ## Day 61 ☐
+
+----------------
 
 ## Day 62 ☐
 
+----------------
+
 ## Day 63 ☐
+
+----------------
 
 ## Day 64 ☐
 
+----------------
+
 ## Day 65 ☐
+
+----------------
 
 ## Day 66 ☐
 
+----------------
+
 ## Day 67 ☐
+
+----------------
 
 ## Day 68 ☐
 
+----------------
+
 ## Day 69 ☐
+
+----------------
 
 ## Day 70 ☐
 
+----------------
+
 ## Day 71 ☐
+
+----------------
 
 ## Day 72 ☐
 
+----------------
+
 ## Day 73 ☐
+
+----------------
 
 ## Day 74 ☐
 
+----------------
+
 ## Day 75 ☐
+
+----------------
 
 ## Day 76 ☐
 
+----------------
+
 ## Day 77 ☐
+
+----------------
 
 ## Day 78 ☐
 
+----------------
+
 ## Day 79 ☐
+
+----------------
 
 ## Day 80 ☐
 
+----------------
+
 ## Day 81 ☐
+
+----------------
 
 ## Day 82 ☐
 
+----------------
+
 ## Day 83 ☐
+
+----------------
 
 ## Day 84 ☐
 
+----------------
+
 ## Day 85 ☐
+
+----------------
 
 ## Day 86 ☐
 
+----------------
+
 ## Day 87 ☐
+
+----------------
 
 ## Day 88 ☐
 
+----------------
+
 ## Day 89 ☐
+
+----------------
 
 ## Day 90 ☐
 
+----------------
+
 ## Day 91 ☐
+
+----------------
 
 ## Day 92 ☐
 
+----------------
+
 ## Day 93 ☐
+
+----------------
 
 ## Day 94 ☐
 
+----------------
+
 ## Day 95 ☐
+
+----------------
 
 ## Day 96 ☐
 
+----------------
+
 ## Day 97 ☐
+
+----------------
 
 ## Day 98 ☐
 
+----------------
+
 ## Day 99 ☐
+
+----------------
 
 ## Day 100 ☐
 DONE!!
+
+----------------
+
+
+
