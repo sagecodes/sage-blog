@@ -15,18 +15,17 @@ A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](htt
 
 These were completed during my 100 days of Machine Learning Code:
 
-- [Iris Classification](https://github.com/sagecodes/irsit-classification2-knn)
-- [T-Shirt Classfication](https://github.com/sagecodes/tshirt-size-prediction-KNN)
-- [Chicago Crime Rate forecast](https://github.com/sagecodes/chicago-crime-prediction-fbprophet)
-- [Avocado Price forecast](https://github.com/sagecodes/avocado-forecasting-fbprophet)
-- [Intro to SQL update for my workshop](https://github.com/sagecodes/intro-to-sql)
-- [Alexa Amazon Review Classfication](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
-- [Kyphosis Prediction Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
-- [Email Spam Classifer with Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
-- [Credit Card Fraud with Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
-- [Icecream vs. Temp - Simple Linear Regression](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
-- [Fuel Consumption vs. horsepower - Simple Linear Regression](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
-- [Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
+1. [Iris Classification - kNN](https://github.com/sagecodes/irsit-classification2-knn)
+2. [T-Shirt Classfication- kNN](https://github.com/sagecodes/tshirt-size-prediction-KNN)
+3. [Chicago Crime Rate time series forecast - FBprophet ](https://github.com/sagecodes/chicago-crime-prediction-fbprophet)
+4. [Avocado Price forecast - FBprophet](https://github.com/sagecodes/avocado-forecasting-fbprophet)
+5. [Alexa Amazon Review Classfication - Random Forest](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
+6. [Kyphosis Prediction - Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
+7. [Email Spam Classifer -  Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
+8. [Credit Card Fraud - Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
+9. [Icecream vs. Temp - Simple Linear Regression](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
+10. [Fuel Consumption vs. horsepower - Simple Linear Regression](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
+11. [Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
 
 
 <!-- ## Awesome Learning Resources
