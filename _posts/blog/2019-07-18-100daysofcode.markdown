@@ -65,38 +65,77 @@ Dataset used: [Kaggle Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/ama
 
 
 
-## Day 5 ☐
+## Day 5 ☑
 
-More Random Forest
-Naive Bayes
+More Random Forests
 
-## Day 6 ☐
+More Decision Trees and Random Forests. I'm really impressed with the random forest results! Used this Kyphosis Kaggle datset and visually it seems very hard to classify data points, but the classifier worked well. Cool to see how much better the random forest performed vs just the decsion tree.
 
-Basic linear regression
-Regression performance
-Polynomial regrssion
+Dataset used: [Kaggle Kyphosis](https://www.kaggle.com/abbasit/kyphosis-dataset)
 
-## Day 7 ☐
+#### Code for the day:
 
-Multiple Linear regrssion
-Logistic regrssion
+[Kyphosis Prediction Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
+
+
+## Day 6 ☑
+
+Built Naive Bayes classifier on Email dataset to detect spam / not spam. 
+
+Also used Naive Bayes classifier a credit card dataset to detect fraud.
+
+Completed [ Machine Learning Classification Bootcamp in Python](https://www.udemy.com/certificate/UC-MWZST68M/)
+
+
+
+
+#### Code for the day:
+
+- [Email Spam Classifer with Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
+- [Credit Card Fraud with Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
+
+
+## Day 7 ☑
+
+1 week down! 🎉
+
+Today was a good refresher on performing linear regrssion with scikit learn.
+
+I Performed 2 simple linear regression case studies. Temperature vs. ice cream revenue (relevant today in Seattle) & Horsepower vs fuel consumption.
+
+#### Code for the day:
+
+- [Icecream vs. Temp](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
+- [Fuel Consumption vs. horsepower](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
 
 ## Day 8 ☐
 
+Regression performance
+
+Polynomial regrssion
+
+Multiple Linear regrssion
+
+Logistic regrssion
+
 Artificial Neural Networks & Regression
+
 Lasso & ridge regression
 
 ## Day 9 ☐
+
 Artificial Neural Network prediction
 
 
 
 ## Day 10 ☐
+
 Deep Neural Networks CIFAR
 
 
 
 ## Day 11 ☐
+
 Deep Learning & LE-NET
 
 
@@ -105,11 +144,13 @@ Deep Learning & LE-NET
 NLP w/ Bayes 
 
 ## Day 13 ☐
+
 Reccomender System
 
 
 ## Day 14 ☐
 
+Deep Learning For Computer Vision
 
 ## Day 15 ☐
 
