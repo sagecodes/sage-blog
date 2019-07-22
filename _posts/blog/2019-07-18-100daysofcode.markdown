@@ -80,32 +80,54 @@ Dataset used: [Kaggle Kyphosis](https://www.kaggle.com/abbasit/kyphosis-dataset)
 
 ## Day 6 ☐
 
-Naive Bayes
-Basic linear regression
-Regression performance
-Polynomial regrssion
+Built Naive Bayes classifier on Email dataset to detect spam / not spam. 
+
+Also used Naive Bayes classifier a credit card dataset to detect fraud.
+
+Completed [ Machine Learning Classification Bootcamp in Python](https://www.udemy.com/certificate/UC-MWZST68M/)
+
+
+
+
+#### Code for the day:
+
+- [Email Spam Classifer with Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
+
+- [Credit Card Fraud with Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
+
 
 ## Day 7 ☐
 
+Basic linear regression
+
+Regression performance
+
+Polynomial regrssion
+
 Multiple Linear regrssion
+
 Logistic regrssion
 
 ## Day 8 ☐
 
 Artificial Neural Networks & Regression
+
 Lasso & ridge regression
 
 ## Day 9 ☐
+
 Artificial Neural Network prediction
 
 
 
 ## Day 10 ☐
+
 Deep Neural Networks CIFAR
 
 
 
 ## Day 11 ☐
+
 Deep Learning & LE-NET
 
 
@@ -114,11 +136,13 @@ Deep Learning & LE-NET
 NLP w/ Bayes 
 
 ## Day 13 ☐
+
 Reccomender System
 
 
 ## Day 14 ☐
 
+Deep Learning For Computer Vision
 
 ## Day 15 ☐
 
