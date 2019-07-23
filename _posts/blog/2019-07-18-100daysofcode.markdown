@@ -11,7 +11,7 @@ published: true
 
 A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah). Read below project list micro blog posts about each day.
 
-## Completed Projects & case studies during 100 days:
+## Completed Projects & Case Studies during 100 days:
 
 These were completed during my 100 days of Machine Learning Code:
 
@@ -26,6 +26,7 @@ These were completed during my 100 days of Machine Learning Code:
 9. [Icecream vs. Temp - Simple Linear Regression](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
 10. [Fuel Consumption vs. horsepower - Simple Linear Regression](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
 11. [Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
+12. [Price vs Manufacturing - polynomial Regression](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression/blob/master/Cost%20per%20model%20prediction.ipynb)
 
 
 <!-- ## Awesome Learning Resources
@@ -149,24 +150,38 @@ I Performed 2 simple linear regression case studies. Temperature vs. ice cream r
 
 Learn about Regression performance indicaters 
 
-Implement Polynomial Regrssion with Scikit learn
+- Mean Squared error (MSE)
+- Root mean squared error (MSE)
+- Mean Absolute Percentage Error(MAPE)
+- Mean Percentage Error(MPE)
+- R squared 
+- Adjusted R squared -
+- Bias & Variance Tradeoff
 
-Implement Multiple Linear regrssion
+Implemented Polynomial Regrssion with Scikit learn on Salary Data and Manufacturing price Data
 
-Implement Logistic regrssion
+Worked on setting up a Style GAN for next interation of a project
 
-Neat reads:
+#### Neat reads:
 
-https://github.com/rasbt/python-machine-learning-book-2nd-edition
+[Collection of Machine learning and Datat Science notebooks]https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+
+[Style GANs](https://arxiv.org/pdf/1812.04948.pdf) 
 
 
 #### Code for the day:
 
-[Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
+- [Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
+- [price vs manufacturing polynomial-regression](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression/blob/master/Cost%20per%20model%20prediction.ipynb)
 
 ----------------
 
 ## Day 9 ☐
+
+
+Implement Multiple Linear regrssion
+
+Implement Logistic regrssion
 
 rtificial Neural Networks & Regression
 
