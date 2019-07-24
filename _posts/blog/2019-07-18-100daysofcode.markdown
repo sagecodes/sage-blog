@@ -11,9 +11,11 @@ published: true
 
 A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah). Read below project list micro blog posts about each day.
 
+Latest Day updated: Day 9 ☑
+
 ## Completed Projects & Case Studies during 100 days:
 
-These were completed during my 100 days of Machine Learning Code:
+#### Phase 1: Learn & Implement Basic Machine Learning & Deep Learning Models
 
 1. [Iris Classification - kNN](https://github.com/sagecodes/irsit-classification2-knn)
 2. [T-Shirt Classfication- kNN](https://github.com/sagecodes/tshirt-size-prediction-KNN)
@@ -27,6 +29,14 @@ These were completed during my 100 days of Machine Learning Code:
 10. [Fuel Consumption vs. horsepower - Simple Linear Regression](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
 11. [Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
 12. [Price vs Manufacturing - polynomial Regression](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression/blob/master/Cost%20per%20model%20prediction.ipynb)
+13. [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression/blob/master/s%26p%20500%20predict.ipynb)
+14. [Admissions - multiple regression](https://github.com/sagecodes/admission-multiple-regression)
+
+
+<!-- Phase 2: Focus on Computer Vision -->
+
+
+<!-- Phase 3: Round out -->
 
 
 <!-- ## Awesome Learning Resources
@@ -146,7 +156,7 @@ I Performed 2 simple linear regression case studies. Temperature vs. ice cream r
 
 ----------------
 
-## Day 8 ☐
+## Day 8 ☑
 
 Learn about Regression performance indicaters 
 
@@ -164,7 +174,7 @@ Worked on setting up a Style GAN for next interation of a project
 
 #### Neat reads:
 
-[Collection of Machine learning and Datat Science notebooks]https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+[Collection of Machine learning and Datat Science notebooks](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
 [Style GANs](https://arxiv.org/pdf/1812.04948.pdf) 
 
@@ -176,10 +186,35 @@ Worked on setting up a Style GAN for next interation of a project
 
 ----------------
 
-## Day 9 ☐
+## Day 9 ☑
 
+Implemented 2 Multiple Linear regrssion Models
 
-Implement Multiple Linear regrssion
+I learned to Calculate & Use:
+- Mean Squared error (MSE)
+- Root mean squared error (MSE)
+- Mean Absolute Percentage Error(MAPE)
+- Mean Percentage Error(MPE)
+- R squared 
+- Adjusted R squared 
+
+Read up on WGANs for a side project. WGANs sound like the might be a good option for what I need:
+
+WGAN reading material:
+
+- [WGAN Paper](https://arxiv.org/abs/1701.07875)
+- [WGAN Medium Article](https://medium.com/@jonathan_hui/gan-wasserstein-gan-wgan-gp-6a1a2aa1b490)
+
+#### Code for the day:
+
+- [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression)
+
+DataSet used
+[Kaggle Admission Dataset](https://www.kaggle.com/mohansacharya/graduate-admissions)
+
+----------------
+
+## Day 10 ☐
 
 Implement Logistic regrssion
 
@@ -190,16 +225,12 @@ Lasso & ridge regression
 Artificial Neural Network prediction
 
 
-----------------
-
-## Day 10 ☐
-
-Deep Neural Networks CIFAR
-
 
 ----------------
 
 ## Day 11 ☐
+
+Deep Neural Networks CIFAR
 
 Deep Learning & LE-NET
 
@@ -219,7 +250,7 @@ Reccomender System
 
 ## Day 14 ☐
 
-Deep Learning For Computer Vision
+Evaluate if time for Computer Vision focus or more ML basics
 
 
 ----------------
