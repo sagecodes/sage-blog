@@ -11,42 +11,6 @@ published: true
 
 A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah). Read below project list micro blog posts about each day.
 
-Latest Day updated: Day 9 ☑
-
-## Completed Projects & Case Studies during 100 days:
-
-#### Phase 1: Learn & Implement Basic Machine Learning & Deep Learning Models
-
-1. [Iris Classification - kNN](https://github.com/sagecodes/irsit-classification2-knn)
-2. [T-Shirt Classfication- kNN](https://github.com/sagecodes/tshirt-size-prediction-KNN)
-3. [Chicago Crime Rate time series forecast - FBprophet ](https://github.com/sagecodes/chicago-crime-prediction-fbprophet)
-4. [Avocado Price forecast - FBprophet](https://github.com/sagecodes/avocado-forecasting-fbprophet)
-5. [Alexa Amazon Review Classfication - Random Forest](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
-6. [Kyphosis Prediction - Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
-7. [Email Spam Classifer -  Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
-8. [Credit Card Fraud - Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
-9. [Icecream vs. Temp - Simple Linear Regression](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
-10. [Fuel Consumption vs. horsepower - Simple Linear Regression](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
-11. [Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
-12. [Price vs Manufacturing - polynomial Regression](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression/blob/master/Cost%20per%20model%20prediction.ipynb)
-13. [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression/blob/master/s%26p%20500%20predict.ipynb)
-14. [Admissions - multiple regression](https://github.com/sagecodes/admission-multiple-regression)
-
-
-<!-- Phase 2: Focus on Computer Vision -->
-
-
-<!-- Phase 3: Round out -->
-
-
-<!-- ## Awesome Learning Resources
-
-The structured learning resources I found really awesome as I went through my 100 days
-
-
-## Great Articles / links
-
-Great articles or links to code I found very helpful or insightful during the 100 days -->
 
 ----------------
 
@@ -73,7 +37,7 @@ Read more about forecasting at scale with prophet [here]( https://peerj.com/prep
 
 Read more about Time series [here](https://otexts.com/fpp2/arima.html). 
 
- Find the github for Facebook prohet [here](https://github.com/facebook/prophet). 
+ Find the github for Facebook prophet [here](https://github.com/facebook/prophet). 
 
 #### Code for the day:
 
@@ -97,7 +61,7 @@ Refreshed on some SQL and updating content on a SQL workshop
 ## Day 4 ☑
 
 Learned more about using decision trees and random forests also about text feature extraction with sklearn CountVectorizer.
-Used this to predict is a customer reviews on alexa were positive or negative.
+Used this to predict is a customer reviews on Alexa were positive or negative.
 
 Dataset used: [Kaggle Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/amazon-alexa-reviews)
 
@@ -113,7 +77,7 @@ Dataset used: [Kaggle Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/ama
 
 More Random Forests
 
-More Decision Trees and Random Forests. I'm really impressed with the random forest results! Used this Kyphosis Kaggle datset and visually it seems very hard to classify data points, but the classifier worked well. Cool to see how much better the random forest performed vs just the decsion tree.
+More Decision Trees and Random Forests. I'm really impressed with the random forest results! Used this Kyphosis Kaggle dataset and visually it seems very hard to classify data points, but the classifier worked well. Cool to see how much better the random forest performed vs just the decision tree.
 
 Dataset used: [Kaggle Kyphosis](https://www.kaggle.com/abbasit/kyphosis-dataset)
 
@@ -145,20 +109,20 @@ Completed [ Machine Learning Classification Bootcamp in Python](https://www.udem
 
 1 week down! 🎉
 
-Today was a good refresher on performing linear regrssion with scikit learn.
+Today was a good refresher on performing linear regression with scikit learn.
 
 I Performed 2 simple linear regression case studies. Temperature vs. ice cream revenue (relevant today in Seattle) & Horsepower vs fuel consumption.
 
 #### Code for the day:
 
-- [Icecream vs. Temp](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
+- [Ice cream vs. Temp](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
 - [Fuel Consumption vs. horsepower](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
 
 ----------------
 
 ## Day 8 ☑
 
-Learn about Regression performance indicaters 
+Learn about Regression performance indicators 
 
 - Mean Squared error (MSE)
 - Root mean squared error (MSE)
@@ -168,9 +132,9 @@ Learn about Regression performance indicaters
 - Adjusted R squared -
 - Bias & Variance Tradeoff
 
-Implemented Polynomial Regrssion with Scikit learn on Salary Data and Manufacturing price Data
+Implemented Polynomial Regression with Scikit learn on Salary Data and Manufacturing price Data
 
-Worked on setting up a Style GAN for next interation of a project
+Worked on setting up a Style GAN for next iteration of a project
 
 #### Neat reads:
 
@@ -188,7 +152,7 @@ Worked on setting up a Style GAN for next interation of a project
 
 ## Day 9 ☑
 
-Implemented 2 Multiple Linear regrssion Models
+Implemented 2 Multiple Linear regression Models
 
 I learned to Calculate & Use:
 - Mean Squared error (MSE)
@@ -214,21 +178,39 @@ DataSet used
 
 ----------------
 
-## Day 10 ☐
+## Day 10 ☑
 
-Implement Logistic regrssion
+Play around with more linear regression. Seeing what limiting features does to a model.
 
-rtificial Neural Networks & Regression
+Review Logistic Regression & Confusion Matrix results
 
-Lasso & ridge regression
+Lots of planning for Learning Roadmap! 
 
-Artificial Neural Network prediction
+Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/) by Edward Scheinerman to help with reading more advances machine learning material and technical papers.
+
+#### Reviewed Projects from last month:
+
+- [Ads clicked Logistic Regression](https://github.com/sagecodes/ad-clicks-logistic-regression)
+- [Titanic Survival - Logistic Regression](https://github.com/sagecodes/titanic-survival-logistic-regression)
+
+
+### Code for the Day:
+
+- [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression)
+
+
 
 
 
 ----------------
 
 ## Day 11 ☐
+
+Artificial Neural Networks & Regression
+
+Lasso & ridge regression
+
+Artificial Neural Network prediction
 
 Deep Neural Networks CIFAR
 
@@ -238,25 +220,34 @@ Deep Learning & LE-NET
 
 ## Day 12 ☐
 
-NLP w/ Bayes 
+Deep Neural Networks CIFAR
+
+Deep Learning & LE-NET
+
+
 
 ----------------
 
 ## Day 13 ☐
+NLP w/ Bayes 
 
-Reccomender System
+
 
 ----------------
 
 ## Day 14 ☐
 
-Evaluate if time for Computer Vision focus or more ML basics
+Reccomender System
+
 
 
 ----------------
 
 
 ## Day 15 ☐
+
+Evaluate if time for Computer Vision focus or more ML basics
+
 
 ----------------
 
@@ -612,3 +603,21 @@ DONE!!
 
 
 
+## Completed Projects & Case Studies during 100 days:
+
+#### Phase 1: Learn & Implement Basic Machine Learning & Deep Learning Models
+
+1. [Iris Classification - kNN](https://github.com/sagecodes/irsit-classification2-knn)
+2. [T-Shirt Classfication- kNN](https://github.com/sagecodes/tshirt-size-prediction-KNN)
+3. [Chicago Crime Rate time series forecast - FBprophet ](https://github.com/sagecodes/chicago-crime-prediction-fbprophet)
+4. [Avocado Price forecast - FBprophet](https://github.com/sagecodes/avocado-forecasting-fbprophet)
+5. [Alexa Amazon Review Classfication - Random Forest](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
+6. [Kyphosis Prediction - Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
+7. [Email Spam Classifer -  Naive Bayes](https://github.com/sagecodes/spam-classifier-naive-bayes/blob/master/Spam%20classifier.ipynb)
+8. [Credit Card Fraud - Naive Bayes](https://github.com/sagecodes/credit-fraud-classfier-naive-bayes/blob/master/Credit%20Card%20Fraud%20Classifier.ipynb)
+9. [Icecream vs. Temp - Simple Linear Regression](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
+10. [Fuel Consumption vs. horsepower - Simple Linear Regression](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
+11. [Salary Prediction with Polynominal Regression](https://github.com/sagecodes/salary-prediction-polynomial-regression/blob/master/salary%20prediction%20polynomial%20regression.ipynb)
+12. [Price vs Manufacturing - polynomial Regression](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression/blob/master/Cost%20per%20model%20prediction.ipynb)
+13. [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression/blob/master/s%26p%20500%20predict.ipynb)
+14. [Admissions - multiple regression](https://github.com/sagecodes/admission-multiple-regression)
