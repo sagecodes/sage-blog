@@ -184,9 +184,14 @@ Play around with more linear regression. Seeing what limiting featires does to a
 
 Review Logistic Regrssion & Confusion Matrix results
 
+Lots of planning for Learning Roadmap! 
+
+Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/) by Edward Scheinerman to help with reading more advances machine learning material and technical papers.
+
 #### Reviewed Projects from last month:
-[Ads clicked Logistic Regression](https://github.com/sagecodes/ad-clicks-logistic-regression)
-[Titanic Survival - Logistic Regression](https://github.com/sagecodes/titanic-survival-logistic-regression)
+
+- [Ads clicked Logistic Regression](https://github.com/sagecodes/ad-clicks-logistic-regression)
+- [Titanic Survival - Logistic Regression](https://github.com/sagecodes/titanic-survival-logistic-regression)
 
 
 ### Code for the Day:
