@@ -37,7 +37,7 @@ Read more about forecasting at scale with prophet [here]( https://peerj.com/prep
 
 Read more about Time series [here](https://otexts.com/fpp2/arima.html). 
 
- Find the github for Facebook prohet [here](https://github.com/facebook/prophet). 
+ Find the github for Facebook prophet [here](https://github.com/facebook/prophet). 
 
 #### Code for the day:
 
@@ -61,7 +61,7 @@ Refreshed on some SQL and updating content on a SQL workshop
 ## Day 4 ☑
 
 Learned more about using decision trees and random forests also about text feature extraction with sklearn CountVectorizer.
-Used this to predict is a customer reviews on alexa were positive or negative.
+Used this to predict is a customer reviews on Alexa were positive or negative.
 
 Dataset used: [Kaggle Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/amazon-alexa-reviews)
 
@@ -77,7 +77,7 @@ Dataset used: [Kaggle Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/ama
 
 More Random Forests
 
-More Decision Trees and Random Forests. I'm really impressed with the random forest results! Used this Kyphosis Kaggle datset and visually it seems very hard to classify data points, but the classifier worked well. Cool to see how much better the random forest performed vs just the decsion tree.
+More Decision Trees and Random Forests. I'm really impressed with the random forest results! Used this Kyphosis Kaggle dataset and visually it seems very hard to classify data points, but the classifier worked well. Cool to see how much better the random forest performed vs just the decision tree.
 
 Dataset used: [Kaggle Kyphosis](https://www.kaggle.com/abbasit/kyphosis-dataset)
 
@@ -109,20 +109,20 @@ Completed [ Machine Learning Classification Bootcamp in Python](https://www.udem
 
 1 week down! 🎉
 
-Today was a good refresher on performing linear regrssion with scikit learn.
+Today was a good refresher on performing linear regression with scikit learn.
 
 I Performed 2 simple linear regression case studies. Temperature vs. ice cream revenue (relevant today in Seattle) & Horsepower vs fuel consumption.
 
 #### Code for the day:
 
-- [Icecream vs. Temp](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
+- [Ice cream vs. Temp](https://github.com/sagecodes/Icecream-temp-simple-linear-regression/blob/master/ice%20cream%20vs%20temp%20regression.ipynb)
 - [Fuel Consumption vs. horsepower](https://github.com/sagecodes/fuel-consumption-linear-regression/blob/master/fuel%20consumption.ipynb)
 
 ----------------
 
 ## Day 8 ☑
 
-Learn about Regression performance indicaters 
+Learn about Regression performance indicators 
 
 - Mean Squared error (MSE)
 - Root mean squared error (MSE)
@@ -132,9 +132,9 @@ Learn about Regression performance indicaters
 - Adjusted R squared -
 - Bias & Variance Tradeoff
 
-Implemented Polynomial Regrssion with Scikit learn on Salary Data and Manufacturing price Data
+Implemented Polynomial Regression with Scikit learn on Salary Data and Manufacturing price Data
 
-Worked on setting up a Style GAN for next interation of a project
+Worked on setting up a Style GAN for next iteration of a project
 
 #### Neat reads:
 
@@ -152,7 +152,7 @@ Worked on setting up a Style GAN for next interation of a project
 
 ## Day 9 ☑
 
-Implemented 2 Multiple Linear regrssion Models
+Implemented 2 Multiple Linear regression Models
 
 I learned to Calculate & Use:
 - Mean Squared error (MSE)
@@ -180,9 +180,9 @@ DataSet used
 
 ## Day 10 ☑
 
-Play around with more linear regression. Seeing what limiting featires does to a model.
+Play around with more linear regression. Seeing what limiting features does to a model.
 
-Review Logistic Regrssion & Confusion Matrix results
+Review Logistic Regression & Confusion Matrix results
 
 Lots of planning for Learning Roadmap! 
 
