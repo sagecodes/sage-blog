@@ -182,11 +182,11 @@ DataSet used
 
 Play around with more linear regression. Seeing what limiting features does to a model.
 
-Review Logistic Regression & Confusion Matrix results
+Reviewed Logistic Regression & Confusion Matrix results
 
-Lots of planning for Learning Roadmap! 
+Lots of planning for Learning Roadmap!
 
-Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/) by Edward Scheinerman to help with reading more advances machine learning material and technical papers.
+Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/) by Edward Scheinerman to help with reading more advanced machine learning material and technical papers.
 
 #### Reviewed Projects from last month:
 
@@ -206,29 +206,33 @@ Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Gui
 
 ## Day 11 ☐
 
-Artificial Neural Networks & Regression
+Implemented a Regression Artificial Neural Network to predict house prices in king county(Seattle). I have more tuning to do on it tomorrow for better results.
 
-Lasso & ridge regression
+Dataset: [King county House data](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
-Artificial Neural Network prediction
+### Code for the Day:
 
-Deep Neural Networks CIFAR
+[Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
 
-Deep Learning & LE-NET
+
 
 ----------------
 
 ## Day 12 ☐
 
-Deep Neural Networks CIFAR
+Artificial Neural Network prediction
 
-Deep Learning & LE-NET
+
 
 
 
 ----------------
 
 ## Day 13 ☐
+
+Deep Neural Networks CIFAR
+
+Deep Learning & LE-NET
 NLP w/ Bayes 
 
 
