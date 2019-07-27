@@ -182,11 +182,11 @@ DataSet used
 
 Play around with more linear regression. Seeing what limiting features does to a model.
 
-Review Logistic Regression & Confusion Matrix results
+Reviewed Logistic Regression & Confusion Matrix results
 
-Lots of planning for Learning Roadmap! 
+Lots of planning for Learning Roadmap!
 
-Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/) by Edward Scheinerman to help with reading more advances machine learning material and technical papers.
+Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Guide-Engineers-Scientists/dp/1466230525/) by Edward Scheinerman to help with reading more advanced machine learning material and technical papers.
 
 #### Reviewed Projects from last month:
 
@@ -206,29 +206,39 @@ Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Gui
 
 ## Day 11 ☐
 
-Artificial Neural Networks & Regression
+Implemented a Regression Artificial Neural Network to predict house prices in king county(Seattle). I have more tuning to do on it tomorrow for better results.
 
-Lasso & ridge regression
+Dataset: [King county House data](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
-Artificial Neural Network prediction
+### Code for the Day:
 
-Deep Neural Networks CIFAR
+- [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
 
-Deep Learning & LE-NET
+
 
 ----------------
 
 ## Day 12 ☐
 
-Deep Neural Networks CIFAR
+Super busy today so I woke up at 6 to get my study time in. 
 
-Deep Learning & LE-NET
+Tuned the neural network I worked on last night to perform much better at prediction.
+
+Implemented Lasso & Ridge Regression.
+
+- [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
+
+- [house predict - lasso & ridge-regrssion](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
 
 
 
 ----------------
 
 ## Day 13 ☐
+
+Deep Neural Networks CIFAR
+
+Deep Learning & LE-NET
 NLP w/ Bayes 
 
 
@@ -621,3 +631,6 @@ DONE!!
 12. [Price vs Manufacturing - polynomial Regression](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression/blob/master/Cost%20per%20model%20prediction.ipynb)
 13. [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression/blob/master/s%26p%20500%20predict.ipynb)
 14. [Admissions - multiple regression](https://github.com/sagecodes/admission-multiple-regression)
+15. [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
+
+16. [house predict - lasso & ridge-regrssion](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
