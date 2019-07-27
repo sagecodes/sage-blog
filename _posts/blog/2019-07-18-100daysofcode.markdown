@@ -212,7 +212,7 @@ Dataset: [King county House data](https://www.kaggle.com/harlfoxem/housesalespre
 
 ### Code for the Day:
 
-[Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
+- [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
 
 
 
@@ -220,9 +220,15 @@ Dataset: [King county House data](https://www.kaggle.com/harlfoxem/housesalespre
 
 ## Day 12 ☐
 
-Artificial Neural Network prediction
+Super busy today so I woke up at 6 to get my study time in. 
 
+Tuned the neural network I worked on last night to perform much better at prediction.
 
+Implemented Lasso & Ridge Regression.
+
+- [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
+
+- [house predict - lasso & ridge-regrssion](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
 
 
 
@@ -625,3 +631,6 @@ DONE!!
 12. [Price vs Manufacturing - polynomial Regression](https://github.com/sagecodes/price-vs-manufacturing-polynomial-regression/blob/master/Cost%20per%20model%20prediction.ipynb)
 13. [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression/blob/master/s%26p%20500%20predict.ipynb)
 14. [Admissions - multiple regression](https://github.com/sagecodes/admission-multiple-regression)
+15. [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
+
+16. [house predict - lasso & ridge-regrssion](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
