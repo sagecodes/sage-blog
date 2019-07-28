@@ -236,16 +236,25 @@ Implemented Lasso & Ridge Regression.
 
 ## Day 13 ☐
 
-Deep Neural Networks CIFAR
+More focus on theroy today over fininshing project
 
-Deep Learning & LE-NET
-NLP w/ Bayes 
+Started reading [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947) and planning out other details to continue on a GAN project. 
 
+Started implementing a Artificial Neural Network to predict car sales. (Regression)
 
+### Code for the Day:
+
+- [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
+- [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
 
 ----------------
 
 ## Day 14 ☐
+
+Deep Neural Networks CIFAR
+
+Deep Learning & LE-NET
+NLP w/ Bayes 
 
 Reccomender System
 
@@ -632,5 +641,6 @@ DONE!!
 13. [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression/blob/master/s%26p%20500%20predict.ipynb)
 14. [Admissions - multiple regression](https://github.com/sagecodes/admission-multiple-regression)
 15. [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
-
 16. [house predict - lasso & ridge-regrssion](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
+17. [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
+18. [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
