@@ -204,7 +204,7 @@ Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Gui
 
 ----------------
 
-## Day 11 ☐
+## Day 11 ☑
 
 Implemented a Regression Artificial Neural Network to predict house prices in king county(Seattle). I have more tuning to do on it tomorrow for better results.
 
@@ -218,7 +218,7 @@ Dataset: [King county House data](https://www.kaggle.com/harlfoxem/housesalespre
 
 ----------------
 
-## Day 12 ☐
+## Day 12 ☑
 
 Super busy today so I woke up at 6 to get my study time in. 
 
@@ -234,7 +234,7 @@ Implemented Lasso & Ridge Regression.
 
 ----------------
 
-## Day 13 ☐
+## Day 13 ☑
 
 More focus on theroy today over fininshing project
 
@@ -249,132 +249,218 @@ Started implementing a Artificial Neural Network to predict car sales. (Regressi
 
 ----------------
 
-## Day 14 ☐
+## Day 14 ☑
 
-Deep Neural Networks CIFAR
+Finished artificial neural network for another regression task
 
-Deep Learning & LE-NET
-NLP w/ Bayes 
+Started on a convolutional neural network for classification on the cifar datset.
 
-Reccomender System
-
-
-
+### Code for the Day:
+- [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
+- [cifar imageclassifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
 ----------------
 
 
-## Day 15 ☐
+## Day 15 ☑
 
-Evaluate if time for Computer Vision focus or more ML basics
+Finished a Convolutional neural network(CNN) for the cifar data-set. 
+
+Messing around a lot with tuning a CNN and refreshed on data augmentation.
+
+Very excited to dive more into Deep Learning & Computer vision soon!
+
+This data engineering [repo / book](https://github.com/andkret/Cookbook) looks great 
+
+### Code for the Day:
+
+- [cifar imageclassifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
 
 
 ----------------
 
 ## Day 16 ☐
 
+Deep Learning & LE-NET
+
+
 ----------------
 
 ## Day 17 ☐
+
+NLP w/ Bayes 
+
+
+
 
 ----------------
 
 ## Day 18 ☐
 
+Reccomender System
+
+
 ----------------
 
 ## Day 19 ☐
 
+Start RL Amaazon Deep Racer
 ----------------
 
 ## Day 20 ☐
+
+Start RL Amaazon Deep Racer
 
 ----------------
 
 ## Day 21 ☐
 
+Start RL Amaazon Deep Racer
+
 ----------------
 
 ## Day 22 ☐
+
+Deep Learning for Computer Vision 1
 
 ----------------
 
 ## Day 23 ☐
 
+Deep Learning for Computer Vision 1
+
+
 ----------------
 
 ## Day 24 ☐
+
+Deep Learning for Computer Vision 1
+
 
 ----------------
 
 ## Day 25 ☐
 
+Deep Learning for Computer Vision 1
+
+
 ----------------
 
 ## Day 26 ☐
+
+Deep Learning for Computer Vision 1
+
 
 ----------------
 
 ## Day 27 ☐
 
+Deep Learning for Computer Vision 1
+
+
 ----------------
 
 ## Day 28 ☐
+
+Deep Learning for Computer Vision 1
+
 
 ----------------
 
 ## Day 29 ☐
 
+Deep Learning for Computer Vision 2
+
+
 ----------------
 
 ## Day 30 ☐
+
+Deep Learning for Computer Vision 2
+
 
 ----------------
 
 ## Day 31 ☐
 
+Deep Learning for Computer Vision 2
+
+
 ----------------
 
 ## Day 32 ☐
+
+Deep Learning for Computer Vision 2
+
 
 ----------------
 
 ## Day 33 ☐
 
+Deep Learning for Computer Vision 2
+
+
 ----------------
 
 ## Day 34 ☐
+
+Deep Learning for Computer Vision 2
+
 
 ----------------
 
 ## Day 35 ☐
 
+Deep Learning for Computer Vision 2
+
+
 ----------------
 
 ## Day 36 ☐
+
+Deep Learning for Computer Vision 3
+
 
 ----------------
 
 ## Day 37 ☐
 
+Deep Learning for Computer Vision 3
+
+
 ----------------
 
 ## Day 38 ☐
+
+Deep Learning for Computer Vision 3
+
 
 ----------------
 
 ## Day 39 ☐
 
+Deep Learning for Computer Vision 3
+
+
 ----------------
 
 ## Day 40 ☐
+
+Deep Learning for Computer Vision 3
+
 
 ----------------
 
 ## Day 41 ☐
 
+Deep Learning for Computer Vision 3
+
+
 ----------------
 
 ## Day 42 ☐
+
+Deep Learning for Computer Vision 3
+
 
 ----------------
 
@@ -416,6 +502,10 @@ Evaluate if time for Computer Vision focus or more ML basics
 
 ## Day 50 ☐
 HALF WAY!
+
+Round out on resources for application & theory
+
+Start planning more serious projects
 
 ----------------
 
@@ -557,6 +647,8 @@ HALF WAY!
 
 ## Day 85 ☐
 
+CAPSTONE type Project(s)
+
 ----------------
 
 ## Day 86 ☐
@@ -644,3 +736,7 @@ DONE!!
 16. [house predict - lasso & ridge-regrssion](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
 17. [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
 18. [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
+19. [cifar imageclassifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
+
+
+<!-- ## Resources: -->
