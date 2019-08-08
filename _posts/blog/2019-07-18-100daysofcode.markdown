@@ -278,70 +278,130 @@ This data engineering [repo / book](https://github.com/andkret/Cookbook) looks g
 
 ----------------
 
-## Day 16 ☐
+## Day 16 ☑
 
-Deep Learning & LE-NET
+Started on a Traffic sign classifier using a the LeNet architecture.
+[LeNet Paper](link: http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
 
+### Code for the Day:
+
+- [Traffic sign classifier](https://github.com/sagecodes/traffic-signs-classifier-lenet)
+----------------
+
+## Day 17 ☑
+
+Finished a traffic sign classifier with a convolutional neural network and LetNet with decent initial results. Taught a class on web scraping with python.
+
+### Code for the Day:
+
+- [Traffic sign classifier](https://github.com/sagecodes/traffic-signs-classifier-lenet)
 
 ----------------
 
-## Day 17 ☐
+## Day 18 ☑
 
-NLP w/ Bayes 
+day18: Trained first reinforcement learning model for AWS Deepracer leagues!
 
+Started on a Yelp classification project using NLTK 
 
+Loosing a bit of steam the past 2 days, looking to build it back up this week(tips?)!
 
+### Code for the Day:
 
-----------------
-
-## Day 18 ☐
-
-Reccomender System
-
+- [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
 
 ----------------
 
-## Day 19 ☐
+## Day 19 ☑
 
-Start RL Amaazon Deep Racer
-----------------
+day19 #100DaysOfMLCode #100DaysOfCode 
+Worked on exploring dataset for yelp NLP project using Pandas and Seaborn.
 
-## Day 20 ☐
+Acquired a neat hardware dev kit I'm excited to work on this coming week.
 
-Start RL Amaazon Deep Racer
+### Code for the Day:
 
-----------------
-
-## Day 21 ☐
-
-Start RL Amaazon Deep Racer
+- [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
 
 ----------------
 
-## Day 22 ☐
+## Day 20 ☑
+
+day20: #100DaysOfCode #100DaysOfMLCode 
+
+Worked more on an Yelp review classifier using some very basic NLP with NLTK and naive bayes. 
+
+Moving AWS deepracer work to next weekend to accommodate for some things that came up!
+
+### Code for the Day:
+
+- [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
+
+----------------
+
+## Day 21 ☑
+
+Day21: #100DaysOfMLCode #100daysOfCode
+
+finished Yelp basic NLP project
+
+Finished a basic movie recommender using  collaborative based filtering 
+
+started setting up hardware devkit to play with this week
+
+### Code for the Day:
+
+- [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
+- [Movie Recommender - collab filtering](https://github.com/sagecodes/movie-recommender-collab-filter)
+
+----------------
+
+## Day 22 ☑
+
+Day22 #100DaysOfCode #100DaysOfMLCode 
+
+Started on classifier for Fashion MNIST dataset using a convolution neural network(CNN)
+
+Reviewed some python and pandas functions
+
+Busy day but still squeezed in an hour, I got this! 😆
+
+### Code for the Day:
+- [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
+
+----------------
+
+## Day 23 ☑
+
+Day23 worked a little bit more on the fashion classifier. 
+
+Planned out some more interesting personal projects
+
+Made a big decision that was kind of stressing me out, so should be able to focus more!
+
+### Code for the Day:
+- [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
+
+----------------
+
+## Day 24 ☑
+
+Study session with Jay! 
+
+Reviewed regression and classification models in sklearn
+
+Taught intro to machine learning workshop
+
+### Code for the Day:
+
+- [Intro to Machine Learning](https://github.com/sagecodes/intro-machine-learning)
+----------------
+
+## Day 25 ☑
 
 Deep Learning for Computer Vision 1
 
-----------------
-
-## Day 23 ☐
-
-Deep Learning for Computer Vision 1
-
-
-----------------
-
-## Day 24 ☐
-
-Deep Learning for Computer Vision 1
-
-
-----------------
-
-## Day 25 ☐
-
-Deep Learning for Computer Vision 1
-
+### Code for the Day:
 
 ----------------
 
