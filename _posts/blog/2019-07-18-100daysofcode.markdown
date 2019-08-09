@@ -204,7 +204,7 @@ Started [Mathematical Notation](https://www.amazon.com/Mathematical-Notation-Gui
 
 ----------------
 
-## Day 11 ☐
+## Day 11 ☑
 
 Implemented a Regression Artificial Neural Network to predict house prices in king county(Seattle). I have more tuning to do on it tomorrow for better results.
 
@@ -218,7 +218,7 @@ Dataset: [King county House data](https://www.kaggle.com/harlfoxem/housesalespre
 
 ----------------
 
-## Day 12 ☐
+## Day 12 ☑
 
 Super busy today so I woke up at 6 to get my study time in. 
 
@@ -234,179 +234,356 @@ Implemented Lasso & Ridge Regression.
 
 ----------------
 
-## Day 13 ☐
+## Day 13 ☑
 
-Deep Neural Networks CIFAR
+More focus on theroy today over fininshing project
 
-Deep Learning & LE-NET
-NLP w/ Bayes 
+Started reading [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947) and planning out other details to continue on a GAN project. 
 
+Started implementing a Artificial Neural Network to predict car sales. (Regression)
+
+### Code for the Day:
+
+- [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
+- [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
+
+----------------
+
+## Day 14 ☑
+
+Finished artificial neural network for another regression task
+
+Started on a convolutional neural network for classification on the cifar datset.
+
+### Code for the Day:
+
+- [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
+- [cifar imageclassifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
+
+----------------
+
+
+## Day 15 ☑
+
+Finished a Convolutional neural network(CNN) for the cifar data-set. 
+
+Messing around a lot with tuning a CNN and refreshed on data augmentation.
+
+Very excited to dive more into Deep Learning & Computer vision soon!
+
+This data engineering [repo / book](https://github.com/andkret/Cookbook) looks great 
+
+### Code for the Day:
+
+- [cifar imageclassifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
 
 
 ----------------
 
-## Day 14 ☐
+## Day 16 ☑
 
-Reccomender System
+Started on a Traffic sign classifier using a the LeNet architecture.
+[LeNet Paper](link: http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
 
+### Code for the Day:
 
-
-----------------
-
-
-## Day 15 ☐
-
-Evaluate if time for Computer Vision focus or more ML basics
-
+- [Traffic sign classifier](https://github.com/sagecodes/traffic-signs-classifier-lenet)
 
 ----------------
 
-## Day 16 ☐
+## Day 17 ☑
+
+Finished a traffic sign classifier with a convolutional neural network and LetNet with decent initial results. Taught a class on web scraping with python.
+
+### Code for the Day:
+
+- [Traffic sign classifier](https://github.com/sagecodes/traffic-signs-classifier-lenet)
 
 ----------------
 
-## Day 17 ☐
+## Day 18 ☑
+
+Trained first reinforcement learning model for AWS Deepracer leagues!
+
+Started on a Yelp classification project using NLTK 
+
+Loosing a bit of steam the past 2 days, looking to build it back up this week(tips?)!
+
+### Code for the Day:
+
+- [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
 
 ----------------
 
-## Day 18 ☐
+## Day 19 ☑
+
+Worked on exploring dataset for yelp NLP project using Pandas and Seaborn.
+
+Acquired a neat hardware dev kit I'm excited to work on this coming week.
+
+### Code for the Day:
+
+- [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
 
 ----------------
 
-## Day 19 ☐
+## Day 20 ☑
+
+Worked more on an Yelp review classifier using some very basic NLP with NLTK and naive bayes. 
+
+Moving AWS deepracer work to next weekend to accommodate for some things that came up!
+
+### Code for the Day:
+
+- [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
 
 ----------------
 
-## Day 20 ☐
+## Day 21 ☑
+
+finished Yelp basic NLP project
+
+Finished a basic movie recommender using  collaborative based filtering 
+
+started setting up hardware devkit to play with this week
+
+### Code for the Day:
+
+- [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
+- [Movie Recommender - collab filtering](https://github.com/sagecodes/movie-recommender-collab-filter)
 
 ----------------
 
-## Day 21 ☐
+## Day 22 ☑
+
+Started on classifier for Fashion MNIST dataset using a convolution neural network(CNN)
+
+Reviewed some python and pandas functions
+
+Busy day but still squeezed in an hour, I got this! 😆
+
+### Code for the Day:
+
+- [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
 
 ----------------
 
-## Day 22 ☐
+## Day 23 ☑
+
+Day23 worked a little bit more on the fashion classifier. 
+
+Planned out some more interesting personal projects
+
+Made a big decision that was kind of stressing me out, so should be able to focus more!
+
+### Code for the Day:
+
+- [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
 
 ----------------
 
-## Day 23 ☐
+## Day 24 ☑
+
+Study session with Jay! 
+
+Reviewed regression and classification models in sklearn
+
+Taught intro to machine learning workshop
+
+### Code for the Day:
+
+- [Intro to Machine Learning](https://github.com/sagecodes/intro-machine-learning)
 
 ----------------
 
-## Day 24 ☐
+## Day 25 ☑
 
-----------------
 
-## Day 25 ☐
+
+### Code for the Day:
 
 ----------------
 
 ## Day 26 ☐
 
+Fashion MNIST
+
+Customer Subscription Behavior 
+
 ----------------
 
 ## Day 27 ☐
+
+Minimize churn Rate
 
 ----------------
 
 ## Day 28 ☐
 
+
 ----------------
 
 ## Day 29 ☐
+
+Deep Learning for Computer Vision 1
+
 
 ----------------
 
 ## Day 30 ☐
 
+Deep Learning for Computer Vision 1
+
+WGAN
+
+
 ----------------
 
 ## Day 31 ☐
+
+Deep Learning for Computer Vision 1
+
 
 ----------------
 
 ## Day 32 ☐
 
+Deep Learning for Computer Vision 1
+
+
 ----------------
 
 ## Day 33 ☐
+
+Deep Learning for Computer Vision 1
+
 
 ----------------
 
 ## Day 34 ☐
 
+Deep Learning for Computer Vision 1
+
+
 ----------------
 
 ## Day 35 ☐
+
+Deep Learning for Computer Vision 1
+
 
 ----------------
 
 ## Day 36 ☐
 
+Deep Learning for Computer Vision 2
+
+
 ----------------
 
 ## Day 37 ☐
+
+Deep Learning for Computer Vision 2
+
 
 ----------------
 
 ## Day 38 ☐
 
+Deep Learning for Computer Vision 2
+
+
 ----------------
 
 ## Day 39 ☐
+
+Deep Learning for Computer Vision 2
+
 
 ----------------
 
 ## Day 40 ☐
 
-----------------
+Deep Learning for Computer Vision 2
 
-## Day 41 ☐
-
-----------------
-
-## Day 42 ☐
 
 ----------------
 
 ## Day 41 ☐
 
+Deep Learning for Computer Vision 2
+
+
 ----------------
 
 ## Day 42 ☐
+
+Deep Learning for Computer Vision 2
+
+
+----------------
+
+## Day 41 ☐
+
+Deep Learning for Computer Vision 2
+
+
+----------------
+
+## Day 42 ☐
+
+Deep Learning for Computer Vision 3
 
 ----------------
 
 ## Day 43 ☐
 
+Deep Learning for Computer Vision 3
+
 ----------------
 
 ## Day 44 ☐
+
+Deep Learning for Computer Vision 3
 
 ----------------
 
 ## Day 45 ☐
 
+Deep Learning for Computer Vision 3
+
 ----------------
 
 ## Day 46 ☐
+
+Deep Learning for Computer Vision 3
 
 ----------------
 
 ## Day 47 ☐
 
+Deep Learning for Computer Vision 3
+
 ----------------
 
 ## Day 48 ☐
+
+Deep Learning for Computer Vision 3
 
 ----------------
 
 ## Day 49 ☐
 
+Deep Learning for Computer Vision 3
+
 ----------------
 
 ## Day 50 ☐
 HALF WAY!
+
+Round out on resources for application & theory
+
+Start planning more serious projects
 
 ----------------
 
@@ -548,6 +725,8 @@ HALF WAY!
 
 ## Day 85 ☐
 
+CAPSTONE type Project(s)
+
 ----------------
 
 ## Day 86 ☐
@@ -632,5 +811,10 @@ DONE!!
 13. [stock employment - multiple regression](https://github.com/sagecodes/stock-employment-multiple-regression/blob/master/s%26p%20500%20predict.ipynb)
 14. [Admissions - multiple regression](https://github.com/sagecodes/admission-multiple-regression)
 15. [Seattle House price prediction-ANN-Regression](https://github.com/sagecodes/house-price-prediction-ANN)
-
 16. [house predict - lasso & ridge-regrssion](https://github.com/sagecodes/house-predict-lasso-ridge-regrssion)
+17. [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
+18. [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
+19. [cifar imageclassifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
+
+
+<!-- ## Resources: -->
