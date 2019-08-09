@@ -256,8 +256,10 @@ Finished artificial neural network for another regression task
 Started on a convolutional neural network for classification on the cifar datset.
 
 ### Code for the Day:
+
 - [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
 - [cifar imageclassifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
+
 ----------------
 
 
@@ -286,6 +288,7 @@ Started on a Traffic sign classifier using a the LeNet architecture.
 ### Code for the Day:
 
 - [Traffic sign classifier](https://github.com/sagecodes/traffic-signs-classifier-lenet)
+
 ----------------
 
 ## Day 17 ☑
@@ -300,7 +303,7 @@ Finished a traffic sign classifier with a convolutional neural network and LetNe
 
 ## Day 18 ☑
 
-day18: Trained first reinforcement learning model for AWS Deepracer leagues!
+Trained first reinforcement learning model for AWS Deepracer leagues!
 
 Started on a Yelp classification project using NLTK 
 
@@ -314,7 +317,6 @@ Loosing a bit of steam the past 2 days, looking to build it back up this week(ti
 
 ## Day 19 ☑
 
-day19 #100DaysOfMLCode #100DaysOfCode 
 Worked on exploring dataset for yelp NLP project using Pandas and Seaborn.
 
 Acquired a neat hardware dev kit I'm excited to work on this coming week.
@@ -327,8 +329,6 @@ Acquired a neat hardware dev kit I'm excited to work on this coming week.
 
 ## Day 20 ☑
 
-day20: #100DaysOfCode #100DaysOfMLCode 
-
 Worked more on an Yelp review classifier using some very basic NLP with NLTK and naive bayes. 
 
 Moving AWS deepracer work to next weekend to accommodate for some things that came up!
@@ -340,8 +340,6 @@ Moving AWS deepracer work to next weekend to accommodate for some things that ca
 ----------------
 
 ## Day 21 ☑
-
-Day21: #100DaysOfMLCode #100daysOfCode
 
 finished Yelp basic NLP project
 
@@ -358,8 +356,6 @@ started setting up hardware devkit to play with this week
 
 ## Day 22 ☑
 
-Day22 #100DaysOfCode #100DaysOfMLCode 
-
 Started on classifier for Fashion MNIST dataset using a convolution neural network(CNN)
 
 Reviewed some python and pandas functions
@@ -367,6 +363,7 @@ Reviewed some python and pandas functions
 Busy day but still squeezed in an hour, I got this! 😆
 
 ### Code for the Day:
+
 - [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
 
 ----------------
@@ -380,6 +377,7 @@ Planned out some more interesting personal projects
 Made a big decision that was kind of stressing me out, so should be able to focus more!
 
 ### Code for the Day:
+
 - [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
 
 ----------------
@@ -395,11 +393,12 @@ Taught intro to machine learning workshop
 ### Code for the Day:
 
 - [Intro to Machine Learning](https://github.com/sagecodes/intro-machine-learning)
+
 ----------------
 
 ## Day 25 ☑
 
-Deep Learning for Computer Vision 1
+
 
 ### Code for the Day:
 
@@ -407,112 +406,126 @@ Deep Learning for Computer Vision 1
 
 ## Day 26 ☐
 
-Deep Learning for Computer Vision 1
+Fashion MNIST
 
+Customer Subscription Behavior 
 
 ----------------
 
 ## Day 27 ☐
 
-Deep Learning for Computer Vision 1
-
+Minimize churn Rate
 
 ----------------
 
 ## Day 28 ☐
-
-Deep Learning for Computer Vision 1
 
 
 ----------------
 
 ## Day 29 ☐
 
-Deep Learning for Computer Vision 2
+Deep Learning for Computer Vision 1
 
 
 ----------------
 
 ## Day 30 ☐
 
-Deep Learning for Computer Vision 2
+Deep Learning for Computer Vision 1
+
+WGAN
 
 
 ----------------
 
 ## Day 31 ☐
 
-Deep Learning for Computer Vision 2
+Deep Learning for Computer Vision 1
 
 
 ----------------
 
 ## Day 32 ☐
 
-Deep Learning for Computer Vision 2
+Deep Learning for Computer Vision 1
 
 
 ----------------
 
 ## Day 33 ☐
 
-Deep Learning for Computer Vision 2
+Deep Learning for Computer Vision 1
 
 
 ----------------
 
 ## Day 34 ☐
 
-Deep Learning for Computer Vision 2
+Deep Learning for Computer Vision 1
 
 
 ----------------
 
 ## Day 35 ☐
 
-Deep Learning for Computer Vision 2
+Deep Learning for Computer Vision 1
 
 
 ----------------
 
 ## Day 36 ☐
 
-Deep Learning for Computer Vision 3
+Deep Learning for Computer Vision 2
 
 
 ----------------
 
 ## Day 37 ☐
 
-Deep Learning for Computer Vision 3
+Deep Learning for Computer Vision 2
 
 
 ----------------
 
 ## Day 38 ☐
 
-Deep Learning for Computer Vision 3
+Deep Learning for Computer Vision 2
 
 
 ----------------
 
 ## Day 39 ☐
 
-Deep Learning for Computer Vision 3
+Deep Learning for Computer Vision 2
 
 
 ----------------
 
 ## Day 40 ☐
 
-Deep Learning for Computer Vision 3
+Deep Learning for Computer Vision 2
 
 
 ----------------
 
 ## Day 41 ☐
 
-Deep Learning for Computer Vision 3
+Deep Learning for Computer Vision 2
+
+
+----------------
+
+## Day 42 ☐
+
+Deep Learning for Computer Vision 2
+
+
+----------------
+
+## Day 41 ☐
+
+Deep Learning for Computer Vision 2
 
 
 ----------------
@@ -520,43 +533,48 @@ Deep Learning for Computer Vision 3
 ## Day 42 ☐
 
 Deep Learning for Computer Vision 3
-
-
-----------------
-
-## Day 41 ☐
-
-----------------
-
-## Day 42 ☐
 
 ----------------
 
 ## Day 43 ☐
 
+Deep Learning for Computer Vision 3
+
 ----------------
 
 ## Day 44 ☐
+
+Deep Learning for Computer Vision 3
 
 ----------------
 
 ## Day 45 ☐
 
+Deep Learning for Computer Vision 3
+
 ----------------
 
 ## Day 46 ☐
+
+Deep Learning for Computer Vision 3
 
 ----------------
 
 ## Day 47 ☐
 
+Deep Learning for Computer Vision 3
+
 ----------------
 
 ## Day 48 ☐
 
+Deep Learning for Computer Vision 3
+
 ----------------
 
 ## Day 49 ☐
+
+Deep Learning for Computer Vision 3
 
 ----------------
 
