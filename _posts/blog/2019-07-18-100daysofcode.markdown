@@ -11,11 +11,19 @@ published: true
 
 A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah). Read below project list micro blog posts about each day.
 
+I decided to split up the 100 days into 4 phases. Roughly 25 days each.
+
+- phase 1: Quick implementations and accelerated learning
+- phase 2: Specialization (Computer Vision)
+- phase 3: Round out knowledge, Deploy Models & start project planning
+- Phase 4: Capstone projects
 
 ----------------
 
 
 ## Day 1 ☑
+
+Start phase 1: Quick implementations and accelerated learning
 
 Continue learning about classification models in scikit learn.
 
@@ -399,22 +407,27 @@ Taught intro to machine learning workshop
 ## Day 25 ☑
 
 
+### Code for the Day:
+
+- [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
+
+----------------
+
+## Day 26 ☑
+
+Finished fashion MNIST classifier. 
+
+[Deep fashion dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) looks awesome to try sometime soon!
 
 ### Code for the Day:
 
-----------------
-
-## Day 26 ☐
-
-Fashion MNIST
-
-Customer Subscription Behavior 
+- [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
 
 ----------------
 
-## Day 27 ☐
+## Day 27 ☑
 
-Minimize churn Rate
+
 
 ----------------
 
@@ -424,6 +437,8 @@ Minimize churn Rate
 ----------------
 
 ## Day 29 ☐
+
+phase 2: Specialization (Computer Vision)
 
 Deep Learning for Computer Vision 1
 
@@ -579,6 +594,7 @@ Deep Learning for Computer Vision 3
 ----------------
 
 ## Day 50 ☐
+
 HALF WAY!
 
 Round out on resources for application & theory
@@ -588,6 +604,8 @@ Start planning more serious projects
 ----------------
 
 ## Day 51 ☐
+
+Phase 3
 
 ----------------
 
@@ -815,6 +833,8 @@ DONE!!
 17. [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
 18. [Car Sales Prediction - ANN](https://github.com/sagecodes/car-sales-prediction-ANN)
 19. [cifar imageclassifier - CNN](https://github.com/sagecodes/cifar-classifier-CNN)
-
-
+20. [Traffic sign classifier](https://github.com/sagecodes/traffic-signs-classifier-lenet)
+21. [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
+22. [Movie Recommender - collab filtering](https://github.com/sagecodes/movie-recommender-collab-filter)
+23. [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
 <!-- ## Resources: -->
