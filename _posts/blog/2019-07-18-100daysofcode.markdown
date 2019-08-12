@@ -838,3 +838,11 @@ DONE!!
 22. [Movie Recommender - collab filtering](https://github.com/sagecodes/movie-recommender-collab-filter)
 23. [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
 <!-- ## Resources: -->
+
+#### Phase 2: Focus on Computer Vision 
+
+1. 
+
+#### Phase 3: Round out knowledge, Deploy Models & start project planning
+
+#### Phase 4: Build & deploy capstone Projects
