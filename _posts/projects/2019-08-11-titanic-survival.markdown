@@ -63,7 +63,7 @@ If for any reason you would like to contact me please do so at the following:
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Logistic-regression">Logistic regression<a class="anchor-link" href="#Logistic-regression">&#182;</a></h1>
+<!-- <h1 id="Logistic-regression">Logistic regression<a class="anchor-link" href="#Logistic-regression">&#182;</a></h1> -->
 </div>
 </div>
 </div>
