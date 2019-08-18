@@ -415,7 +415,7 @@ Taught intro to machine learning workshop
 
 ## Day 26 ☑
 
-Finished fashion MNIST classifier. 
+Finished fashion MNIST classifier.
 
 [Deep fashion dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) looks awesome to try sometime soon!
 
@@ -427,51 +427,106 @@ Finished fashion MNIST classifier.
 
 ## Day 27 ☑
 
+Spent time refactoring some previous code and adding context to READMEs.  Will probably do this tomorrow too before moving on to my Phase 2 focus: Computer vision!
+
+### Code for the Day:
+
+- [iris classification](https://github.com/sagecodes/irsit-classification2-knn)
+- [Titanic Survival](https://github.com/sagecodes/titanic-survival-logistic-regression)
+
+----------------
+
+## Day 28 ☑
+
+Project refactoring and making sure I can export jupyter notebooks to my website (tables and code snippets are scrollable on mobile)
+
+### Code for the Day:
+
+[iris classification](https://github.com/sagecodes/irsit-classification2-knn)
+[Sage Blog](https://github.com/sagecodes/sage-blog)
+
+----------------
+
+## Day 29 ☑
+
+day29: Got a WGAN & WGAN-GP up and running thanks to the book "generative deep learning"
+
+Awesome to see how fast it started making faces. This was just over 300 epoch and a dataset of only 1700 faces. Even if they kind of look like nightmares...
+
+[read more about the book](https://medium.com/applied-data-science/generative-deep-learning-the-parrot-has-landed-b291e6c254e)
+
+### Code for the Day:
+
+- [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
+
+![faces](https://pbs.twimg.com/media/EB0otPmUIAAEvHL?format=jpg&name=medium)
+
+----------------
+
+## Day 30 ☑
+
+⏳Worked over an hour this morning trying to figure out a problem on GAN.
+
+❌Can't.
+
+💻Go to work. 
+
+🏠Come back home.
+
+✅Fix the problem in 1 minute...
+
+The brain is crazy! 
+
+### Code for the Day:
+
+- [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
 
 
 ----------------
 
-## Day 28 ☐
+## Day 31 ☑
+
+WGAN from before is now generating 224px higher quality images., making some really interesting art pieces! 
+
+Read about 1/3 of first book in Deep Learning for computer vision series.
+
+### Code for the Day:
+
+- [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
+
+![art](https://pbs.twimg.com/media/EB_Lp_GUEAI66mb?format=jpg&name=medium)
 
 
 ----------------
 
-## Day 29 ☐
+## Day 32 ☑
 
-phase 2: Specialization (Computer Vision)
+More reading on #DeepLearning for computer vision 
 
-Deep Learning for Computer Vision 1
+a little more work on WGAN
 
+Helped someone on django app at PuPPy programming night
 
-----------------
+I promise some more juicy code and projects are coming soon!
 
-## Day 30 ☐
+### Code for the Day:
 
-Deep Learning for Computer Vision 1
+- [WGAN Testing](https://github.com/sagecodes/WGAN-Testing)
 
-WGAN
-
-
-----------------
-
-## Day 31 ☐
-
-Deep Learning for Computer Vision 1
-
+![art gen images](https://pbs.twimg.com/media/ECEeX9PUYAAvbF7?format=jpg&name=small)
 
 ----------------
 
-## Day 32 ☐
+## Day 33 ☑
 
-Deep Learning for Computer Vision 1
+Messing around with OpenCv (its been awhile)!
+Refactoring some previous projects.
 
+If you've made a portfolio of ML/Data projects I would love to see it! Looking for inspiration and new formats!
 
-----------------
+### Code for the Day:
 
-## Day 33 ☐
-
-Deep Learning for Computer Vision 1
-
+- [Alexa Amazon Review Classfication - Random Forest](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
 
 ----------------
 
