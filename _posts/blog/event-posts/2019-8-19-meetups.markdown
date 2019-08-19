@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Seattle Tech Events 8/19/19 - 8/25/19"
+permalink: /seattle-tech-events-1
+date:   2019-08-19
+categories: post
+tags: events seattle
+author: Sage Elliott
+published: true
+---
+
+There are many awesome meetups in Seattle, as always.
+
+Here are some I find interesting & excited for!
+
+Any Events happening this week you're looking forward to?
+
+
+[Snack, Study & Code](https://www.meetup.com/seattlejshackers/events/nxqccryzlbzb/) - Mon 8/19 5:30pm
+
+[Interview Practice Night](https://www.meetup.com/PSPPython/events/krbjdryzlbzb/) - Mon 8/19 6:15pm
+
+[The Struggle Deluxe - Coding Open Study Lab](https://www.meetup.com/The-Junior-Dev-Struggle-Bus/events/dpxpgryzlbzb/) - Mon 8/19 7:00pm
+
+[Seattle Startup Open Coffee at Galvanize](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/xftnplyzlbbc/) - Tue 8/20 8:30am
+
+[Code Katas @ Galvanize](https://www.meetup.com/seattlejshackers/events/262984672/) - Tue 8/20 5:30pm
+
+[Data at Hyper-Scale with Uber's Phil Guerin](https://www.meetup.com/meetup-datascience/events/263949842/) - Tue 8/20 5:30pm
+
+[Explainable AI with H2O Driverless AI’s Machine Learning Interpretability Module](https://www.meetup.com/Seattle-Artificial-Intelligence-Deep-Learning/events/263597481/) - Tue 8/20 6:30pm
+
+[Seattle Indies Social](https://www.meetup.com/SeattleIndies/events/djtvjpyzlbbc/) - Tue 8/20 7:00pm
+
+[ML and Predictive Analytics in the Modern Enterprise](https://www.meetup.com/Dynamic-Talks-Redmond/events/263294950/) - Wed 8/21 5:30pm
+
+[Deploying & Managing Kubernetes with Kubernetes and Running SRE](https://www.meetup.com/Seattle-DevOps-Meetup/events/262135699/) - Wed 8/21 5:30pm
+
+[Annual SeattleJS Community Party!](https://www.meetup.com/seattlejs/events/clmbzqyzlblb/) - Wed 8/21 6:00pm
+
+[The Good AI at Seattle, WA](https://www.meetup.com/TheGoodAI/events/263281017/) - Wed 8/21 6:00pm
+
+[Unified data processing @ Uber](https://www.meetup.com/Uber-Engineering-Events-Seattle/events/264010122/) - Thu 8/22 5:30pm
+
+[Coding Kata Workshop](https://www.meetup.com/seattle-software-craftsmanship/events/nhjtqqyzlbdc/) - Thu 8/22 6:00pm
+
+[Fresh Hosts Seattle React.js](https://www.meetup.com/seattle-react-js/events/263755613/) - Thu 8/22 6:00pm
+
+[Résumé Review & Project Time!](https://www.meetup.com/free-code-camp-sea/events/263793299/) - Thu 8/22 6:00pm
+
+[PuPPy Scientific Computing Night](https://www.meetup.com/PSPPython/events/263977127/) - Thu 8/22 6:30pm
+
+[Seattle CoffeeOps Community](https://www.meetup.com/Seattle-CoffeeOps/events/kgmkbqyzlbfc/) - Fri 8/23 8:00am
+
+[Magic Leap : Workshop @ CoMotion](https://www.meetup.com/Seattle-Unity3D/events/263991011/) - Fri 8/23 10:00am
+
+[JavaScript Mini Bootcamp: Fundamentals II (Free)](https://www.meetup.com/Learn-Code-Seattle/events/263403240/) - Sat 8/24 10:00am
+deactivate 
