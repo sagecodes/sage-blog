@@ -532,8 +532,16 @@ If you've made a portfolio of ML/Data projects I would love to see it! Looking f
 
 ## Day 34 ☐
 
-Deep Learning for Computer Vision 1
+Refactored more previous projects
 
+Research for a web scraping project (To be used in future computer vision projects)
+
+
+
+### Code for the Day:
+
+- [Alexa Amazon Review Classfication - Random Forest](https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest)
+- [Kyphosis Prediction - Random Forest](https://github.com/sagecodes/kyphsis-classifier-random-forest/blob/master/kyphosis-prediction-random-forest.ipynb)
 
 ----------------
 
