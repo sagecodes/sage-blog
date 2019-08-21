@@ -2,7 +2,7 @@
 layout: project
 title:  "Crime Forecast"
 permalink: /chicago-crime-prophet/
-date: 2019-08-17
+date: 2019-08-20
 categories: project
 tags: machine-learning case-study
 author: Sage Elliott
@@ -23,8 +23,6 @@ Forecast Chicago crime rate
 
 
 ## Technology used:
-
-
 
 #### Dataset(s):
 
