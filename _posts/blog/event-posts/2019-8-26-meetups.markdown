@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Seattle Tech Events 8/26/19 - 9/1/19"
+permalink: /seattle-tech-events-2
+date:   2019-08-26
+categories: post
+tags: events seattle
+author: Sage Elliott
+published: true
+---
+
+It’s the last week of August, In Seattle that often means spending more time outdoors and a lower amount of meetups.
+
+But there are still some really neat tech events happening this week if you're looking!
+
+Any Events happening this week you're looking forward to?
+
+
+[Women Techmakers & WiDS Lightning Talks](https://www.meetup.com/Seattle-WiDS-Meetup/events/263767580/) - Mon 8/26 5:30pm
+
+[Interview Practice Night](https://www.meetup.com/PSPPython/events/prbjdryzlbjc/) - Mon 8/26 6:15pm
+
+[The Struggle Deluxe - Coding Open Study Lab](https://www.meetup.com/The-Junior-Dev-Struggle-Bus/events/264235271/) - Mon 8/26 7:00pm
+
+[Seattle Startup Open Coffee](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/xftnplyzlbkc/) - Tue 8/27 8:30am
+
+[Operation Code Meetup](https://www.meetup.com/OperationCode-SeattleWA/events/255832513/) - Tue 8/27 6:00pm
+
+[Modularity and Decoupling, The Right Way](https://www.meetup.com/seajug/events/263547797/) - Tue 8/27 6:00pm
+
+[Simplifying the Machine Learning Lifecycle with Mlflow](https://www.meetup.com/pydata_seattle/events/263980038/) - Tue 8/27 6:00pm
+
+[Text Embedding with BERT](https://www.meetup.com/PSPPython/events/263977182/) - Tue 8/27 6:30pm
+
+[SeaWiDS ML Study Group](https://www.meetup.com/Seattle-WiDS-Meetup/events/gxxjgryzlbkc/) - Tue 8/27 6:30pm
+
+[Workshop on ChatBots and EdTech](https://www.meetup.com/EdTechSeattle/events/263364271/) - Wed 8/28 6:00pm
+
+[Open Seattle Monthly Meetup](https://www.meetup.com/openseattle/events/qbsqvqyzlblc/) - Wed 8/28 6:00pm
+
+[Calling All Women in ML: NLP Workshop Series](https://www.meetup.com/Seattle-Artificial-Intelligence-Workshops/events/263690060/) - Thurs 8/29 6:30pm
+
+[Tech career mentoring](https://www.meetup.com/Seattle-Tech-Mentors/events/mxswdryzlbmc/) - Thurs 8/29 7:00pm
+
+[How to Level Up the Gaming Industry with Blockchain](https://www.meetup.com/blockchain-seattle/events/263809162/) - Thurs 8/30 6:00pm
