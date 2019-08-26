@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seattle Tech Events 8/26/19 - 9/1/19"
-permalink: /seattle-tech-events-2
+permalink: /seattle-tech-events-3
 date:   2019-08-26
 categories: post
 tags: events seattle
