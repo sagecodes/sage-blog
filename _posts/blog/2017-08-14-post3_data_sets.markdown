@@ -4,7 +4,7 @@ title:  "Data Sets"
 permalink: /Data Sets/
 date:   2017-08-15
 categories: post
-tags: data
+tags: data resources
 author: Sage Elliott
 published: true
 ---
