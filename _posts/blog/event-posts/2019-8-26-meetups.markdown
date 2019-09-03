@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Seattle Tech Events 8/26/19 - 9/1/19"
-permalink: /seattle-tech-events-3
+title:  "Seattle Tech Events (9/2/19 - 9/8/19)"
+permalink: /seattle-tech-events
 date:   2019-08-26
 categories: post
 tags: events seattle
@@ -9,38 +9,38 @@ author: Sage Elliott
 published: true
 ---
 
-I know It’s the last week of August, In Seattle that often means spending more time outdoors and a lower amount of meetups.
+I update this page every week(almost) with cool events in Seattle centered around technology.
 
-But there are still some really neat tech events happening this week if you're looking!
+If you'd like them delivered to your inbox you can sign up [here](https://mailchi.mp/32d244a64668/techseattle)
+
+------- 
+### Tech Events for 9/2/19 - 9/8/19
+Hope you had a great weekend, Here are the events I'm excited about this week!
 
 Any Events happening this week you're looking forward to?
 
+[Seattle Startup Open Coffee](http://bit.ly/2ltMuJs) - Tue 9/3 8:30am
 
-[Women Techmakers & WiDS Lightning Talks](http://bit.ly/2U2RBxq) - Mon 8/26 5:30pm
+[Re-creating a Magnetic Core Memory & Kickstarter: Campaign Tips and Insights](http://bit.ly/2jVT7Ux) - Tue 9/3 7:00pm
 
-[Interview Practice Night](http://bit.ly/2HrK4TN) - Mon 8/26 6:15pm
+[Measurement Katas Review](http://bit.ly/2lyXsx8) - Tue 9/3 7:00pm
 
-[The Struggle Deluxe - Coding Open Study Lab](http://bit.ly/2zowg8c) - Mon 8/26 7:00pm
+[Python Programming Night](http://bit.ly/2k0Fkfs) - Thu 9/5 6:30pm
 
-[Seattle Startup Open Coffee](http://bit.ly/2HrpvXr) - Tue 8/27 8:30am
+[How to Get Hired as a Data Scientist](http://bit.ly/2kqWK4S) - Thu 9/5 6:00pm
 
-[Operation Code Meetup](http://bit.ly/323fFD5) - Tue 8/27 6:00pm
+[Ethereum and #DEFI](http://bit.ly/2lAsMvq) - Thu 9/5 6:00pm
 
-[Modularity and Decoupling, The Right Way](http://bit.ly/2zq4qbH) - Tue 8/27 6:00pm
+[Physical Computing Workshop](http://bit.ly/2lVcVIi) - Thu 9/5 6:00pm
 
-[Simplifying the Machine Learning Lifecycle with Mlflow](http://bit.ly/2KVw32F) - Tue 8/27 6:00pm
+[Papers We Love: Special Relativity](http://bit.ly/2keOJQM) - Thu 9/5 6:30pm
 
-[Text Embedding with BERT](http://bit.ly/2Zpk3jb) - Tue 8/27 6:30pm
+[Hardware Happy Hour ](http://bit.ly/2lPc4bV) - Thu 9/5 7:00pm
 
-[SeaWiDS ML Study Group](http://bit.ly/2ZrVcKA) - Tue 8/27 6:30pm
+[Seattle CoffeeOps](http://bit.ly/2jVeftV) - Fri 9/6 8:00am
 
-[Workshop on ChatBots and EdTech](http://bit.ly/2Pca2AR) - Wed 8/28 6:00pm
+[JavaScript Mini Bootcamp](http://bit.ly/2lAEyGb) - Sat 9/7 10:00am
 
-[Open Seattle Monthly Meetup](http://bit.ly/2NsveQO) - Wed 8/28 6:00pm
+[JS Hackers Sunday Coffee Break](http://bit.ly/2ko4rZL) - Sun 9/8 12:00pm
 
-[Calling All Women in ML: NLP Workshop Series](http://bit.ly/2ZlFCB5) - Thurs 8/29 6:30pm
-
-[Tech career mentoring](http://bit.ly/33Ur0Y1) - Thurs 8/29 7:00pm
-
-[How to Level Up the Gaming Industry with Blockchain](http://bit.ly/2KWKOCI) - Thurs 8/30 6:00pm
 
