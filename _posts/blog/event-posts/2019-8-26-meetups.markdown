@@ -2,7 +2,7 @@
 layout: post
 title:  "Seattle Tech Events (9/2/19 - 9/8/19)"
 permalink: /seattle-tech-events
-date:   2019-08-26
+date:   2019-09-3
 categories: post
 tags: events seattle
 author: Sage Elliott
@@ -11,7 +11,7 @@ published: true
 
 I update this page every week(almost) with cool events in Seattle centered around technology.
 
-If you'd like them delivered to your inbox you can sign up [here](https://mailchi.mp/32d244a64668/techseattle)
+If you'd like them delivered to your inbox you can sign up [here](https://mailchi.mp/32d244a64668/techseattle).
 
 ------- 
 ### Tech Events for 9/2/19 - 9/8/19
