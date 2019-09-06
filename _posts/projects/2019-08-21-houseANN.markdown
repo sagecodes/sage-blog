@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "House Predicting"
+title:  "Price Prediction"
 permalink: /house-prediction-ann/
 date: 2019-08-21
 categories: project
