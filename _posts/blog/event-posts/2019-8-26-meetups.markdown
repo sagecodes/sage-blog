@@ -14,7 +14,44 @@ I update this page every week(almost) with cool events in Seattle centered aroun
 If you'd like them delivered to your inbox you can sign up [here](https://mailchi.mp/32d244a64668/techseattle).
 
 ------- 
+
+### Tech Events for 9/9/19 - 9/15/19
+
+Meetups are picking back up as summer ends! Here are the events I'm excited about this week:
+
+What are you looking forward to?
+
+[Python Interview Practice](http://bit.ly/2kqwGHr) - Mon 9/9 6:15pm
+
+[The Struggle Deluxe - Coding Open Study Lab](http://bit.ly/2k7WBDv) - Mon 9/9 7:00pm
+
+[Seattle Startup Open Coffee](http://bit.ly/2lEz11E) - Tue 9/10 8:30am
+
+[Data and the Challenges of Convenience](http://bit.ly/2m73RjE) - Tue 9/10 6:00pm
+
+[Rust Monthly meetup](http://bit.ly/2m07jfI) - Tue 9/10 6:30pm
+
+[Designing Value Props for Designers](http://bit.ly/2knWzYl) - Tue 9/10 6:30pm
+
+[PuPPy Python Month Talk Format Meeting](http://bit.ly/2lFAULo) - Wed 9/11 6:00pm
+
+[Seattle Beer&&Code @Substantial](http://bit.ly/2kb2zUb) - Wed 9/11 6:00pm
+
+[Avoiding the Hidden Cost of DevOps Toolchains](http://bit.ly/2m8ZqF7) - Thu 9/12 3:00pm
+
+[PSL Engineering Event, Behind the Scenes with Our Portfolio Companies](http://bit.ly/2m8dzlO) - Thu 9/12 5:00pm
+
+[How to Start a Global Startup: Meet the Seattle Ecosystem Leaders at Redfin](http://bit.ly/2m8dzlO) - Thu 9/12 6:00pm
+
+[SeattleJS September meetup](http://bit.ly/2m7446q) - Thu 9/12 6:00pm
+
+[Machine Learning Lean Coffee](http://bit.ly/2lGYJCu) - Thu 9/12 6:30pm
+
+[Universal Principles of Design](http://bit.ly/2lEzrFg) - Thu 9/12 7:00pm
+
+
 ### Tech Events for 9/2/19 - 9/8/19
+
 Hope you had a great weekend, Here are the events I'm excited about this week!
 
 Any Events happening this week you're looking forward to?
