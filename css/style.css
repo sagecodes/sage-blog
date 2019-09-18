@@ -93,12 +93,17 @@ h3 {
     min-width: 100px;
 }
 .navbar-text {
-    display: none;
+    display: inline-block;
+    font-size: 2.75em;
+    margin: 0px 0 0 00px;
 }
-.logo img {
+/* .navbar-text {
+    display: none;
+} */
+/* .logo img {
     width: 110px;
     margin: 0px 0px -5px 15px;
-}
+} */
 .navbar-collapse {
     text-align: center;
 }
