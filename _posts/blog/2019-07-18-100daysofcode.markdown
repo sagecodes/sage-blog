@@ -11,12 +11,6 @@ published: true
 
 A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah). Read below project list micro blog posts about each day.
 
-I decided to split up the 100 days into 4 phases. Roughly 25 days each.
-
-- phase 1: Quick implementations and accelerated learning
-- phase 2: Specialization (Computer Vision)
-- phase 3: Round out knowledge, Deploy Models & start project planning
-- Phase 4: Capstone projects
 
 ----------------
 
@@ -900,12 +894,3 @@ DONE!!
 21. [Yelp classification - NLTK](https://github.com/sagecodes/yelp-reviews-Classification-NLP-NLTK)
 22. [Movie Recommender - collab filtering](https://github.com/sagecodes/movie-recommender-collab-filter)
 23. [Fashion MNIST](https://github.com/sagecodes/fashion-classifier)
-<!-- ## Resources: -->
-
-#### Phase 2: Focus on Computer Vision 
-
-1. 
-
-#### Phase 3: Round out knowledge, Deploy Models & start project planning
-
-#### Phase 4: Build & deploy capstone Projects
