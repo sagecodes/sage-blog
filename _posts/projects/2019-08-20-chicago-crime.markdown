@@ -10,6 +10,7 @@ published: true
 github_url: https://github.com/sagecodes/chicago-crime-prediction-fbprophet
 ---
 
+Use Facebook prophet, sklearn, python and the Chicago crime dataset to predict crime rates in Chicago.
 
 ## About:
 

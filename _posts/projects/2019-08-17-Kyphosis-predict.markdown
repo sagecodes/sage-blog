@@ -10,6 +10,7 @@ published: true
 github_url: https://github.com/sagecodes/kyphsis-classifier-random-forest
 ---
 
+Use Random Forest model, sklearn, python and the Kyphosis dataset to predict if the Kyphosis would return after surgery.
 
 ## About:
 

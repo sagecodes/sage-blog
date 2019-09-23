@@ -10,6 +10,8 @@ published: true
 github_url: https://github.com/sagecodes/house-price-prediction-ANN
 ---
 
+Create an artificial neural network(ANN) with keras and python to do regression prediction on housing prices with the Seattle house price dataset
+
 
 ## About:
 

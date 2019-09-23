@@ -11,9 +11,7 @@ github_url: https://github.com/sagecodes/irsit-classification2-knn
 ---
 
 
-# Iris Classifier 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagecodes/irsit-classification2-knn/master) *note*: Dataset is not hosted in repo. You must link if you'd like to run yourself.
+Use kNN model, sklearn, python and the classic iris dataset to predict flower species based on features.
 
 
 ## About:

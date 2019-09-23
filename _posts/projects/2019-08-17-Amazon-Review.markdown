@@ -10,6 +10,8 @@ published: true
 github_url: https://github.com/sagecodes/Amazon-Review-Classification-Random-Forest
 ---
 
+Use Random Forest model, sklearn, python and the Alexa Amazon Review dataset to predict positive or negative reviews based on text
+
 
 ## About:
 
