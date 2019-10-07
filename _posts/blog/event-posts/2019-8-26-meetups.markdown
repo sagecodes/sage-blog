@@ -21,20 +21,38 @@ If you'd like them delivered to your inbox you can sign up [here](https://mailch
 
 What are you looking forward to?
 [Interview Practice Night](http://bit.ly/2oWDpL5) - Mon 10/7 6:15pm
+
+
 [Coding Open Study Lab](http://bit.ly/359pkdP) - Mon 10/7 7:00pm
+
 [Accelerate Machine Learning Deployment with H2O Driverless AI on AWS](http://bit.ly/30TeWU0) - Tue 10/8 8:30am
+
 [Startup Open Coffee](http://bit.ly/35fBMIZ) - Tue 10/8 8:30am
+
 [Digital Ethnography for Web Development and Design](http://bit.ly/2Iu3nwa) - Tue 10/8 6:00pm
+
 [Angular Seattle @ Google ](http://bit.ly/2MkcReJ) - Tue 10/8 7:00pm
+
 [Python Monthly Talk Night](http://bit.ly/2nuLqXa) - Wed 10/9 6:00pm
+
 [WordPress Developer Meetup: Developer Panel!](http://bit.ly/338BXE7) - Wed 10/9 6:00pm
+
 [Apache Cassandra @ T-mobile with Josh Turner](http://bit.ly/2IwkiOW) - Wed 10/9 6:00pm
+
 [Seattle Beer&&Code @Substantial](http://bit.ly/30WmoOh) - Wed 10/9 6:00pm
+
 [Mob Programming By Example](http://bit.ly/35hzyIS) - Wed 10/9 6:30pm
+
 [Intro to Programming with Python (free)](http://bit.ly/2pPdWn2) - Thu 10/10 6:30pm
+
 [Meet The President of Microsoft, Author of Tools and Weapons Brad Smith!](http://bit.ly/2Mlu7Qz) - Thu 10/10 5:00pm
+
 [SeattleJS Monthly Meetup at Ookla!](http://bit.ly/2LTkDgo) - Thu 10/10 6:00pm
+
 [Seattle TS - Monthly Meetup (TSConf Edition)](http://bit.ly/31STqQM) - Thu 10/10 6:00pm
+
 [Machine Learning Lean Coffee](http://bit.ly/31WFSDH) - Thu 10/10 6:30pm
+
 [Computer Vision Study Jam - Modern CNN](http://bit.ly/2MkcYa9) - Sat 10/12 10:00am
+
 [Introduction to Using WordPress Workshop](http://bit.ly/2MntgyN) - Sun 10/13 1:00pm
