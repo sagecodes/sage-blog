@@ -23,6 +23,15 @@ May have to request GPU
 
 Link to terminal commands
 
+Navigate to folder where key is 
+
+`cd keys/`
+
+`ssh -i KeyName.pem ubuntu@X.X.X.X`
+
+
+## Changing envriment
+
 pip install & Anaconda
 
 ## uploading and saving files from/to your local machine

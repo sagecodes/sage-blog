@@ -15,6 +15,50 @@ If you'd like them delivered to your inbox you can sign up [here](https://mailch
 
 ------- 
 
+## 10/14/19 - 10/20/19
+
+These are the meetups I'm excited for this week!
+
+[JS Hackers Snack Study Code](http://bit.ly/2ONvzyg) - Mon 10/14 5:30pm
+
+[Jr. Dev Community Social at Optimism](http://bit.ly/2MHdYVL) - Mon 10/14 6:00pm
+
+[Intro to Web programming with HTML & CSS @Galvanize](http://bit.ly/2MdXBB0) - Mon 10/14 6:30pm
+
+[Interview Practice Night @Galvanize](http://bit.ly/2MeHSBN) - Mon 10/14 6:15pm
+
+[October XR Design Salon](http://bit.ly/2VQHugh) - Mon 10/14 7:00pm
+
+[Startup Open Coffee @Galvanize](http://bit.ly/32bKx4O) - Tue 10/15 8:30am
+
+[Code Katas @ Galvanize](http://bit.ly/33sOtOT) - Tue 10/15 5:30pm
+
+[Serverless and Event Driven Microservices with Micronaut](http://bit.ly/2Mheue4) - Tue 10/15 6:00pm
+
+[Advanced Topics on Machine Learning @Galvanize](http://bit.ly/2McjLDM) - Tue 10/15 6:30pm
+
+[October Seattle Indies Social](http://bit.ly/2OKWYkg) - Tue 10/15 7:00pm
+
+[Elixir Hack, Help, or Get Help](http://bit.ly/35ISjWa) - Tue 10/15 7:00pm
+
+[Seattle Devops October Meetup](http://bit.ly/33w8aFo) - Wed 10/16 5:30pm
+
+[Experiment Management for NLP and Machine Learning @ Galvanize](http://bit.ly/33wxJ9A) - Wed 10/16 6:00pm
+
+[Think Functionally](http://bit.ly/2VIMYt3) - Wed 10/16 7:00pm
+
+[Data Science Salon Seattle](http://bit.ly/2McUMQS) - thu 10/17 8:00am
+
+[Overcoming Imposter Syndrome](http://bit.ly/35CnAtB) - thu 10/17 6:00pm
+
+[Ross Bhoner : Data-Oriented Tech Stack (DOTS) : Unity](http://bit.ly/35CnCBJ) - thu 10/17 7:00pm
+
+[Seattle CoffeeOps](http://bit.ly/2MgniBd) - Fri 10/18 8:00am
+
+[Seattle GiveCamp 2019](http://bit.ly/2ONwbny) - Fri 10/18 6:00pm
+
+[Space Apps Seattle](http://bit.ly/32dXWt6) - Fri 10/18 6:00pm
+
 
 ## 10/7/19 - 10/13/19
 
@@ -56,3 +100,6 @@ What are you looking forward to?
 [Computer Vision Study Jam - Modern CNN](http://bit.ly/2MkcYa9) - Sat 10/12 10:00am
 
 [Introduction to Using WordPress Workshop](http://bit.ly/2MntgyN) - Sun 10/13 1:00pm
+
+
+I delete older meetups and start fresh every month.
