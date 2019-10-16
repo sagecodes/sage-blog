@@ -31,7 +31,7 @@ These are the meetups I'm excited for this week!
 
 [Startup Open Coffee @Galvanize](http://bit.ly/32bKx4O) - Tue 10/15 8:30am
 
-[Code Katas @ Galvanize](http://bit.ly/33sOtOT) - Tue 10/15 5:30pm
+[Code Katas @Galvanize](http://bit.ly/33sOtOT) - Tue 10/15 5:30pm
 
 [Serverless and Event Driven Microservices with Micronaut](http://bit.ly/2Mheue4) - Tue 10/15 6:00pm
 
@@ -43,7 +43,7 @@ These are the meetups I'm excited for this week!
 
 [Seattle Devops October Meetup](http://bit.ly/33w8aFo) - Wed 10/16 5:30pm
 
-[Experiment Management for NLP and Machine Learning @ Galvanize](http://bit.ly/33wxJ9A) - Wed 10/16 6:00pm
+[Experiment Management for NLP and Machine Learning @Galvanize](http://bit.ly/33wxJ9A) - Wed 10/16 6:00pm
 
 [Think Functionally](http://bit.ly/2VIMYt3) - Wed 10/16 7:00pm
 

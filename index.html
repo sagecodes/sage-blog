@@ -22,7 +22,7 @@ layout: default
                       <!-- </p> -->
 
                       <div class="social-buttons">
-                        <a class="btn btn-email" href="{{ site.email }}">Email</a>
+                        <a class="btn btn-email" href="{{ site.email }}" >Email</a>
                         <a class="btn btn-github" href="{{ site.github }}" target="blank">Github</a>
                         <a class="btn btn-twitter" href="{{ site.twitter }}" target="blank">Twitter</a>
                         <a class="btn btn-linkedin" href="{{ site.linkedin }}" target="blank">LinkedIn</a>
@@ -54,7 +54,7 @@ layout: default
 
                       {% if post.tags %}
                         {% for tag in post.tags %}
-                          <span class="post_tag {{ tag }}-btn""><a href="{{ site.baseurl }}/blog#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
+                          <span class="post_tag {{ tag }}-btn"><a href="{{ site.baseurl }}/blog#{{ tag | slugify }}" class="post-tag">{{ tag }}</a></span>
                         {% endfor %}
                       {% endif %}
                       <br>
