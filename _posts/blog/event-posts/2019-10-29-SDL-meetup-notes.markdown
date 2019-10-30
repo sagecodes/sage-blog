@@ -9,9 +9,9 @@ author: Sage Elliott
 published: true
 ---
 
-Hello everyone who attened our first [Seattle Deep Learning Study Night](https://www.meetup.com/Seattle-Deep-Learning/)! I hope you all had a good time meeting new people, exchanging ideas, and working on projects. I know I did!
+Hello everyone who attended our first [Seattle Deep Learning Study Night](https://www.meetup.com/Seattle-Deep-Learning/)! I hope you all had a good time meeting new people, exchanging ideas, and working on projects. I know I did!
 
-I have collected as many of the resources and intersting things people mentioned and thought I would share them out!
+I have collected as many of the resources and interesting things people mentioned and thought I would share them out!
 
 ### Learning Resources
 
@@ -34,7 +34,7 @@ I have collected as many of the resources and intersting things people mentioned
 
 [Papers with Code](https://paperswithcode.com/)
 
-[Snorkel](https://twimlai.com/twiml-talk-270-snorkel-a-system-for-fast-training-data-creation-with-alex-ratner/): A System for Fast Training Data Creation with Alex Ratner
+
 
 ### Artcicles & Podcasts
 
@@ -45,6 +45,8 @@ I have collected as many of the resources and intersting things people mentioned
 
 
 [Google new AlBERT](https://medium.com/syncedreview/googles-albert-is-a-leaner-bert-achieves-sota-on-3-nlp-benchmarks-f64466dd583)
+
+[Snorkel](https://twimlai.com/twiml-talk-270-snorkel-a-system-for-fast-training-data-creation-with-alex-ratner/): A System for Fast Training Data Creation with Alex Ratner podcast
 
 
 
