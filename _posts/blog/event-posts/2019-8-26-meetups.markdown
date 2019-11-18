@@ -2,7 +2,7 @@
 layout: post
 title:  "Seattle Tech Events (updated weekly)"
 permalink: /seattle-tech-events
-date:   2019-10-07
+date:   2019-11-18
 categories: post
 tags: events seattle
 author: Sage Elliott
@@ -14,6 +14,48 @@ I update this page every week(almost) with cool events in Seattle centered aroun
 If you'd like them delivered to your inbox you can sign up [here](https://mailchi.mp/32d244a64668/techseattle).
 
 ------- 
+
+## 11/18/19 - 11/24/19
+
+[Women in TensorFlow](http://bit.ly/2CSN8FF) - Mon 11/18 6:00pm
+
+[Programming Interview Practice Night @ Code Fellows](http://bit.ly/2NVGoNE) - Mon 11/18 6:15pm
+
+[Break into Data Science Discussion Panel @ Galvanize](http://bit.ly/2KyTluZ) - Mon 11/18 6:30pm
+
+[Seattle Startup Open Coffee at @ Galvanize](http://bit.ly/2QrjUWF) - Tue 11/19 8:30am
+
+[Code Katas @ Galvanize](http://bit.ly/37re79E) - Tue 11/19 5:30pm
+
+[Machine Learning with k-NN search in Open Distro for Elasticsearch @ Disney](http://bit.ly/2NZO4P9) - Tue 11/19 6:00pm
+
+[Advanced Topics on Machine Learning @ Galvanize](http://bit.ly/2Osghx7) - Tue 11/19 6:30pm
+
+[Seattle Indies Social @ Optimism](http://bit.ly/2qr5FpZ) - Tue 11/19 7:00pm
+
+[Intro to Machine Learning @ Galvanize](http://bit.ly/2CWd9nC) - Wed 11/20 6:30pm
+
+[The Good AI at Seattle @ The Collective](http://bit.ly/331sJJg) - Wed 11/20 6:00pm
+
+[Apache Flink and Stream Processing @ Bellevue](http://bit.ly/2qfWHMx) - Wed 11/20 6:30pm
+
+[Google AI workshop: Machine Learning and Image Processing @ Galvanize](http://bit.ly/32Vy9Fx) - Thu 11/21 5:00pm
+
+[Programming Night @ Galvanize](http://bit.ly/2r0tPrB) - Thu 11/21 6:30pm
+
+[Open Seattle Monthly Meetup @ Tyler Technologies](http://bit.ly/32Z7kjY) - Thu 11/21 6:00pm
+
+[YugabyteDB on k8s && Docker for Blockchains and Smart Contracts @ Dragonchain](http://bit.ly/2Xn6iNA) - Thu 11/21 6:00pm
+
+[test-driven development workshop @ ThinkSpace](http://bit.ly/2KxQKBm) - Thu 11/21 6:00pm
+
+[Scientific Computing @ CBRE](http://bit.ly/2O0MgoZ) - Thu 11/21 6:30pm
+
+[Hack To Give Thanks @ CodeFellows](http://bit.ly/35f6VeC) - Sat 11/23 8:00am
+
+
+
+-------------------------------------------------------
 
 ## 11/11/19 - 11/17/19 
 
