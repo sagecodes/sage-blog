@@ -1,0 +1,18 @@
+---
+layout: speaking
+title:  "Google AI workshop: Machine Learning and Image Processing"
+categories: event
+author: Sage Elliott
+date:   2019-11-21
+link: http://bit.ly/2NNv5Hz
+time: 5:00pm
+published: true
+---
+
+This hands-on workshop is for developers of all skill level to come together to learn machine learning, Image processing with Tensorflow.
+
+Get Free official Google training. Together we'll work through several Machine learning labs. You will get hands-on experience with the Machine Learning and Tensorflow.
+
+After the live session, you will have free access to more labs you can finish at home. Complete all labs in the quest and earn a Google-hosted badge for your online profile, and additional 30 days access to the training platform to compete any labs you want.
+
+RSVP on eventbrite (do not register here on meetup, checkin is based on registration on eventbrite until room is full).
