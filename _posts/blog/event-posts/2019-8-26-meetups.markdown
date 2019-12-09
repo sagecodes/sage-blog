@@ -15,90 +15,36 @@ If you'd like them delivered to your inbox you can sign up [here](https://mailch
 
 ------- 
 
-## 11/18/19 - 11/24/19
+## 12/19/19 - 12/15/19
 
-[Women in TensorFlow](http://bit.ly/2CSN8FF) - Mon 11/18 6:00pm
+[Jr Dev Struggle Buss Community Social @ Optimisim](http://bit.ly/2riRd45) - Mon 12/9 6:00pm
 
-[Programming Interview Practice Night @ Code Fellows](http://bit.ly/2NVGoNE) - Mon 11/18 6:15pm
+[Python Interview Practice @ Galvanize](http://bit.ly/2E3pPd6) - Mon 12/9 6:15pm
 
-[Break into Data Science Discussion Panel @ Galvanize](http://bit.ly/2KyTluZ) - Mon 11/18 6:30pm
+[Startup Open Coffee @ Galvanize](http://bit.ly/2sfSrwP) - Tue 12/10 8:30am
 
-[Seattle Startup Open Coffee at @ Galvanize](http://bit.ly/2QrjUWF) - Tue 11/19 8:30am
+[New Tech Seattle @ thinkspace](http://bit.ly/346jV5x) - Tue 12/10 6:00pm
 
-[Code Katas @ Galvanize](http://bit.ly/37re79E) - Tue 11/19 5:30pm
+[Rust Monthly Meeup @ microsoft](http://bit.ly/2RGYftU) - Tue 12/10 6:30pm
 
-[Machine Learning with k-NN search in Open Distro for Elasticsearch @ Disney](http://bit.ly/2NZO4P9) - Tue 11/19 6:00pm
+[Oracle Cloud Hiring Event @ jupiter bar](http://bit.ly/2P4z2bd) - Wed 12/11 4:00pm
 
-[Advanced Topics on Machine Learning @ Galvanize](http://bit.ly/2Osghx7) - Tue 11/19 6:30pm
+[PuPPy Python Monthly Talk @ flatiron](http://bit.ly/2RBOKwq) - Wed 12/11 6:00pm
 
-[Seattle Indies Social @ Optimism](http://bit.ly/2qr5FpZ) - Tue 11/19 7:00pm
+[Snacks Over Security @ Galvanize](http://bit.ly/343E0cF) - Wed 12/11 6:00pm
 
-[Intro to Machine Learning @ Galvanize](http://bit.ly/2CWd9nC) - Wed 11/20 6:30pm
+[Python Programming Night @ Galvanize](http://bit.ly/38oyy7C) - Thu 12/12 6:30pm
 
-[The Good AI at Seattle @ The Collective](http://bit.ly/331sJJg) - Wed 11/20 6:00pm
+[Diversity & Women in Tech @ Galvanize](http://bit.ly/2s8a9Cy) - Thu 12/12 5:30pm
 
-[Apache Flink and Stream Processing @ Bellevue](http://bit.ly/2qfWHMx) - Wed 11/20 6:30pm
+[SeattleJS Monthly Meetup @ Indeed](http://bit.ly/35bQNeA) - Thu 12/12 6:00pm
 
-[Google AI workshop: Machine Learning and Image Processing @ Galvanize](http://bit.ly/32Vy9Fx) - Thu 11/21 5:00pm
+[How Inclusion Shapes Design @ Ada's Books](http://bit.ly/36lwtqW) - Thu 12/12 7:00pm
 
-[Programming Night @ Galvanize](http://bit.ly/2r0tPrB) - Thu 11/21 6:30pm
+[Seattle CoffeeOps @ chef](http://bit.ly/38mPawn) - Fri 12/13 8:00am
 
-[Open Seattle Monthly Meetup @ Tyler Technologies](http://bit.ly/32Z7kjY) - Thu 11/21 6:00pm
+[Indie Support Group @ Academy of Interactive Entertainment](http://bit.ly/2s9pXoI) - Sat 12/14 1:00pm
 
-[YugabyteDB on k8s && Docker for Blockchains and Smart Contracts @ Dragonchain](http://bit.ly/2Xn6iNA) - Thu 11/21 6:00pm
+[Sunday Coffee Break @ KEXP](http://bit.ly/2YuxJ8L) - Sun 12/15 12:00pm
 
-[test-driven development workshop @ ThinkSpace](http://bit.ly/2KxQKBm) - Thu 11/21 6:00pm
-
-[Scientific Computing @ CBRE](http://bit.ly/2O0MgoZ) - Thu 11/21 6:30pm
-
-[Hack To Give Thanks @ CodeFellows](http://bit.ly/35f6VeC) - Sat 11/23 8:00am
-
-
-
--------------------------------------------------------
-
-## 11/11/19 - 11/17/19 
-
-What are you looking forward to?
-
-
-[Productionizing the Machine Learning Lifecycle](http://bit.ly/36SK7Db) - Mon 11/11 6:00p
-
-[JDSB Community Social at Optimism](http://bit.ly/32DZmg2) - Mon 11/11 6:00p
-
-[Splunk hosts Seattle React.js](http://bit.ly/2O0SQKP) - Mon 11/11 6:00p
-
-[XR Design Salon - Seattle XR Unconference Prep!](http://bit.ly/2CCuqSw) - Mon 11/11 6:00p
-
-[Interview Practice Night](http://bit.ly/2p813o9) - Mon 11/11 6:15p"
-
-[Startup Open Coffee](http://bit.ly/2qHCTBv) - Tue 11/12 8:30a
-
-[Seattle Applied Deep Learning meetup](http://bit.ly/34PFpUN) - Tue 11/12 6:00p
-
-[Rust Monthly Meetup](http://bit.ly/36QSI9D) - Tue 11/12 6:30p
-
-[PuPPy's Monthly Python Talk](http://bit.ly/33HiWt2) - Wed 11/13 6:00p
-
-[Ballard Tech Happy Hour](http://bit.ly/2NEDJrq) - Wed 11/13 5:30p
-
-[Intro to Natural Language Processing](http://bit.ly/36NrjVQ) - Wed 11/13 6:00p
-
-[Galvanize Data Science Demo Day](http://bit.ly/2pcyBBI) - Thu 11/14 6:00p
-
-[Programming Night (all skill levels welcome)](http://bit.ly/2qLYgkQ) - Thu 11/14 6:00p
-
-[Intro to SQL](http://bit.ly/2KdcWAx) - Thu 11/14 6:30p
-
-[SeattleJS Monthly ](http://bit.ly/2rrIvQv) - Thu 11/14 6:00p
-
-[Seattle API Meetup](http://bit.ly/2rz7GAQ) - Thu 11/14 7:00p
-
-[Seattle CoffeeOps](http://bit.ly/2X4HQAh) - Fri 11/15 8:00a
-
-[Global Day of Coderetreat](http://bit.ly/2O0aKxs) - Sat 11/16 9:00a
-
-[Cloud Study Jam - Machine Learning](http://bit.ly/2X5RsLc) - Sat 11/16 10:00a
-
-[Sunday Coffee Break](http://bit.ly/2NCSmvx) - Sun 11/17 12:00p
 
