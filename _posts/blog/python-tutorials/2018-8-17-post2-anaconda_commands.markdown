@@ -1,35 +1,61 @@
 ---
 layout: post
-title:  "Anaconda Commands"
+title:  "Anaconda Commands - Quick Start"
 permalink: /Anaconda Commands/
-date:   2018-08-12
+date:   2019-12-12
 categories: post
-tags: python anaconda
+tags: python anaconda tools
 author: Sage Elliott
 published: false
 ---
 
-I don't know about you but I often find myself referring back to documentation or googling commands I should know by now. So I made myself a list:
+Anaconda is **
+
+This is a guide on the features I use most, and sometimes forget! 
 
 Full list and documentation from conda is [here](https://conda.io/docs/user-guide/tasks/manage-environments.html).
 
-## Usual suspects:
-
-create enviroment
+## Create New Conda Environment
 
 `conda create --name myenv`
+
 `conda create -n myenv python=3.4`
 
-windows: `activate myenv` Mac/linux: `source activate myenv`
+## View List of Conda Environments on your machine:
 
-activate enviroment
-deactivate enviroment
+`conda env list`
 
-windows: `deactivate` mac: `source deactivate`
+## Activate environment 
 
-update
-install
+windows: `activate myenv` 
 
-view list:
+Mac/linux: `source activate myenv`
 
-conda env list
+## deactivate environment
+
+windows: `deactivate`
+
+mac/linux: `source deactivate`
+
+## install libraries / packages
+
+`conda install packagename`
+
+replacing `packagename` with the package you would like to install
+
+Example for installing numpy:
+
+`conda install numpy`
+
+
+## Update libraries / packages
+
+conda update
+
+## Creat environment from YAML file
+
+
+## Anaconda does more
+
+Again this is just a quick start guide for the most common things I use or have people ask please checkout the offcial anaconda site for more information! 
+
