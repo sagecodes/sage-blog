@@ -2,7 +2,7 @@
 layout: post
 title:  "Seattle Tech Events (updated weekly)"
 permalink: /seattle-tech-events
-date:   2019-11-18
+date:   2019-12-16
 categories: post
 tags: events seattle
 author: Sage Elliott
@@ -15,36 +15,39 @@ If you'd like them delivered to your inbox you can sign up [here](https://mailch
 
 ------- 
 
-## 12/9/19 - 12/15/19
+## 12/16/19 - 12/22/19
 
-[Jr Dev Struggle Buss Community Social @ Optimisim](http://bit.ly/2riRd45) - Mon 12/9 6:00pm
+We're getting close to the holiday season, after this week there probably wont be many events happening, so make sure to take advantage of the ones happening this week! Including several holiday socials.
 
-[Python Interview Practice @ Galvanize](http://bit.ly/2E3pPd6) - Mon 12/9 6:15pm
+[[Python Interview Night @ Code fellows](http://bit.ly/2stB0cp) - Mon 12/16 6:15p
 
-[Startup Open Coffee @ Galvanize](http://bit.ly/2sfSrwP) - Tue 12/10 8:30am
+[Coding Open Study Lab @ wayward](http://bit.ly/2YSRHdq) - Mon 12/16 7:00p
 
-[New Tech Seattle @ thinkspace](http://bit.ly/346jV5x) - Tue 12/10 6:00pm
+[Startup Open Coffee @ Galvanize](http://bit.ly/35u2pJZ) - Tue 12/17 8:30a
 
-[Rust Monthly Meeup @ microsoft](http://bit.ly/2RGYftU) - Tue 12/10 6:30pm
+[New Tech Eastside](http://bit.ly/2YVtL9k) - Tue 12/17 5:30p
 
-[Oracle Cloud Hiring Event @ jupiter bar](http://bit.ly/2P4z2bd) - Wed 12/11 4:00pm
+[Code Katas [Theme: Recursion] @ Galvanize](http://bit.ly/34tTjLK) - Tue 12/17 5:30p
 
-[PuPPy Python Monthly Talk @ flatiron](http://bit.ly/2RBOKwq) - Wed 12/11 6:00pm
+[The Good AI @ the collective](http://bit.ly/2PNMGia) - Tue 12/17 6:00p
 
-[Snacks Over Security @ Galvanize](http://bit.ly/343E0cF) - Wed 12/11 6:00pm
+[Machine Learning discussion group @ Galvanize](http://bit.ly/2Z1CIhu) - Tue 12/17 6:30p
 
-[Python Programming Night @ Galvanize](http://bit.ly/38oyy7C) - Thu 12/12 6:30pm
+[Ballard Tech Happy Hour @ballard Station](http://bit.ly/2RZV2G4) - Wed 12/18 5:30p
 
-[Diversity & Women in Tech @ Galvanize](http://bit.ly/2s8a9Cy) - Thu 12/12 5:30pm
+[Think Functionally @ the masonry](http://bit.ly/2LXXlFS) - Wed 12/18 7:00p
 
-[SeattleJS Monthly Meetup @ Indeed](http://bit.ly/35bQNeA) - Thu 12/12 6:00pm
+[ Product Thinking in the Age of Machine Learning @ Product school](http://bit.ly/2YYvJWC) - Wed 12/18 6:30p
 
-[How Inclusion Shapes Design @ Ada's Books](http://bit.ly/36lwtqW) - Thu 12/12 7:00pm
+[Open Seattle Holiday Social @ Flat stick PSQ](http://bit.ly/34p1I31) - Thu 12/19 6:00p
 
-[Seattle CoffeeOps @ chef](http://bit.ly/38mPawn) - Fri 12/13 8:00am
+[Angular Holiday Social @ fado](http://bit.ly/2qYCpY9) - Thu 12/19 6:30p
 
-[Indie Support Group @ Academy of Interactive Entertainment](http://bit.ly/2s9pXoI) - Sat 12/14 1:00pm
+[Seattle API Developer Christmas Party](http://bit.ly/35EZk9K) - Thu 12/19 7:00p
 
-[Sunday Coffee Break @ KEXP](http://bit.ly/2YuxJ8L) - Sun 12/15 12:00pm
+[Data Viz, Snacks, and UgLy SwEaTeRs @ Cupcake Royal - Cap hill](http://bit.ly/35oUIEK) - Sat 12/21 12:00p
+
+"[Indie Support Group @ Academy of Interactive Entertainment](http://bit.ly/2swVPDN) - Sat 12/21 1:00p"
+
 
 
