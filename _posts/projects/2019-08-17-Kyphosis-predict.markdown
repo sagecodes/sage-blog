@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "Kyphosis Preditcion"
-permalink: /kyphosis-preditcion-random-forest/
+title:  "Kyphosis Prediction"
+permalink: /kyphosis-prediction-random-forest/
 date: 2019-08-17
 categories: project
 tags: machine-learning case-study
