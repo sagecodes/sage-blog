@@ -1,0 +1,5 @@
+I"m<p>Developed a content management system using the Flask framework in Python. Authentication is provided via OAuth and all data is stored within a PostgreSQL database.</p>
+
+<p>Original use was to replace Udacity student profiles with added features such as displaying projects outside of curriculum, but Udacity updated profiles to include all extra features.</p>
+
+:ET

@@ -1,0 +1,338 @@
+I"w[<p>This was originally an assigned project from Udacity’s full-stack nanodegree program. It seemed complicated enough to deserve a post documenting the steps taken. I hope you enjoy  setting it up from scratch as much I did!</p>
+
+<h3 id="tasks-given-and-method-for-completion">Tasks given and method for completion:</h3>
+
+<ul>
+  <li>Launch your Virtual Machine with your Udacity account
+    <ul>
+      <li>Must be logged into your Udacity account.</li>
+      <li>Visit this <a href="https://www.udacity.com/account#!/development_environment">link</a> and press Create Development Environment.</li>
+    </ul>
+  </li>
+  <li>Follow the instructions provided to SSH into your server
+    <ul>
+      <li>Download private key</li>
+      <li>Move the private key file into the folder ~/.ssh (where ~ is your environment’s home directory). So if you downloaded the file to the Downloads folder, just execute the following command in your terminal. <code class="highlighter-rouge">mv ~/Downloads/udacity_key.rsa ~/.ssh/</code></li>
+      <li>Open your terminal and type in <code class="highlighter-rouge">chmod 600 ~/.ssh/udacity_key.rsa</code></li>
+      <li>In your terminal, type in <code class="highlighter-rouge">ssh -i ~/.ssh/udacity_key.rsa root@52.27.192.5</code></li>
+    </ul>
+  </li>
+  <li>Create a new user named grader
+    <ul>
+      <li><code class="highlighter-rouge">sudo adduser grader</code></li>
+      <li>optional: install finger to check user has been added <code class="highlighter-rouge">apt-get install finger</code></li>
+      <li><code class="highlighter-rouge">finger grader</code></li>
+    </ul>
+  </li>
+  <li>Give the grader the permission to sudo
+    <ul>
+      <li>The README file in the /etc/sudoers.d says:”please note that using the visudo command is the recommended way to update sudoers content, since it protects against many failure modes.” so that’s what we will do!</li>
+      <li><code class="highlighter-rouge">sudo visudo</code></li>
+      <li>inside the file add <code class="highlighter-rouge">grader   ALL=(ALL:ALL) ALL</code> below the root user under “#User privilege specification”</li>
+      <li>save file(nano: <code class="highlighter-rouge">ctrl+x</code>, <code class="highlighter-rouge">Y</code>, Enter)</li>
+    </ul>
+  </li>
+  <li>Update all currently installed packages
+    <ul>
+      <li>Find updates:<code class="highlighter-rouge">sudo apt-get update</code></li>
+      <li>Install updates:<code class="highlighter-rouge">sudo sudo apt-get upgrade</code> Hit Y for yes and give yourself a break while it installs.</li>
+    </ul>
+  </li>
+  <li>Change the SSH port from 22 to 2200 and other SSH configuration required from <a href="https://www.udacity.com/course/viewer#!/c-nd004/l-3573679011/m-3608778867">grading rubic</a>
+    <ul>
+      <li><code class="highlighter-rouge">nano /etc/ssh/sshd_config</code> change <code class="highlighter-rouge">port 22</code> to <code class="highlighter-rouge">port 2200</code></li>
+      <li>while in the file also change <code class="highlighter-rouge">PermitRootLogin without-password</code> to <code class="highlighter-rouge">PermitRootLogin no</code> to disallow root login</li>
+      <li>Change <code class="highlighter-rouge">PasswordAuthentication</code> from <code class="highlighter-rouge">no</code> to <code class="highlighter-rouge">yes</code>. We will change back after finishing SHH login setup</li>
+      <li>append <code class="highlighter-rouge">AllowUsers grader </code> inside file to allow grade to login through SSH</li>
+      <li>save file(nano: <code class="highlighter-rouge">ctrl+x</code>, <code class="highlighter-rouge">Y</code>, Enter)</li>
+      <li>restart ssh service<code class="highlighter-rouge">sudo service ssh reload</code></li>
+    </ul>
+  </li>
+  <li>Create SSH keys and copy to server manually:
+    <ul>
+      <li>On your local machine generate SSH key pair with: <code class="highlighter-rouge">ssh-keygen</code></li>
+      <li>save youkeygen file in your ssh directory <code class="highlighter-rouge">/Users/username/.ssh/</code> example full file path that could be used: <code class="highlighter-rouge">/Users/username/.ssh/project5</code></li>
+      <li>You can add a password to use encase your keygen file gets compromised(you will be prompted to enter this password when you connect with key pair)</li>
+      <li>login into grader account using password set during user creation <code class="highlighter-rouge">ssh -v grader@*Public-IP-Address* -p 2200</code></li>
+      <li>Make .ssh directory<code class="highlighter-rouge">mkdir .ssh</code></li>
+      <li>make file to store key<code class="highlighter-rouge">touch .ssh/authorized_keys</code></li>
+      <li>On your local machine read contents of the public key <code class="highlighter-rouge">cat .ssh/project5.pub</code></li>
+      <li>Copy the key and paste in the file you just created in grader <code class="highlighter-rouge">nano
+.ssh/authorized_keys</code> paste contents(ctr+v)</li>
+      <li>save file(nano: <code class="highlighter-rouge">ctrl+x</code>, <code class="highlighter-rouge">Y</code>, Enter)</li>
+      <li>Set permissions for files: <code class="highlighter-rouge">chmod 700 .ssh</code> <code class="highlighter-rouge">chmod 644 .ssh/authorized_keys</code></li>
+      <li>Change <code class="highlighter-rouge">PasswordAuthentication</code> from <code class="highlighter-rouge">yes</code> back to <code class="highlighter-rouge">no</code>.  <code class="highlighter-rouge">nano /etc/ssh/sshd_config</code></li>
+      <li>save file(nano: <code class="highlighter-rouge">ctrl+x</code>, <code class="highlighter-rouge">Y</code>, Enter)</li>
+      <li>
+        <p>login with key pair: <code class="highlighter-rouge">ssh grader@Public-IP-Address* -p 2200 -i ~/.ssh/project5</code></p>
+      </li>
+      <li>alternatively you can use a shorter method found <a href="https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server">here</a></li>
+    </ul>
+  </li>
+  <li>Configure the Uncomplicated Firewall (UFW) to only allow  incoming connections for SSH (port 2200), HTTP (port 80),  and NTP (port 123)
+    <ul>
+      <li>Check UFW status to make sure its inactive<code class="highlighter-rouge">sudo ufw status</code></li>
+      <li>Deny all incoming by default<code class="highlighter-rouge">sudo ufw default deny incoming</code></li>
+      <li>Allow outgoing by default<code class="highlighter-rouge">sudo ufw default allow outgoing</code></li>
+      <li>Allow SSH on port 2200<code class="highlighter-rouge">sudo ufw allow 2200/tcp</code></li>
+      <li>Allow HTTP on port 80<code class="highlighter-rouge">sudo ufw allow 80/tcp</code></li>
+      <li>Allow NTP on port 123<code class="highlighter-rouge">sudo ufw allow 123/udp</code></li>
+      <li>Turn on firewall<code class="highlighter-rouge">sudo ufw enable</code></li>
+    </ul>
+  </li>
+  <li>Configure the local timezone to UTC
+    <ul>
+      <li>run <code class="highlighter-rouge">sudo dpkg-reconfigure tzdata</code> from prompt: select none of the above. Then select UTC.</li>
+    </ul>
+  </li>
+  <li>Install and configure Apache to serve a Python mod_wsgi application
+    <ul>
+      <li><code class="highlighter-rouge">sudo apt-get install apache2</code> Check if “It works!” at you public IP address given during setup.</li>
+      <li>install mod_wsgi: <code class="highlighter-rouge">sudo apt-get install libapache2-mod-wsgi</code></li>
+      <li>configure Apache to handle requests using the WSGI module <code class="highlighter-rouge">sudo nano /etc/apache2/sites-enabled/000-default.conf</code></li>
+      <li>add <code class="highlighter-rouge">WSGIScriptAlias / /var/www/html/myapp.wsgi</code> before <code class="highlighter-rouge">&lt;/   VirtualHost&gt;</code> closing line</li>
+      <li>save file(nano: <code class="highlighter-rouge">ctrl+x</code>, <code class="highlighter-rouge">Y</code>, Enter)</li>
+      <li>Restart Apache <code class="highlighter-rouge">sudo apache2ctl restart</code></li>
+    </ul>
+  </li>
+  <li>
+    <p>Install git, clone and setup your Catalog App project (from your GitHub repository from earlier in the Nanodegree program) so that it functions correctly when visiting your server’s IP address in a browser. Remember to set this up appropriately so that your .git directory is not publicly accessible via a browser!</p>
+  </li>
+  <li>install git
+    <ul>
+      <li><code class="highlighter-rouge">sudo apt-get install git</code></li>
+      <li><code class="highlighter-rouge">git config --global user.name "YOURNAME"</code></li>
+      <li><code class="highlighter-rouge">git config --global user.email "YOU@DOMAIN.com"</code></li>
+    </ul>
+  </li>
+  <li>install python dev and verify WSGI is enabled
+    <ul>
+      <li>Install python-dev package<code class="highlighter-rouge">sudo apt-get install python-dev</code></li>
+      <li>Verify wsgi is enabled <code class="highlighter-rouge">sudo a2enmod wsgi</code></li>
+    </ul>
+  </li>
+  <li>Create flask app taken from <a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps">digitalocean</a>
+    <ul>
+      <li><code class="highlighter-rouge">cd /var/www</code></li>
+      <li><code class="highlighter-rouge">sudo mkdir catalog</code></li>
+      <li><code class="highlighter-rouge">cd catalog</code></li>
+      <li><code class="highlighter-rouge">sudo mkdir catalog</code></li>
+      <li><code class="highlighter-rouge">cd catalog</code></li>
+      <li><code class="highlighter-rouge">sudo mkdir static templates</code></li>
+      <li><code class="highlighter-rouge">sudo nano __init__.py </code></li>
+    </ul>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>   from flask import Flask
+  app = Flask(__name__)
+  @app.route("/")
+  def hello():
+      return "Hello, world (Testing!)"
+  if __name__ == "__main__":
+  app.run()
+</code></pre></div>    </div>
+  </li>
+  <li>install flask
+    <ul>
+      <li><code class="highlighter-rouge">sudo apt-get install python-pip</code></li>
+      <li><code class="highlighter-rouge">sudo pip install virtualenv </code></li>
+      <li><code class="highlighter-rouge">sudo virtualenv venv</code></li>
+      <li><code class="highlighter-rouge">sudo chmod -R 777 venv</code></li>
+      <li><code class="highlighter-rouge">source venv/bin/activate</code></li>
+      <li><code class="highlighter-rouge">pip install Flask</code></li>
+      <li><code class="highlighter-rouge">python __init__.py</code></li>
+      <li><code class="highlighter-rouge">deactivate</code></li>
+    </ul>
+  </li>
+  <li>Configure And Enable New Virtual Host
+    <ul>
+      <li>Create host config file <code class="highlighter-rouge">sudo nano /etc/apache2/sites-available/catalog.conf</code></li>
+      <li>paste the following:</li>
+    </ul>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;VirtualHost *:80&gt;
+    ServerName 52.27.192.5
+    ServerAdmin admin@52.27.192.5
+    WSGIScriptAlias / /var/www/catalog/catalog.wsgi
+    &lt;Directory /var/www/catalog/catalog/&gt;
+        Order allow,deny
+        Allow from all
+    &lt;/Directory&gt;
+    Alias /static /var/www/catalog/catalog/static
+    &lt;Directory /var/www/catalog/catalog/static/&gt;
+        Order allow,deny
+        Allow from all
+    &lt;/Directory&gt;
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    LogLevel warn
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+&lt;/VirtualHost&gt;
+</code></pre></div>    </div>
+    <ul>
+      <li>save file(nano: <code class="highlighter-rouge">ctrl+x</code>, <code class="highlighter-rouge">Y</code>, Enter)</li>
+      <li>Enable <code class="highlighter-rouge">sudo a2ensite catalog</code></li>
+    </ul>
+  </li>
+  <li>Create the wsgi file
+    <ul>
+      <li><code class="highlighter-rouge">cd /var/www/catalog</code></li>
+      <li><code class="highlighter-rouge">sudo nano catalog.wsgi</code></li>
+    </ul>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">#!/usr/bin/python
+</span><span class="kn">import</span> <span class="nn">sys</span>
+<span class="kn">import</span> <span class="nn">logging</span>
+<span class="n">logging</span><span class="o">.</span><span class="n">basicConfig</span><span class="p">(</span><span class="n">stream</span><span class="o">=</span><span class="n">sys</span><span class="o">.</span><span class="n">stderr</span><span class="p">)</span>
+<span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="s">"/var/www/catalog/"</span><span class="p">)</span>
+
+<span class="kn">from</span> <span class="nn">catalog</span> <span class="kn">import</span> <span class="n">app</span> <span class="k">as</span> <span class="n">application</span>
+<span class="n">application</span><span class="o">.</span><span class="n">secret_key</span> <span class="o">=</span> <span class="s">'Add your secret key'</span>
+</code></pre></div>    </div>
+
+    <ul>
+      <li>
+        <p>save file(nano: <code class="highlighter-rouge">ctrl+x</code>, <code class="highlighter-rouge">Y</code>, Enter)</p>
+      </li>
+      <li>
+        <p><code class="highlighter-rouge">sudo service apache2 restart</code></p>
+      </li>
+    </ul>
+  </li>
+  <li>Clone Github Repo
+    <ul>
+      <li><code class="highlighter-rouge">sudo git clone https://github.com/sageio/devpost.git</code></li>
+      <li>make sure you get hidden files iin move <code class="highlighter-rouge">shopt -s dotglob</code>. Move files from clone directory to catalog <code class="highlighter-rouge">mv /var/www/catalog/devpost/* /var/www/catalog/catalog/</code></li>
+      <li>remove clone directory <code class="highlighter-rouge">sudo rm -r devpost</code></li>
+    </ul>
+  </li>
+  <li>make .git inaccessible
+    <ul>
+      <li>from <code class="highlighter-rouge">cd /var/www/catalog/</code> create .htaccess file <code class="highlighter-rouge">sudo nano .htaccess</code></li>
+      <li>paste in <code class="highlighter-rouge">RedirectMatch 404 /\.git</code></li>
+      <li>save file(nano: <code class="highlighter-rouge">ctrl+x</code>, <code class="highlighter-rouge">Y</code>, Enter)</li>
+    </ul>
+  </li>
+  <li>install dependencies:
+    <ul>
+      <li><code class="highlighter-rouge">source venv/bin/activate</code></li>
+      <li><code class="highlighter-rouge">pip install httplib2</code></li>
+      <li><code class="highlighter-rouge">pip install requests</code></li>
+      <li><code class="highlighter-rouge">sudo pip install --upgrade oauth2client</code></li>
+      <li><code class="highlighter-rouge">sudo pip install sqlalchemy</code></li>
+      <li><code class="highlighter-rouge">pip install Flask-SQLAlchemy</code></li>
+      <li><code class="highlighter-rouge">sudo pip install python-psycopg2</code></li>
+      <li>If you used any other packages in your project be sure to install those as well.</li>
+    </ul>
+  </li>
+  <li>Install and configure PostgreSQL:
+    <ul>
+      <li>Install postgres<code class="highlighter-rouge">sudo apt-get install postgresql</code></li>
+      <li>install additional models<code class="highlighter-rouge">sudo apt-get install postgresql-contrib</code></li>
+      <li>by default no remote connections are <a href="http://www.postgresql.org/docs/9.2/static/auth-pg-hba-conf.html">not allowed</a></li>
+      <li>config database_setup.py <code class="highlighter-rouge">sudo nano database_setup.py</code></li>
+      <li><code class="highlighter-rouge">python engine = create_engine('postgresql://catalog:db-password@localhost/catalog')</code></li>
+      <li>repeat for application.py(main.py)</li>
+      <li>copy your main app.py file into the <strong>init</strong>.py file <code class="highlighter-rouge">mv app.py __init__.py</code></li>
+      <li>Add catalog user <code class="highlighter-rouge">sudo adduser catalog</code></li>
+      <li>login as postgres super user<code class="highlighter-rouge">sudo su - postgres</code></li>
+      <li>enter postgres<code class="highlighter-rouge">psql</code></li>
+      <li>Create user catalog<code class="highlighter-rouge">CREATE USER catalog WITH PASSWORD 'db-password';</code></li>
+      <li>Change role of user catalog to creatDB<code class="highlighter-rouge"> ALTER USER catalog CREATEDB;</code></li>
+      <li>List all users and roles to verify<code class="highlighter-rouge">\du</code></li>
+      <li>Create new DB “catalog” with own of catalog<code class="highlighter-rouge">CREATE DATABASE catalog WITH OWNER catalog;</code></li>
+      <li>Connect to database<code class="highlighter-rouge">\c catalog</code></li>
+      <li>Revoke all rights <code class="highlighter-rouge">REVOKE ALL ON SCHEMA public FROM public;</code></li>
+      <li>Give accessto only catalog role<code class="highlighter-rouge">GRANT ALL ON SCHEMA public TO catalog;</code></li>
+      <li>Quit postgres<code class="highlighter-rouge">\q</code></li>
+      <li>logout from postgres super user<code class="highlighter-rouge">exit</code></li>
+      <li>
+        <p>Setup your database schema <code class="highlighter-rouge">python database_setup.py</code></p>
+      </li>
+      <li>I had problems importing psycopg2 <a href="http://stackoverflow.com/questions/5629368/installing-psycopg2-into-virtualenv-when-postgresql-is-not-installed-on-developm">this</a> stack overflow post helped me</li>
+      <li>
+        <p>retstart apache <code class="highlighter-rouge">sudo service apache2 restart</code></p>
+      </li>
+      <li>I was getting a <code class="highlighter-rouge">No such file or directory: 'client_secrets.json'</code> error. I fixed using a raw path to the file <code class="highlighter-rouge">open(r'/var/www/catalog/catalog/client_secrets.json', 'r').read())...</code> You’ll also need to do this for any other instances of the file path
+  <a href="http://stackoverflow.com/questions/12201928/python-open-method-ioerror-errno-2-no-such-file-or-directory">stack overflow</a></li>
+    </ul>
+  </li>
+  <li>fix OAuth to work with hosted Application
+      * Google wont allow the IP address to make redirects so we need to set up the host name address to be usable.
+    <ul>
+      <li>go to <a href="http://www.hcidata.info/host2ip.cgi">http://www.hcidata.info/host2ip.cgi</a> to get your host name by entering your public IP address Udacity gave you.</li>
+      <li>open apache configbfile <code class="highlighter-rouge">sudo nano /etc/apache2/sites-available/catalog.conf</code></li>
+      <li>below the <code class="highlighter-rouge">ServerAdmin</code> paste <code class="highlighter-rouge">ServerAlias YOURHOSTNAME</code></li>
+      <li>make sure the virtual host is enabled <code class="highlighter-rouge">sudo a2ensite catalog</code></li>
+      <li>restart apache server <code class="highlighter-rouge">sudo service apache2 restart</code></li>
+      <li>in your google developer console add your host name and IP address to Authorized Javascript origins. And add YOURHOSTNAME/ouath2callback to the Authorized redirect URIs.</li>
+      <li>Note that it may take a few minutes for you to see changes, so if you still can’t login right away don’t panic!</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="exceeds-specs-requirements">Exceeds specs requirements</h2>
+
+<ul>
+  <li>Install glances for monitoring (Exceeds specs requirement)
+    <ul>
+      <li>install glances <code class="highlighter-rouge">sudo pip install Glances</code></li>
+      <li>run <code class="highlighter-rouge">glances</code> to see monitor</li>
+    </ul>
+  </li>
+  <li>
+    <p>Configure firewall to monitor for unsuccessful attempts and use cron scripts to automatically manage packages (Exceeds specs requirement)</p>
+
+    <ul>
+      <li>install fail2band <code class="highlighter-rouge">sudo apt-get install fail2ban</code></li>
+      <li>copy config file to .local <code class="highlighter-rouge">sudo cp /etc/fail2ban/jail.conf /etc/fail2ban/jail.local</code></li>
+      <li>open .local config file to set parameters <code class="highlighter-rouge">sudo nano /etc/fail2ban/jail.local</code> Make at least the following changes. You can change bantime or other settings as well. This will allow email with log info and set SSH to the correct port.</li>
+    </ul>
+
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>destemail = YOURNAME@DOMAIN
+action = %(action_mwl)s
+under [ssh] change port = 2220
+</code></pre></div>    </div>
+
+    <ul>
+      <li>install sendmail<code class="highlighter-rouge">sudo apt-get install nginx sendmail</code></li>
+      <li>stop service <code class="highlighter-rouge">sudo service fail2ban stop</code></li>
+      <li>
+        <p>Start service <code class="highlighter-rouge">sudo service fail2ban start</code></p>
+      </li>
+      <li>install unattended-upgrades <code class="highlighter-rouge">sudo apt-get install unattended-upgrades</code></li>
+      <li>enable <code class="highlighter-rouge">sudo dpkg-reconfigure -plow unattended-upgrades</code></li>
+      <li>Automatically install security updates</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="sources-used">Sources used:</h2>
+<p><a href="https://www.udacity.com/course/viewer#!/c-ud299-nd/l-4378692847/m-4799370031">Configuring Linux Web Servers - Udacity.com</a></p>
+
+<p><a href="http://askubuntu.com/questions/59458/error-message-when-i-run-sudo-unable-to-resolve-host-none">Get rid of sudo error message - askubuntu</a></p>
+
+<p><a href="http://askubuntu.com/questions/16650/create-a-new-ssh-user-on-ubuntu-server">Create new ssh user - askubuntu</a></p>
+
+<p><a href="https://help.ubuntu.com/community/UFW">More info on UFW - Ubuntu docs</a></p>
+
+<p><a href="https://help.ubuntu.com/community/UbuntuTime#Using_the_Command_Line_.28terminal.29">Change timezone - Ubuntu docs</a></p>
+
+<p><a href="https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps">Flask App on Ubuntu VPS - DigitalOcean</a></p>
+
+<p><a href="http://stackoverflow.com/questions/14695278/python-packages-not-installing-in-virtualenv-using-pip">python packages not installing in virtualenv using pip - stackoverflow</a></p>
+
+<p><a href="http://unix.stackexchange.com/questions/6393/how-do-you-move-all-files-including-hidden-from-one-directory-to-another">Move files from one directtory to another - stack exchange</a></p>
+
+<p><a href="http://stackoverflow.com/questions/6142437/make-git-directory-web-inaccessible">Make .git directory web inaccessible</a></p>
+
+<p><a href="https://discussions.udacity.com/t/google-sign-in-problems/28191">Fix google + Oauth issue - Udacity Forum</a></p>
+
+<p><a href="http://glances.readthedocs.org/en/latest/glances-doc.html#configuration">Using glances - Glances docs</a></p>
+
+<p><a href="https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04">Use fail2ban to monitor login - digital ocean</a></p>
+
+<p><a href="http://joebergantine.com/blog/2015/apr/30/installing-python-2-and-python-3-alongside-each-ot/">Python 2 in virtual enviroment</a></p>
+
+<p><a href="https://help.ubuntu.com/community/AutomaticSecurityUpdates">unattended upgardes - ubuntu docs</a></p>
+
+<p><a href="http://blog.sahildiwan.com/posts/flask-and-postgresql-app-deployed-on-heroku/">Using postgres in flask</a></p>
+:ET

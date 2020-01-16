@@ -1,0 +1,48 @@
+I"v	<p>Hello everyone who attended our first <a href="https://www.meetup.com/Seattle-Deep-Learning/">Seattle Deep Learning Study Night</a>! I hope you all had a good time meeting new people, exchanging ideas, and working on projects. I know I did!</p>
+
+<p>I have collected as many of the resources and interesting things people mentioned and thought I would share them out!</p>
+
+<h3 id="learning-resources">Learning Resources</h3>
+
+<p><a href="https://www.coursera.org/instructor/andrewng">Andrew Ng courses</a></p>
+
+<ul>
+  <li><a href="https://www.coursera.org/learn/machine-learning">Machine Learning course</a></li>
+  <li><a href="https://www.deeplearning.ai/deep-learning-specialization/">Deep Learning specialization</a></li>
+</ul>
+
+<p><a href="http://fast.ai">fast.ai</a></p>
+
+<p><a href="https://www.pyimagesearch.com/">pyimagesearch</a></p>
+
+<p><a href="https://www.udacity.com/course/deep-learning-nanodegree--nd101">Udacity Deep Learning NanoDegree</a></p>
+
+<p><a href="https://machinelearningmastery.com/">Machinelearningmastery</a></p>
+
+<p><a href="https://www.insightdatascience.com/">Insight Data Science</a></p>
+
+<p><a href="http://bit.ly/seadatascience">Galvanize Data Science</a></p>
+
+<p><a href="https://paperswithcode.com/">Papers with Code</a></p>
+
+<h3 id="artcicles--podcasts">Artcicles &amp; Podcasts</h3>
+
+<p><a href="https://news.ycombinator.com/item?id=21216200">pytorch vs tensorflow hacker news article</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=J6XcP4JOHmk">Jeremy Howard Postcast</a></p>
+
+<p><a href="https://medium.com/syncedreview/googles-albert-is-a-leaner-bert-achieves-sota-on-3-nlp-benchmarks-f64466dd583">Google new AlBERT</a></p>
+
+<p><a href="https://twimlai.com/twiml-talk-270-snorkel-a-system-for-fast-training-data-creation-with-alex-ratner/">Snorkel</a>: A System for Fast Training Data Creation with Alex Ratner podcast</p>
+
+<h3 id="tools">Tools</h3>
+
+<p><a href="https://hazyresearch.github.io/snorkel/">Snorkel</a>: A System for Fast Training Data Creation.</p>
+
+<p><a href="https://github.com/pytorch/captum">Catptum</a>: Captum is a model interpretability and understanding library for PyTorch.</p>
+
+<p><a href="https://colab.research.google.com/">Google colab</a>: Google hosted jupyter notebook with limited free GPU/TPU.</p>
+
+<p><a href="https://github.com/slundberg/shap">SHAP Values</a>: a unified approach to explain the output of any machine learning model.</p>
+
+:ET
