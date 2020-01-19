@@ -3,7 +3,7 @@ layout: speaking
 title:  "Intro to JavaScript part 2"
 categories: event
 author: Sage Elliott
-date:   2019-01-14
+date:   2020-01-14
 link: https://www.eventbrite.com/e/intro-to-programming-with-javascript-tickets-74341474351
 time: 6:30pm
 published: true
