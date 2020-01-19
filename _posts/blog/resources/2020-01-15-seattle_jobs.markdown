@@ -9,21 +9,21 @@ author: Sage Elliott
 published: true
 ---
 
-A fairly frequent question I get is "Where should I apply?" from people who are
-seeking a new tech job in Seattle. 
+A frequent question I get is "Where should I apply?" from people who are seeking a new tech job in Seattle. 
 
 Seattle has A LOT of companies including most of the big names you've heard of!
 
 I made a list of Seattle companies or companies I've seen hire in Seattle or nearby as well as some companies that I've met remote workers from in the area. 
 
-Take a look at the linked career page to see who's currently hiring! I've seen a lot of opening for both software and data roles. 
+Look at the linked career page to see who's currently hiring! I've seen a lot of opening for both software and data roles. 
 
 Although there are over 200 companies listed this is not an exhaustive list. 
-Just the ones I know of. Hopefully it will be a good starting point for you if 
-you're looking and maybe you'll find something new and interesting! 
+Just the ones I know of. Hopefully it will be a good starting point if 
+you're looking and maybe you'll find something new and interesting!
 
 
-### Seattle Companie List for Tech jobs
+
+### Seattle Tech Company List | Career pages
 
 1. [Amazon](https://www.amazon.jobs/en) 
 1. [Google ](https://careers.google.com/) 
