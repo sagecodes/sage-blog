@@ -2,7 +2,7 @@
 layout: post
 title:  "Seattle Tech Events (updated weekly)"
 permalink: /seattle-tech-events
-date:   2020-01-19
+date:   2020-01-26
 categories: post
 tags: events seattle
 author: Sage Elliott
@@ -11,50 +11,51 @@ published: true
 
 I update this page every week(almost) with cool events in Seattle centered around technology.
 
-If you'd like them delivered to your inbox you can sign up [here](https://mailchi.mp/32d244a64668/techseattle).
+If you'd like them delivered to your inbox (coming soon) you can sign up [here](https://mailchi.mp/32d244a64668/techseattle).
 
 ------- 
 
-## 1/20/19 - 12/26/19
+## 1/27/20 - 2/2/20
 
-It's 2020! After the first week of being back at work and then our "Snow Storm" looks like meetups are back to their regular schedules! Here are the ones I'm really looking forward to this week.
+Here are 20 awesome events happening around Seattle this week!
 
+[Python Interview Night @ Galvanize](https://www.meetup.com/PSPPython/events/prbjdrybccbkc/) - Mon 1/27 6:15p
 
-[Python Interview Practice @ Code Fellows](https://www.meetup.com/PSPPython/events/krbjdrybccbbc/) - Mon 1/20 6:15p
+[Break into data science panel @ Galvanize](https://www.eventbrite.com/e/break-into-data-science-panel-discussion-and-info-session-galvanize-seattle-tickets-89292876397) - Mon 1/27 6:30p
 
-[Startup Open Coffee at Galvanize](https://www.meetup.com/PSPPython/events/267516377/) - Tue 1/21 8:30a
+[Brother Hackathon](https://www.meetup.com/Brother-Hackathon-Seattle/events/267940592) - Mon 1/27 7:00p
 
-[Machine Learning discussion group @ Galvanize](https://www.meetup.com/PSPPython/events/267516377/) - Tue 1/21 6:30p
+[Startup Open coffee @ Galvanize](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/xftnplybccblc/) - Tue 1/28 8:30a
 
-[JavaScript Code Katas @ Galvanize](https://www.meetup.com/seattlejshackers/events/267254618/) - Tue 1/21 5:30p
+[Tech career mentoring @ Bills off broadway](https://www.meetup.com/Seattle-Tech-Mentors/events/nrmthrybccblc/) - Tue 1/28 6:00p
 
-[Java: Ahead of Time (AOT) @ Amazon](https://www.meetup.com/seajug/events/267391646/) - Tue 1/21 6:00p
+[Community Hack Night @ Code Fellows](https://www.meetup.com/openseattle/events/fzphnrybccblc/) - Tue 1/28 6:00p
 
-[Rust: Physical Computing Workshop @ vivace](https://www.meetup.com/Seattle-Rust-Meetup/events/267538087/) - Tue 1/21 7:00p
+[Rust Monthly Meetup @ Google (SLU)](https://www.meetup.com/Seattle-Rust-Meetup/events/prbtdrybccbsb/) - Tue 1/28 6:30p
 
-[Indies Social @ Optimism](https://www.meetup.com/SeattleIndies/events/djtvjpybccbcc/) - Tue 1/21 7:00p
+[Elixir and functional programming @ Leafly](https://www.meetup.com/Seattle-Elixir-Programming-Meetup/events/267909556/) - Tue 1/28 7:00p
 
-[Software Test Automation @ TBA](https://www.meetup.com/TestPro-Seattle/events/264625678/) - Wed 1/22 6:00p
+[BioTech & Bagels @ Cap One Café (SLU)](https://www.meetup.com/Seattle-BioTech-Bagels-Morning-Meetup/events/mkbwkrybccbmc/) - Wed 1/29 8:00a
 
-[Data Science @ Fred Hutch](https://www.meetup.com/Seattle-WiDS-Meetup/events/266965964/) - Wed 1/22 6:00p
+[New tech Job fair @ Galvanize](https://www.meetup.com/NewTechSeattle/events/266613742/) - Wed 1/29 4:00p
 
-[The Good AI @ The Collective](https://www.meetup.com/TheGoodAI/events/267700451/) - Wed 1/22 6:00p
+[Seattle DevOps Meetup @ Chef](https://www.meetup.com/Seattle-DevOps-Meetup/events/266467729/) - Wed 1/29 5:30p
 
-[Big Data: Autonomous Database @ One Bellvue Center](https://www.meetup.com/Big-Data-Bellevue-BDB/events/fxbnllybccbtb/) - Wed 1/22 6:00p
+[Seattle Beer&&Code @ Substantial](https://www.meetup.com/Beer-Code-Seattle/events/dfmznnybccbmc/) - Wed 1/29 6:00p
 
-[Intro to Machine Learning @ Galvanize](https://www.eventbrite.com/e/intro-to-machine-learning-tickets-86875154927) - Wed 1/22 6:30p
+[Deep Learning Talks @ Uber](https://www.eventbrite.com/e/seattle-applied-deep-learning-january-2020-tickets-89327792833) - Wed 1/29 6:00p
 
-[Mobile Development Unplugged @ Galvanize](https://www.meetup.com/mobiletea-seattle/events/267733742/) - Thu 1/23 6:00p
+[Testing And/Or Modularity @ CDK Global](https://www.meetup.com/seattle-software-craftsmanship/events/268072625/) - Wed 1/29 6:00p
 
-[Python Programming Night @ Galvanize](https://www.meetup.com/PSPPython/events/267998132/) - Thu 1/23 6:30p
+[Audio : the black [tool]box @ HTC](https://www.meetup.com/Seattle-Unity3D/events/267976312/) - Wed 1/29 7:00p
 
-[Software: Heresy by Eric Gunnerson @ CDK Global](https://www.meetup.com/seattle-software-craftsmanship/events/nhjtqqybccbfc/) - Thu 1/23 6:00p
+[Google AI Huddle @ TBA](https://www.meetup.com/Google-AI-Huddle-Seattle/events/268162839/) - Thu 1/30 5:30p
 
-[Open Seattle Monthly @ Tyler Technologies](https://www.meetup.com/openseattle/events/dnpxlrybccbdc/) - Thu 1/23 6:00p
+[Python Programming Night @ Galvanize](https://www.meetup.com/PSPPython/events/267972652/) - Thu 1/30 6:30p
 
-[Add Vue.js to Your Toolkit @ thinkspace](https://www.meetup.com/free-code-camp-sea/events/267708754/) - Thu 1/23 6:00p
+[Datathon Team Work Time @ Google (SLU)](https://www.meetup.com/Seattle-WiDS-Meetup/events/gznwmrybccbnc/) - Thu 1/30 6:00p
 
-[Angular @ Google SLU](https://www.meetup.com/Angular-Seattle/events/267787889/) - Thu 1/23 7:00p
+[NLP Workshop @ Microsoft (Redmond)](https://www.meetup.com/Seattle-Artificial-Intelligence-Workshops/events/267627486/) - Thu 1/30 6:30p
 
-[Seattle CoffeeOps @ Chef](https://www.meetup.com/Seattle-CoffeeOps/events/kgmkbqybccbgc/) - Fri 1/24 8:00a
+[Data Vis and Snacks @ Cupcake Royal (Cap Hill)](https://www.meetup.com/Data-Viz-Jam-Sessions/events/268025382/) -   
 
