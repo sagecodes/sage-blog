@@ -2,7 +2,7 @@
 layout: post
 title:  "Seattle Tech Events (updated weekly)"
 permalink: /seattle-tech-events
-date:   2020-02-02
+date:   2020-02-10
 categories: post
 tags: events seattle
 author: Sage Elliott
@@ -15,40 +15,40 @@ If you'd like them delivered to your inbox (coming soon) you can sign up [here](
 
 ------- 
 
-## 2/3/20 - 2/9/20
+## 2/10/20 - 2/16/20
 
-[Intro to Programming with Python - Part 1 @ Galvanize](https://www.meetup.com/Learn-Code-Seattle/events/267997524/) - Mon 2/3 6:30p
+[Python Interview Practice @ Galvanize](https://www.meetup.com/PSPPython/events/fvhclrybcdbnb/) - Mon 2/10 6:15p
 
-[Interview Practice Night @ Flatiron](https://www.meetup.com/PSPPython/events/vqbjdrybcdbfb/) - Mon 2/3 6:15p
+[Coding Open Study Lab @ Wayward Coffee](https://www.meetup.com/The-Junior-Dev-Struggle-Bus/events/ntrxgrybcdbnb/) - Mon 2/10 7:00p
 
-[Intro to Programming with Python - Part 2 @ Galvanize](https://www.meetup.com/Learn-Code-Seattle/events/267997538/) - Tue 2/4 6:30p
+[Intro to Programming with JavaScript - Part 1 @ Galvanize](https://www.meetup.com/Learn-Code-Seattle/events/267998017/) - Mon 2/10 6:30p
 
-[Startup Open Coffee @ Galvanize](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/xftnplybcdbgb/) - Tue 2/4 8:30a
+[Tech career mentoring @ Bills Off Broadway](https://www.meetup.com/Seattle-Tech-Mentors/events/nrmthrybcdbpb/) - Tue 2/11 6:00p
 
-[IoT Successes and Challenges @ David Wright Tremaine](https://www.meetup.com/Seattle-Hardware-Startups/events/267706283/) - Tue 2/4 12:450
+[Community Hack Night @ Code Fellows](https://www.meetup.com/openseattle/events/qghlnrybcdbpb/) - Tue 2/11 6:00p
 
-[New Tech Seattle @ Thinkspace](https://www.meetup.com/NewTechSeattle/events/xsgvhqybcdbpb/) - Tue 2/4 6:00p
+[Intro to Programming with JavaScript - part 2 @ Galvanize](https://www.meetup.com/Learn-Code-Seattle/events/267998033/) - Tue 2/11 6:30p
 
-[Monthly Hardware Meetup @ TBA](https://www.meetup.com/Seattle-Arduino-Meetup/events/jzfsmrybcdbhb/) - Tue 2/4 7:00p
+[Language Modeling and Transformers @ OnePiece](https://www.meetup.com/PSPPython/events/268070488/) - Tue 2/11 7:00p
 
-[Automated PostgreSQL Clusters @ SCHARP](https://www.meetup.com/Seattle-Postgres/events/klrjdrybcdbgb/) - Tue 2/4 7:00p
+[AI NEXTCon Developers Conference Seattle  @ Meydenbauer Center](http://aisea20.xnextcon.com/) - Wed 2/12 8:00a
 
-[Everything Is Broken @ F5](https://www.meetup.com/Everything-Is-Broken/events/nckwdrybcdbhb/) - Wed 2/5 6:00p
+[PuPPy Python Monthly Talk @ Logic2020](https://www.meetup.com/PSPPython/events/jvwckrybcdbqb/) - Wed 2/12 6:00p
 
-[Mobile Tea Seattle @ Galvanze](https://www.meetup.com/mobiletea-seattle/events/267733742/) - Thu 2/6 6:00p
+[Computer, turn on the lights @ Avvo](https://www.meetup.com/Seattle-Web-App-Developers-Group/events/267770914/) - Wed 2/12 6:00p
 
-[WiDS Datathon Team Work Time @ Google (SLU)](https://www.meetup.com/Seattle-WiDS-Meetup/events/gznwmrybcdbjb/) - Thu 2/6 6:00p
+[Snacks Over Security @ Galvanize](https://www.meetup.com/Seattle-DevSecOps/events/268158106/) - Wed 2/12 6:00p
 
-[Operation Code Chapter Meeting @ Google (Fremont)](https://www.meetup.com/OperationCode-SeattleWA/events/268389806/) - Thu 2/6 6:00p
+[Diversity & Women in Tech @ Intellectual House](https://www.meetup.com/Newhttps://www.meetup.com/NewTechSeattle/events/267927388/TechSeattle/events/267927388/) - Wed 2/12 7:00p
 
-[Backpropagation applied to handwritten zip code recognition @ Create33](https://www.meetup.com/Papers-We-Love-Seattle/events/rbfqfrybcdbjb/) - Thu 2/6 6:30p
+[SeattleJS Monthly Meetup @ Galvanize](https://www.meetup.com/seattlejs/events/clmbzqybcdbrb/) - Thu 2/13 6:00p
 
-[Hardware Happy Hour @ Optimism](https://www.meetup.com/Seattle-Hardware-Happy-Hour-3H/events/268258415/) - Thu 2/6 7:00p
+[Datathon Team Work Time @ Google (SLU)](https://www.meetup.com/Seattle-WiDS-Meetup/events/gznwmrybcdbrb/) - Thu 2/13 6:00p
 
-[CoffeeOps @ Chef](https://www.meetup.com/Seattle-CoffeeOps/events/kgmkbqybcdbkb/) - Fri 2/7 8:00a
+[Python Programming Night @ Galvanize](https://www.meetup.com/PSPPython/events/268435673/) - Thu 2/13 6:30p
 
-[Indie Support Group @ Academy of Interactive Entertainment](https://www.meetup.com/SeattleIndies/events/xnvbnrybcdblb/) - Sat 2/8 1:00p
+[WordPress Fundamentals](https://www.meetup.com/SeattleWordPressMeetup/events/xxbvnrybcdbtb/) - Sat 2/15 10:00a
 
-[JavaScript Sunday Coffee Break @ KEXP](https://www.meetup.com/seattlejshackers/events/gjsfmrybcdbmb/) - Sun 2/9 12:00p
+[Indie Support Group @ Academy of Interactive Entertainment](https://www.meetup.com/SeattleIndies/events/xnvbnrybcdbtb/) - Sat 2/15 1:00a
 
-
+[ Seattle VR Art Fest and Tournament @ Beyond Reality](https://www.meetup.com/Seattle-VR-Panels-Presentations/events/267249652/) - Sun 2/16 12:00p
