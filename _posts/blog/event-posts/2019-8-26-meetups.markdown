@@ -15,46 +15,30 @@ If you'd like them delivered to your inbox (coming soon) you can sign up [here](
 
 ------- 
 
-## 2/24/20 - 3/01/20
+## 3/2/20 - 3/08/20
 
-[Hack Night @ Flatiron](https://www.meetup.com/seattlejshackers/events/268006597/) - Mon 2/24 5:30p
+[Apache Beam Tech Meetup @ Google (SLU)](https://www.meetup.com/Seattle-Data-Science/events/268986191/) - Mon 3/2 6:00p
 
-[How to Get Better Jobs as a Software Engineer @ Galvanize](https://www.meetup.com/NewTechSeattle/events/268509714/) - Mon 2/24 6:00p
+[Python Interview Practice Night @ Flatiron](https://www.meetup.com/PSPPython/events/vqbjdrybcfbdb/) - Mon 3/2 6:15p
 
-[Interview Practice Night @ Galvanize](https://www.meetup.com/PSPPython/events/prbjdrybcdbgc/) - Mon 2/24 6:15p
+[Startup Open Coffee @ Galvanize](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/xftnplybcfbfb/) - Tue 3/3 8:30a
 
-[Jr. Dev Coding Open Study Lab @ Wayward Coffee](https://www.meetup.com/The-Junior-Dev-Struggle-Bus/events/ntrxgrybcdbgc/) - Mon 2/24 7:00p
+[Community Hack Night @ Code fellows](https://www.meetup.com/openseattle/events/qghlnrybcfbfb/) - Tue 3/3 6:00p
 
-[Startup Open Coffee @ Galvanize](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/xftnplybcdbhc/) - Tue 2/25 8:30a
+[PostgreSQL User Group @ SCHARP](https://www.meetup.com/Seattle-Postgres/events/klrjdrybcfbfb/) - Tue 3/3 7:00p
 
-[Tech career mentoring @ Bills Off Broadway](https://www.meetup.com/Seattle-Tech-Mentors/events/nrmthrybcdbhc/) - Tue 2/25 6:00p
+[Monthly Hardware Meetup @ TBA](https://www.meetup.com/Seattle-Arduino-Meetup/events/jzfsmrybcfbfb/) - Tue 3/3 7:00p
 
-[Community Hack Night @ code fellows](https://www.meetup.com/openseattle/events/qghlnrybcdbhc/) - Tue 2/25 6:00p
+[Data Science Project Showcase @ Galvanize](https://www.eventbrite.com/e/galvanize-seattle-data-science-demo-day-3520-tickets-93353495819) - Thu 3/5 4:30p
 
-[Speed Mentoring Event @ Insight Data Science](https://www.meetup.com/Seattle-WiDS-Meetup/events/268763726/) - Tue 2/25 6:00p
+[New Voter Technology for 2020 Elections @ TF Blockchain-Seattle](https://www.meetup.com/TF-Blockchain-Seattle-Chapter/events/266790376/) - Thu 3/5 5:30p
 
-[BioTech & Bagels @ Cap One Café](https://www.meetup.com/Seattle-BioTech-Bagels-Morning-Meetup/events/lrnxnrybcdbjc/) - Wed 2/26 8:00a
+[Data Circles Anniversary Celebration @ Starbucks](https://www.meetup.com/Seattle-WiDS-Meetup/events/266637632/) - Thu 3/5 6:00p
 
-[Billionaire Space Tourist Who created Microsoft Excel @ Atlas](https://www.meetup.com/HackerNewsSeattleMeetup/events/268668042/) - Wed 2/26 5:00p
+[Seattle Hardware Happy Hour @ Postdoc](https://www.meetup.com/Seattle-Hardware-Happy-Hour-3H/events/268868114/) - Thu 3/5 7:00p
 
-[Ballard Tech Happy Hour @ Ballard beer](https://www.meetup.com/BallardTechHH/events/wtlflrybcdbjc/) - Wed 2/26 5:30p
+[Seattle CoffeeOps @ Chef](https://www.meetup.com/Seattle-CoffeeOps/events/kgmkbqybcfbjb/) - Fri 3/6 8:00a
 
-[Seattle Beer&&Code @ Substantial](https://www.meetup.com/Beer-Code-Seattle/events/dfmznnybcdbjc/) - Wed 2/26 6:00p
+[Indie Support Group @ Academy of Interactive Entertainment](https://www.meetup.com/SeattleIndies/events/xnvbnrybcfbkb/) - Sat 3/7 1:00p
 
-[Need Based Microservices @ CDK Global](https://www.meetup.com/seattle-software-craftsmanship/events/nhjtqqybcdbkc/) - Wed 2/26 6:00p
-
-[Python Programming Night @ Galvanize](https://www.meetup.com/PSPPython/events/268809992/) - Thu 2/27 6:30p
-
-[Open Seattle Monthly Meetup @ Tyler Technologies](https://www.meetup.com/openseattle/events/dnpxlrybcdbkc/) - Thu 2/27 6:00p
-
-[Ask the Teachers! @ Ada's Technical Books and Café](https://www.meetup.com/EdTechSeattle/events/268386521/) - Thu 2/27 6:00p
-
-[Learn React Basics with FCC @ thinkspace](https://www.meetup.com/free-code-camp-sea/events/268470305/) - Thu 2/27 6:00p
-
-[Software Test Automation @ Hulu](https://www.meetup.com/TestPro-Seattle/events/268694940/) - Thu 2/27 6:00p
-
-[Scientific Computing @ U.S. Bank Center](https://www.meetup.com/PSPPython/events/268942903/) - Thu 2/27 6:30p
-
-[unity Show & Tell Mixer @ Wizards of the Coast](https://www.meetup.com/Seattle-Unity3D/events/268830636/) - Thu 2/27 7:00p
-
-[Indie Support Group @ Academy of Interactive Entertainment](https://www.meetup.com/SeattleIndies/events/xnvbnrybcdbmc/) - Sat 2/29 1:00p
+[JavaScript Coffee Break @ KEXP](https://www.meetup.com/seattlejshackers/events/gjsfmrybcfblb/) - Sun 3/8 12:00p
