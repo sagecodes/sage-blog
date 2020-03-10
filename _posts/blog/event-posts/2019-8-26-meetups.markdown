@@ -15,30 +15,10 @@ If you'd like them delivered to your inbox (coming soon) you can sign up [here](
 
 ------- 
 
-## 3/2/20 - 3/08/20
+## No event posts this month
 
-[Apache Beam Tech Meetup @ Google (SLU)](https://www.meetup.com/Seattle-Data-Science/events/268986191/) - Mon 3/2 6:00p
+Most meetups are canceling due to COVID-19 so I won't be posting weekly events until they start happening again. 
 
-[Python Interview Practice Night @ Flatiron](https://www.meetup.com/PSPPython/events/vqbjdrybcfbdb/) - Mon 3/2 6:15p
+Wash your hands and stay safe!
 
-[Startup Open Coffee @ Galvanize](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/xftnplybcfbfb/) - Tue 3/3 8:30a
 
-[Community Hack Night @ Code fellows](https://www.meetup.com/openseattle/events/qghlnrybcfbfb/) - Tue 3/3 6:00p
-
-[PostgreSQL User Group @ SCHARP](https://www.meetup.com/Seattle-Postgres/events/klrjdrybcfbfb/) - Tue 3/3 7:00p
-
-[Monthly Hardware Meetup @ TBA](https://www.meetup.com/Seattle-Arduino-Meetup/events/jzfsmrybcfbfb/) - Tue 3/3 7:00p
-
-[Data Science Project Showcase @ Galvanize](https://www.eventbrite.com/e/galvanize-seattle-data-science-demo-day-3520-tickets-93353495819) - Thu 3/5 4:30p
-
-[New Voter Technology for 2020 Elections @ TF Blockchain-Seattle](https://www.meetup.com/TF-Blockchain-Seattle-Chapter/events/266790376/) - Thu 3/5 5:30p
-
-[Data Circles Anniversary Celebration @ Starbucks](https://www.meetup.com/Seattle-WiDS-Meetup/events/266637632/) - Thu 3/5 6:00p
-
-[Seattle Hardware Happy Hour @ Postdoc](https://www.meetup.com/Seattle-Hardware-Happy-Hour-3H/events/268868114/) - Thu 3/5 7:00p
-
-[Seattle CoffeeOps @ Chef](https://www.meetup.com/Seattle-CoffeeOps/events/kgmkbqybcfbjb/) - Fri 3/6 8:00a
-
-[Indie Support Group @ Academy of Interactive Entertainment](https://www.meetup.com/SeattleIndies/events/xnvbnrybcfbkb/) - Sat 3/7 1:00p
-
-[JavaScript Coffee Break @ KEXP](https://www.meetup.com/seattlejshackers/events/gjsfmrybcfblb/) - Sun 3/8 12:00p
