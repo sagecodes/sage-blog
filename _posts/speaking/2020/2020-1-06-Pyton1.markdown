@@ -1,0 +1,14 @@
+---
+layout: speaking
+title:  "Intro to Programming with Python part 1 "
+categories: event
+author: Sage Elliott
+date:   2020-01-06
+link: https://www.eventbrite.com/e/intro-to-programming-with-python-part-1-tickets-86749631483
+time: 6:30pm
+published: true
+---
+
+This FREE event is especially for aspiring coders in Seattle who are interested in programming with python for data Science!
+
+This is a friendly workshop focused on learning about programming for beginners!!

@@ -1,0 +1,14 @@
+---
+layout: speaking
+title:  "Intro to Machine Learning"
+categories: event
+author: Sage Elliott
+date:   2019-06-19
+link: https://www.eventbrite.com/e/intro-to-machine-learning-free-tickets-62274490678
+time: 6:30pm
+published: true
+---
+
+This FREE event is especially for aspiring coders in Seattle who are interested in Machine Learning with python for data Science!
+
+This is a friendly workshop focused on learning about machine learning for beginners!!

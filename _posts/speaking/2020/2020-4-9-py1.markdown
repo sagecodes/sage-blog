@@ -1,0 +1,14 @@
+---
+layout: speaking
+title:  "Intro to Python part 1"
+categories: event
+author: Sage Elliott
+date:   2020-04-09
+link: https://www.eventbrite.com/e/webinar-intro-to-python-part-1-tickets-100964868640
+time: 5:30pm
+published: true
+---
+
+This FREE event is especially for aspiring coders anywhere who are interested in Web development with Python
+
+This is a friendly workshop focused on learning about programming for beginners!!

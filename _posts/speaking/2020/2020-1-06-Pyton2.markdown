@@ -1,0 +1,14 @@
+---
+layout: speaking
+title:  "Intro to Programming with Python part 2 "
+categories: event
+author: Sage Elliott
+date:   2020-01-07
+link: https://www.eventbrite.com/e/intro-to-programming-with-python-part-2-tickets-86869724685
+time: 6:30pm
+published: true
+---
+
+This FREE event is especially for aspiring coders in Seattle who are interested in programming with python for data Science!
+
+This is a friendly workshop focused on learning about programming for beginners!!

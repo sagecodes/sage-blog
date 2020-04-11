@@ -1,0 +1,14 @@
+---
+layout: speaking
+title:  "Intro to JavaScript part 1"
+categories: event
+author: Sage Elliott
+date:   2020-02-10
+link: https://www.eventbrite.com/e/intro-to-programming-with-javascript-part-1-tickets-90372491555
+time: 6:30pm
+published: true
+---
+
+This FREE event is especially for aspiring coders in Seattle who are interested in Web development with JavaScript
+
+This is a friendly workshop focused on learning about Web development for beginners!!
