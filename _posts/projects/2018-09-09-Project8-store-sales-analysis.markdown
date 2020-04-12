@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Store Sales Analysis"
+title:  "Sales Analysis"
 permalink: /store-sales-analysis/
 date:   2018-09-09
 categories: project

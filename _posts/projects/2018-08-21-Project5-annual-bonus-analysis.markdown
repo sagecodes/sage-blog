@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Annual Bonus Analysis"
+title:  "Bonus Analysis"
 permalink: /annual-bonus-analysis/
 date:   2018-08-21
 categories: project

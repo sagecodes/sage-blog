@@ -3,7 +3,7 @@ layout: speaking
 title:  "Intro to Python part 2"
 categories: event
 author: Sage Elliott
-date:   2020-04-09
+date:   2020-04-15
 link: https://www.eventbrite.com/e/webinar-intro-to-python-part-2-tickets-101843474574
 time: 5:30pm
 published: true

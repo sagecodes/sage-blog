@@ -11,8 +11,6 @@ $(function () {
 
 // Shows and hides portfolio projects
 $(document).ready(function(){
-    // $(".all").addClass('show');
-
 
     // Show posts based on anchor in URL
     if(document.location.hash) {

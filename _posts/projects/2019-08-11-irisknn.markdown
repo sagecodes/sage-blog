@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Iris Classifier - kNN"
+title:  "Iris Classifier"
 permalink: /iris-knn/
 date: 2018-09-15
 categories: project
