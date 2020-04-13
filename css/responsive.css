@@ -10,6 +10,7 @@
     .navbar-text {
         font-size: 2.2em;
     }
+    
 
 }
 
@@ -23,10 +24,7 @@
     }
 
     
-    .post-thumbnail, .project-thumbnail  {
-
-    min-height: 230px;
-}
+   
 
 
     /* portfolio
@@ -69,7 +67,7 @@
     #portfolio {
         padding: 55px 30px 0;
     }
-
+    
 
     /* Contact
     ===========================================*/
@@ -85,12 +83,14 @@
 @media screen and (min-width: 1200px) {
    .blog-btn-wrapper {
     margin-bottom: 20px;
+}
 
+.post-thumbnail, .project-thumbnail  {
+
+    min-height: 240px;
 }
 
 }
-
-
 
 
 @media screen and (min-width: 1700px) {
