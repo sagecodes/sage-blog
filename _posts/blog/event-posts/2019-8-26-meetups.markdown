@@ -1,24 +1,54 @@
 ---
 layout: post
-title:  "Seattle Tech Events (updated weekly)"
+title:  "Virtual Tech Events (updated weekly)"
 permalink: /seattle-tech-events
-date:   2020-02-17
+date:   2020-04-13
 categories: post
 tags: events seattle
 author: Sage Elliott
 published: true
 ---
 
-I update this page every week(almost) with cool events in Seattle centered around technology.
+Time to start posting weekly event round ups again.  
+Events are going virtual so these won't be only Seattle based for the time being.
+I'll improve finding more virtual as I keep posting. 
+
+Remember be kind and patient with all event hosts. Many have not done online events before and we're all still learning!
 
 If you'd like them delivered to your inbox (coming soon) you can sign up [here](https://mailchi.mp/32d244a64668/techseattle).
 
 ------- 
 
-## No event posts this month
+## Virtual Tech 4/13/20 - 4/19/20
 
-Most meetups are canceling due to COVID-19 so I won't be posting weekly events until they start happening again. 
+[Thinking Like a Software Engineer (With Fred Zirdung)](https://www.eventbrite.com/e/webinar-thinking-like-a-software-engineer-with-fred-zirdung-tickets-99452773924) - Mon 4/13 5:30pm
 
-Wash your hands and stay safe!
+[New Tech Virtual Event – WFH Mental Health Tips](https://www.meetup.com/NewTechSeattle/events/269911765/) - Tue 4/14 4:00pm
 
+[What companies look for in a Web Dev hire: market insight and advice](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/269901316/) - Tue 4/14 6:00pm
 
+[Rust Monthly Meetup](https://www.meetup.com/Seattle-Rust-Meetup/events/prbtdrybcgbsb/) - Tue 4/14 6:30pm
+
+[Intro to Python: Part 2](https://www.eventbrite.com/e/webinar-intro-to-python-part-2-tickets-101843474574) - Wed 4/15 5:30pm
+
+[Virtual AI Career Expo](https://www.meetup.com/data-science-ODSC-Seattle/events/267992328/) - Wed 4/15 10:30am
+
+[The Good AI Meetup Live from Seattle](https://www.meetup.com/TheGoodAI/events/267700511/) - Wed 4/15 6:00pm
+
+[Dremio: Building a Best In Class Data Lake](https://www.meetup.com/Big-Data-Bellevue-BDB/events/fxbnllybcgbtb/) - Wed 4/15 6:30pm
+
+[JavaScript 401](https://www.eventbrite.com/e/webinar-javascript-401-tickets-90847558493) - Thu 4/16 5:30pm
+
+[Industry 4.0 - Aerospace: The Future of Electric Flight with MagniX](https://www.meetup.com/IoT-Hub/events/269773985/) - Thu 4/16 6:00pm
+
+[Online Workshop #004 and Mini-Hackathon](https://www.meetup.com/Brother-Hackathon-Seattle/events/269797339/) - Thu 4/16 6:00pm
+
+[SeattleJS Online Mentorship Chat!](https://www.meetup.com/seattlejs/events/269772247/) - Thu 4/16 6:30pm
+
+[Sketchnoting for All](https://www.meetup.com/gdg-seattle/events/268195184/) - Thu 4/16 7:00pm
+
+[WordPress Fundamentals](https://www.meetup.com/SeattleWordPressMeetup/events/xxbvnrybcgbxb/) - Sat 4/18 10:00pm
+
+[IndieCade & Games For Our Future present CLIMATE JAM](https://www.meetup.com/SeattleIndies/events/269752396/) - Sat 4/18 12:00pm
+
+[Concepts in Artificial General Intelligence](https://www.meetup.com/Northwest-Artificial-General-Intelligence-Meetup-Group/events/269798131/) - Sun 4/19 3:00pm
