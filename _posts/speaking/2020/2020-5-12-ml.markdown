@@ -1,0 +1,14 @@
+---
+layout: speaking
+title:  "Intro to Machine Learning with python"
+categories: event
+author: Sage Elliott
+date:   2020-05-12
+link: https://www.eventbrite.com/e/intro-to-machine-learning-tickets-103360447882
+time: 6:30pm
+published: true
+---
+
+This FREE event is especially for aspiring coders in Seattle who are interested in Machine Learning with python for data Science!
+
+This is a friendly workshop focused on learning about machine learning for beginners!!
