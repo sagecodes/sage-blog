@@ -45,6 +45,8 @@ If you'd like them delivered to your inbox (coming soon) you can sign up [here](
 
 [WooCommerce Q & A for Beginners and Users](https://www.meetup.com/SeattleWordPressMeetup/events/270670460/) - Thu 5/28 2:00p
 
+[Rsqrd AI: Research & Reality - Operating AI](https://www.eventbrite.com/e/rsqrd-ai-research-reality-operating-ai-may-28th-tickets-106203178566) - Thu 5/28 5:30p
+
 [Software Test Automation Meetup and Networking Session (ONLINE)](https://www.meetup.com/qadev-Seattle/events/270664699/) - Thu 5/28 5:30p
 
 [Test-Development in the Larger Context: TDD and ATDD](https://www.meetup.com/seattle-software-craftsmanship/events/nhjtqqybchblc/) - Thu 5/28 6:30p
