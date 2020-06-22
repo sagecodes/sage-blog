@@ -36,7 +36,7 @@ Remember be kind and patient with all event hosts. Many have not done online eve
 
 [Extending WordPress](https://www.meetup.com/Seattle-Web-App-Developers-Group/events/271379849/) - Wed 6/24 7:00p
 
-[Book Club: Deep Learning | Chapter 1](https://www.meetup.com/Seattle-Deep-Learning/events/271086584/) - Thu 6/24 5:30p
+[Book Club: Deep Learning Chapter 1](https://www.meetup.com/Seattle-Deep-Learning/events/271086584/) - Thu 6/24 5:30p
 
 [Google tech talk #6: Distributed ML Pipelines with Tensorflow](https://www.meetup.com/aittg-seattle/events/271156794/) - Thu 6/25 9:00a
 
