@@ -2,7 +2,7 @@
 layout: post
 title:  "Seattle Tech Events (updated weekly)"
 permalink: /seattle-tech-events
-date:   2020-05-26
+date:   2020-06-22
 categories: post
 tags: events seattle
 author: Sage Elliott
@@ -14,95 +14,45 @@ and should now have consistent time to start posting these every week again!
 
 Remember be kind and patient with all event hosts. Many have not done online events before and we're all still learning!
 
-If you'd like them delivered to your inbox (coming soon) you can sign up [here](https://mailchi.mp/32d244a64668/techseattle).
-
 ------- 
 
-## Seattle Tech 6/1/20 - 6/7/20
+## Seattle Tech 6/22/20 - 6/28/20
 
-[Intro to Computer Science](https://www.meetup.com/learn-to-code-san-francisco/events/270342327/) - Mon 6/1 5:30p
+[Seattle Startup Open Coffee ](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/hzlpqrybcjbfc/) - Tue 6/23 8:30a
 
-[What is UX/UI Design?](https://www.meetup.com/Learn-to-Code-Thinkful-Seattle/events/270872839/) - Mon 6/1 6:00P
+[IaC (Infrastructure as Code) using Terraform](https://www.meetup.com/A-I-Big-Data-Gurus-Seattle/events/wqqhsrybcjbfc/) - Tue 6/23 4:00p
 
-[Seattle Startup Open Coffee](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/rbmpqrybcjbdb/) - Tue 6/2 8:30a
+[Unlocking the Power of a Well-Designed Job Search](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/270203118/) - Tue 6/23 6:00p
 
-[Getting Your Supply Chain Back on Track with AI](https://www.meetup.com/Seattle-Artificial-Intelligence-Deep-Learning/events/270796244/) - Tue 6/2 10:00a
+[Intro to Data Science: The Art of Visualizations](https://www.meetup.com/Learn-to-Code-Thinkful-Seattle/events/270916484/) - Tue 6/23 6:00p
 
-[Live Chat by Facebook Product Manager](https://www.meetup.com/product-management-seattle/events/269691406/) - Tue 6/2 10:30a
+[Intro to Machine Learning](https://www.eventbrite.com/e/intro-to-machine-learning-tickets-108906722940) - Wed 6/24 5:30p
 
-[Looker & BigQuery - Accelerating Data science Workflows](https://www.meetup.com/data-science-ODSC-Seattle/events/270723728/) - Tue 6/2 11:00a
+[Seattle BioTech & Bagels Morning Virtual Meetup](https://www.meetup.com/Seattle-BioTech-Bagels-Morning-Meetup/events/lrnxnrybcjbgc/) - Wed 6/24 8:00a
 
-[Managing an ML Product as a Black-Box](https://www.meetup.com/product-management-seattle/events/270501818/) - Tue 6/2 11:30a
+[Live AMA with Avi Kivity, CTO of ScyllaDB](https://www.meetup.com/seattle-data-geeks/events/271366823/) - Wed 6/24 10:00a
 
-[(Infrastructure as Code) using Terraform](https://www.meetup.com/A-I-Big-Data-Gurus-Seattle/events/wqqhsrybcjbdb/) - Tue 6/2 4:00p
+[Projects -- Exploratory Data Analysis Workshop](https://www.meetup.com/Seattle-WiDS-Meetup/events/sbnksrybcjbgc/) - Wed 6/24 6:00p
 
-[The Magic of a Strong LinkedIn Profile](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/270202984/) - Tue 6/2 6:00p
+[Extending WordPress](https://www.meetup.com/Seattle-Web-App-Developers-Group/events/271379849/) - Wed 6/24 7:00p
 
-[Google online talk #5: Builds feature pipelines with Apache Beam by eBay](https://www.meetup.com/aittg-seattle/events/270935848/) - Wed 6/3 10:00a
+[Book Club: Deep Learning | Chapter 1](https://www.meetup.com/Seattle-Deep-Learning/events/271086584/) - Thu 6/24 5:30p
 
-[PuPPy's First Ever Virtual Meetup!](https://www.meetup.com/PSPPython/events/jvwckrybcjbnb/) - Wed 6/3 6:00p
+[Google tech talk #6: Distributed ML Pipelines with Tensorflow](https://www.meetup.com/aittg-seattle/events/271156794/) - Thu 6/25 9:00a
 
-[Computer Vision as an alternative to CNN: How to automate quality assurance](https://www.meetup.com/data-science-ODSC-Seattle/events/270627632/) - Wed 6/3 11:00a
+[Scaling PostgreSQL: Never Shard Again and Gain Effortless Scale](https://www.meetup.com/Seattle-Postgres/events/271456650/) - Thu 6/25 10:00a
 
-[Ethics in AI & Overcoming Product Bias by Smartsheet Sr Dir PM](https://www.meetup.com/product-management-seattle/events/268951446/) - Wed 6/3 11:30a
+[Webinar: Building Minimum Viable Product by fmr Expedia PM](https://www.meetup.com/product-management-seattle/events/270889571/) - Thu 6/25 2:00p
 
-[Intro to Data Science: Python Fundamentals](https://www.meetup.com/Learn-to-Code-Thinkful-Seattle/events/270872856/) - Wed 6/3 5:00p
+[Expanding Your Data Science and Machine Learning Capabilities](https://www.dbta.com/Webinars/Details.aspx?EventID=1392&src=app1&mkt_tok=eyJpIjoiWlRrM04yWTFPRFZpTjJJMSIsInQiOiJDeXRvVStza09ka09iRlQxalhpak9la0oxSkVIOEFhbWpQSVIweityZWN5Yk51NytSbnNHV3FlaTRBaU5yU0NyMkNtclwvRVJSMExPZ0xnbUt4U2lMQUU1S2thc0NsV1wvNzV4WGR0eW1FVHBsbmwzUVwvYWpcLzJYVk9UbzdiOG1Da3EifQ%3D%3D) - Thu 6/25 11:00a
 
-[Machine Learning Engineering and DevOps](https://www.meetup.com/A-I-Big-Data-Gurus-Seattle/events/vxqhsrybcjbgb/) - Thu 6/4 4:00p
+[Practice Javascript by Playing TwilioQuest!](https://www.meetup.com/free-code-camp-sea/events/271297543/) - Thu 6/25 6:00p
 
-[Engineering Essentials For Your First Job And Beyond](https://www.meetup.com/Learn-to-Code-Thinkful-Seattle/events/270872870/) - Thu 6/4 5:00p
+[Open Seattle Monthly Meetup](https://www.meetup.com/openseattle/events/bfjcrrybcjbhc/) - Thu 6/25 6:30p
 
-[JavaScript 301](https://www.meetup.com/learn-to-code-san-francisco/events/270342041/) - Thu 6/4 5:30p
+[Seattle CoffeeOps](https://www.meetup.com/Seattle-CoffeeOps/events/nfnhsrybcjbjc/) - Fri 6/26 8:00a
 
-[Deep Learning Design Patterns Study Jams - Session 3](https://www.meetup.com/gdg-seattle/events/270036718/) - Thu 6/4 7:30p
+[DIY User Group for Bloggers & More](https://www.meetup.com/SeattleWordPressMeetup/events/bjmzprybcjbkc/) - Sat 6/27 10:00a
 
-[Graph Database & Modeling for Kaggle COVID-19 Dataset](https://www.eventbrite.com/e/graph-database-modeling-for-kaggle-covid-19-dataset-live-online-tickets-106777612714) - Fri 6/5 12:00p
-
-
-
-## Seattle Tech 5/26/20 - 5/31/20
-
-[Data Career Panel. Seattle UseR x RLadies Vancouver](https://www.meetup.com/Seattle-useR/events/270749691/) - Tue 5/26 12:00p
-
-[WWC Tech Talk: Design Your Best Self with a Personal UX Evaluation [LIVE ONLINE]](https://design-your-best-self-with-a-personal-ux-eval.eventbrite.com/) - Tue 5/26 4:30p
-
-[Open Seattle: Community Build Night](https://www.meetup.com/openseattle/events/cqwhrrybchbjc/) - Tue 5/26 6:00p
-
-[Seattle BioTech & Bagels Morning Virtual Meetup](https://www.meetup.com/Seattle-BioTech-Bagels-Morning-Meetup/events/lrnxnrybchbkc/) - Wed 5/27 8:00a
-
-[Journey to Elastic SIEM Part 2: Getting Started to Investigating Threats](https://www.meetup.com/Seattle-Elasticsearch-Meetup/events/270883160/) - Wed 5/27 9:00a
-
-[Securing IoT Devices: Defending Against Zero-Day Attacks with Archis Gore](https://www.meetup.com/IoT-Hub/events/270678066/) - Wed 5/27 4:00p
-
-[Machine Learning for Kaggle COVID-19 Dataset Workshop [LIVE ONLINE]](https://www.eventbrite.com/e/machine-learning-for-kaggle-covid-19-dataset-workshop-live-online-tickets-104687559308) - Wed 5/27 4:30p
-
-[Space Needle Bungee - Behind the scenes of building Seattle in VR w/ Jeff Rayner](https://www.meetup.com/Seattle-VR-Panels-Presentations/events/270773691/) - Wed 5/27 5:00p
-
-[May Tech Talk: How data science can be used for public policy and social impact](https://www.meetup.com/Seattle-WiDS-Meetup/events/270672500/) - Wed 5/27 5:30p
-
-[Virtual AI workshop: AutoML Core Concepts and Hands-On Exercise](https://www.meetup.com/aittg-seattle/events/270748467/) - Thu 5/28 10:00a
-
-[Connected Hardware Startups: Arm's Flexible Access for Startups](https://www.meetup.com/IoT-Hub/events/270748734/) - Thu 5/28 12:00p
-
-[WooCommerce Q & A for Beginners and Users](https://www.meetup.com/SeattleWordPressMeetup/events/270670460/) - Thu 5/28 2:00p
-
-[Rsqrd AI: Research & Reality - Operating AI](https://www.eventbrite.com/e/rsqrd-ai-research-reality-operating-ai-may-28th-tickets-106203178566) - Thu 5/28 5:30p
-
-[Software Test Automation Meetup and Networking Session (ONLINE)](https://www.meetup.com/qadev-Seattle/events/270664699/) - Thu 5/28 5:30p
-
-[Test-Development in the Larger Context: TDD and ATDD](https://www.meetup.com/seattle-software-craftsmanship/events/nhjtqqybchblc/) - Thu 5/28 6:30p
-
-[Open Seattle Monthly Meetup](https://www.meetup.com/openseattle/events/bfjcrrybchblc/) - Thu 5/28 6:30p
-
-[Seattle CoffeeOps (Dev 💙Ops) Community](https://www.meetup.com/Seattle-CoffeeOps/events/nfnhsrybchbmc/) - Fri 5/29 8:00a
-
-[Code fellows: 301 Virtual Demo Day Presentations](https://www.meetup.com/codefellows/events/270305448/) - Fri 5/29 11:30a
-
-[Open Discussion for New and Aspiring Developers w/ Marius Espejo](https://www.meetup.com/free-code-camp-sea/events/270836690/) - Fri 5/29 6:00p
-
-[Quick start to build web applications with React(Free Online Class)](https://www.meetup.com/qadev-Seattle/events/270760295/) - Sat 5/30 10:00a
-
-[Free Intro to Programming 4-hr Workshop - Seattle](https://www.meetup.com/Seattle-Intro-to-Programming-Meetup/events/270486228/) - Sat 5/30 11:00a
-
-[Webinar: How to Approach UX for HealthTech Products by Samsung PM](https://www.eventbrite.com/e/webinar-how-to-approach-ux-for-healthtech-products-by-samsung-pm-tickets-102889924534?aff=Meetup) - Sun 5/31 11:30a
+[Webinar: Measuring What Matters by Google PM](https://www.meetup.com/product-management-seattle/events/271159967/) - Sat 6/27 11:30a
 
