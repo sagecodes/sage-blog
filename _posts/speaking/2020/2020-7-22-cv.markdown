@@ -1,0 +1,34 @@
+---
+layout: speaking
+title:  "Intro to Computer Vision Part 1: Classification"
+categories: event
+author: Sage Elliott
+date:   2020-07-22
+link: https://www.eventbrite.com/e/intro-to-computer-vision-part-1-classification-webinar-tickets-110889557652
+time: 5:30pm
+published: true
+---
+
+Thanks to advancements in deep learning and artificial neural networks, computer vision is increasingly capable of mimicking human vision and is paving the way for self-driving cars, medical diagnosis, scanning recorded surveillance, manufacturing and much more.
+
+In this introductory workshop, Sage Elliot will give an overview of deep learning as it related to computer vision with a focused discussion around image classification. You will also learn about careers in computer vision and who are some of the biggest users of this technology.
+
+What You Will Learn:
+
+- Image Classification
+
+- What is Deep Learning
+
+- What is Computer Vision
+
+- Who uses Computer Vision
+
+- Careers in Computer Vision
+
+- Overview of common models and uses
+
+- Transfer Learning
+
+- Overview framework in python
+
+- Build an image classifier

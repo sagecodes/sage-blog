@@ -1,0 +1,23 @@
+---
+layout: speaking
+title:  "Intro to Machine Learning with python"
+categories: event
+author: Sage Elliott
+date:   2020-06-24
+link: https://www.eventbrite.com/e/intro-to-machine-learning-tickets-108906722940
+time: 5:30pm
+published: true
+---
+
+This is a workshop focused on learning about Machine Learning for beginners! Knowing some python will help, but not required.
+
+What You'll Learn:
+
+What Machine Learning is
+Who uses Machine Learning
+Careers in Machine Learning
+Overview of common models and uses
+Overview of working with data in python
+Build 2 machine learning models (classification & regression) in Python
+
+
