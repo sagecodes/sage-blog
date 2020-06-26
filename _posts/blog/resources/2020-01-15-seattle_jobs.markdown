@@ -235,6 +235,6 @@ You can also find a google sheet version [here](https://docs.google.com/spreadsh
 1. [Yesler](https://yesler.com/careers/) 
 1. [Zillow](https://www.zillow.com/careers/) 
 1. [ZipWip](https://www.zipwhip.com/careers/) 
-1. [Zonar Systems](https://www.zonarsystems.com/company/careers/ 
+1. [Zonar Systems](https://www.zonarsystems.com/company/careers/)
 1. [Zulilly](https://www.zulily.com/careers) 
 
