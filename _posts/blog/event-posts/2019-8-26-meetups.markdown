@@ -16,6 +16,37 @@ Remember be kind and patient with all event hosts. Many have not done online eve
 
 ------- 
 
+## Seattle Tech 6/29/20 - 7/5/20
+
+[Google AI talk: Cloud AI Services: What they are and how to use them](https://www.meetup.com/aittg-seattle/events/271325103/) - Mon 6/29 2:00p
+
+[Seattle Startup Open Coffee](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/rbmpqrybcjbnc/) - Tue 6/30 8:30p
+
+[Classification & Regression Trees](https://www.meetup.com/Metis-Seattle-Data-Science/events/271400211/) - Tue 6/30 10:00a
+
+[IaC (Infrastructure as Code) using Terraform](https://www.meetup.com/A-I-Big-Data-Gurus-Seattle/events/wqqhsrybcjbnc/) - Tue 6/30 4:00p
+
+[Rsqrd AI: Synthetic Data Edition ](https://www.eventbrite.com/e/rsqrd-ai-synthetic-data-edition-june-30th-tickets-107114157328) - Tue 6/30 5:30p
+
+[Data Science vs. Data Analytics](https://www.meetup.com/Learn-to-Code-Thinkful-Seattle/events/271288672/) - Wed 7/1 9:30a
+
+[Deploying Robots From Birthplace to Workplace](https://www.meetup.com/IoT-Hub/events/271320073/) - Wed 7/1 4:00p
+
+[Seattle VR  - July Social Hour in Altspace](https://www.meetup.com/Seattle-VR-Demos-Experiences/events/271553020/) - Wed 7/1 5:30p
+
+[Time series analysis workshop](https://www.meetup.com/Seattle-WiDS-Meetup/events/sbnksrybckbcb/) - Wed 7/1 6:00p
+
+[Accelerate the AI/ML Lifecycle with an Open Source Platform](https://www.meetup.com/data-science-ODSC-Seattle/events/271375025/) - Thu 7/2 10:00a
+
+[Learn to Code: JavaScript 301](https://www.eventbrite.com/e/webinar-javascript-301-tickets-108892542526) - Thu 7/2 5:30p
+
+[Seattle Virtual Hardware Happy Hour](https://www.meetup.com/Seattle-Hardware-Happy-Hour-3H/events/271595457/) - Thu 7/2 7:00p
+
+[Managing an ML Product as a Black-Box](https://www.meetup.com/product-management-seattle/events/270501818/) - Fri 7/3 11:30a
+
+[Wallifornia MusicTech & Esports Virtual Hackathon ](https://www.eventbrite.fr/e/wallifornia-musictech-esports-virtual-hackathon-2020-tickets-95005408735) - Fri 7/3 1:00a
+
+
 ## Seattle Tech 6/22/20 - 6/28/20
 
 [Seattle Startup Open Coffee ](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/hzlpqrybcjbfc/) - Tue 6/23 8:30a
