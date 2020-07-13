@@ -32,7 +32,7 @@ Remember be kind and patient with all event hosts. Many have not done online eve
 
 [Monthly Rust Meetup](https://www.meetup.com/Seattle-Rust-Meetup/events/gskksrybckbsb/) - Tue 7/14 6:30p
 
-[APPLIED AI || AN ODSC FREE VIRTUAL EVENT](https://www.meetup.com/data-science-ODSC-Seattle/events/271209275/) - Wed 7/15 10:00a
+[APPLIED AI AN ODSC FREE VIRTUAL EVENT](https://www.meetup.com/data-science-ODSC-Seattle/events/271209275/) - Wed 7/15 10:00a
 
 [HackerNest Mega Tech Social](https://www.meetup.com/HackerNestSEA/events/271620881/) - Wed 7/15 4:00p
 
