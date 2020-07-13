@@ -16,74 +16,36 @@ Remember be kind and patient with all event hosts. Many have not done online eve
 
 ------- 
 
-## Seattle Tech 6/29/20 - 7/5/20
+## Seattle Tech 7/13/20 - 7/19/20
 
-[Google AI talk: Cloud AI Services: What they are and how to use them](https://www.meetup.com/aittg-seattle/events/271325103/) - Mon 6/29 2:00p
+[Deep Learning Journal Club](https://www.meetup.com/Seattle-WiDS-Meetup/events/mvljtrybckbrb/) - Mon 7/13 5:00p
 
-[Seattle Startup Open Coffee](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/rbmpqrybcjbnc/) - Tue 6/30 8:30p
+[To-Do-List App Workshop](https://www.meetup.com/Learn-Code-Seattle/events/271759955/) - Mon 7/13 5:30P
 
-[Classification & Regression Trees](https://www.meetup.com/Metis-Seattle-Data-Science/events/271400211/) - Tue 6/30 10:00a
+[Seattle Startup Open Coffee](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/rbmpqrybckbsb/) - Tue 7/14 8:30p
 
-[IaC (Infrastructure as Code) using Terraform](https://www.meetup.com/A-I-Big-Data-Gurus-Seattle/events/wqqhsrybcjbnc/) - Tue 6/30 4:00p
+[Machine Learning Models into Production](https://aiplus.odsc.com/courses/putting-machine-learning-models-into-production-on-mpp-platforms) - Tue 7/14 10:00a
 
-[Rsqrd AI: Synthetic Data Edition ](https://www.eventbrite.com/e/rsqrd-ai-synthetic-data-edition-june-30th-tickets-107114157328) - Tue 6/30 5:30p
+[Designing access to healthcare careers](https://www.meetup.com/Design-for-Healthcare/events/271428532/) - Tue 7/14 12:00p
 
-[Data Science vs. Data Analytics](https://www.meetup.com/Learn-to-Code-Thinkful-Seattle/events/271288672/) - Wed 7/1 9:30a
+[Intro to Python: Part 1](https://www.meetup.com/Learn-Code-Seattle/events/271314039/) - Tue 7/14 5:30p
 
-[Deploying Robots From Birthplace to Workplace](https://www.meetup.com/IoT-Hub/events/271320073/) - Wed 7/1 4:00p
+[Monthly Rust Meetup](https://www.meetup.com/Seattle-Rust-Meetup/events/gskksrybckbsb/) - Tue 7/14 6:30p
 
-[Seattle VR  - July Social Hour in Altspace](https://www.meetup.com/Seattle-VR-Demos-Experiences/events/271553020/) - Wed 7/1 5:30p
+[APPLIED AI || AN ODSC FREE VIRTUAL EVENT](https://www.meetup.com/data-science-ODSC-Seattle/events/271209275/) - Wed 7/15 10:00a
 
-[Time series analysis workshop](https://www.meetup.com/Seattle-WiDS-Meetup/events/sbnksrybckbcb/) - Wed 7/1 6:00p
+[HackerNest Mega Tech Social](https://www.meetup.com/HackerNestSEA/events/271620881/) - Wed 7/15 4:00p
 
-[Accelerate the AI/ML Lifecycle with an Open Source Platform](https://www.meetup.com/data-science-ODSC-Seattle/events/271375025/) - Thu 7/2 10:00a
+[CascadiaJS 2020 - July Prefunk](https://www.meetup.com/seattlejs/events/271757784/) - Wed 7/15 5:00p
 
-[Learn to Code: JavaScript 301](https://www.eventbrite.com/e/webinar-javascript-301-tickets-108892542526) - Thu 7/2 5:30p
+[The Good AI Meetup](https://www.meetup.com/TheGoodAI/events/267700556/) - Wed 7/15 6:00p
 
-[Seattle Virtual Hardware Happy Hour](https://www.meetup.com/Seattle-Hardware-Happy-Hour-3H/events/271595457/) - Thu 7/2 7:00p
+[3 Pieces of Advice to Become a Successful Software Engineer](https://www.meetup.com/NewTechSeattle/events/271210974/) - Wed 7/15 6:00p
 
-[Managing an ML Product as a Black-Box](https://www.meetup.com/product-management-seattle/events/270501818/) - Fri 7/3 11:30a
+[Intro to Python: Part 2](https://www.meetup.com/Learn-Code-Seattle/events/271315121/) - Thu 7/16 5:30p
 
-[Wallifornia MusicTech & Esports Virtual Hackathon ](https://www.eventbrite.fr/e/wallifornia-musictech-esports-virtual-hackathon-2020-tickets-95005408735) - Fri 7/3 1:00a
+[Seattle Angel Conference](https://www.meetup.com/Lean-Startup-Seattle/events/mtcwlrybckblb/) - Thu 7/16 5:45p
 
+[Summer Create-a-thon](https://www.meetup.com/openseattle/events/271532939/) - Sat 7/18 8:30a
 
-## Seattle Tech 6/22/20 - 6/28/20
-
-[Seattle Startup Open Coffee ](https://www.meetup.com/Seattle-Startups-Open-Coffee/events/hzlpqrybcjbfc/) - Tue 6/23 8:30a
-
-[IaC (Infrastructure as Code) using Terraform](https://www.meetup.com/A-I-Big-Data-Gurus-Seattle/events/wqqhsrybcjbfc/) - Tue 6/23 4:00p
-
-[Unlocking the Power of a Well-Designed Job Search](https://www.meetup.com/Seattle-University-Web-Developers-Meetup/events/270203118/) - Tue 6/23 6:00p
-
-[Intro to Data Science: The Art of Visualizations](https://www.meetup.com/Learn-to-Code-Thinkful-Seattle/events/270916484/) - Tue 6/23 6:00p
-
-[Intro to Machine Learning](https://www.eventbrite.com/e/intro-to-machine-learning-tickets-108906722940) - Wed 6/24 5:30p
-
-[Seattle BioTech & Bagels Morning Virtual Meetup](https://www.meetup.com/Seattle-BioTech-Bagels-Morning-Meetup/events/lrnxnrybcjbgc/) - Wed 6/24 8:00a
-
-[Live AMA with Avi Kivity, CTO of ScyllaDB](https://www.meetup.com/seattle-data-geeks/events/271366823/) - Wed 6/24 10:00a
-
-[Projects -- Exploratory Data Analysis Workshop](https://www.meetup.com/Seattle-WiDS-Meetup/events/sbnksrybcjbgc/) - Wed 6/24 6:00p
-
-[Extending WordPress](https://www.meetup.com/Seattle-Web-App-Developers-Group/events/271379849/) - Wed 6/24 7:00p
-
-[Book Club: Deep Learning Chapter 1](https://www.meetup.com/Seattle-Deep-Learning/events/271086584/) - Thu 6/24 5:30p
-
-[Google tech talk #6: Distributed ML Pipelines with Tensorflow](https://www.meetup.com/aittg-seattle/events/271156794/) - Thu 6/25 9:00a
-
-[Scaling PostgreSQL: Never Shard Again and Gain Effortless Scale](https://www.meetup.com/Seattle-Postgres/events/271456650/) - Thu 6/25 10:00a
-
-[Webinar: Building Minimum Viable Product by fmr Expedia PM](https://www.meetup.com/product-management-seattle/events/270889571/) - Thu 6/25 2:00p
-
-[Expanding Your Data Science and Machine Learning Capabilities](https://www.dbta.com/Webinars/Details.aspx?EventID=1392&src=app1&mkt_tok=eyJpIjoiWlRrM04yWTFPRFZpTjJJMSIsInQiOiJDeXRvVStza09ka09iRlQxalhpak9la0oxSkVIOEFhbWpQSVIweityZWN5Yk51NytSbnNHV3FlaTRBaU5yU0NyMkNtclwvRVJSMExPZ0xnbUt4U2lMQUU1S2thc0NsV1wvNzV4WGR0eW1FVHBsbmwzUVwvYWpcLzJYVk9UbzdiOG1Da3EifQ%3D%3D) - Thu 6/25 11:00a
-
-[Practice Javascript by Playing TwilioQuest!](https://www.meetup.com/free-code-camp-sea/events/271297543/) - Thu 6/25 6:00p
-
-[Open Seattle Monthly Meetup](https://www.meetup.com/openseattle/events/bfjcrrybcjbhc/) - Thu 6/25 6:30p
-
-[Seattle CoffeeOps](https://www.meetup.com/Seattle-CoffeeOps/events/nfnhsrybcjbjc/) - Fri 6/26 8:00a
-
-[DIY User Group for Bloggers & More](https://www.meetup.com/SeattleWordPressMeetup/events/bjmzprybcjbkc/) - Sat 6/27 10:00a
-
-[Webinar: Measuring What Matters by Google PM](https://www.meetup.com/product-management-seattle/events/271159967/) - Sat 6/27 11:30a
-
+[WordPress Fundamentals](https://www.meetup.com/SeattleWordPressMeetup/events/jdfqtrybckbxb/) - Sat 7/18 10:00a
