@@ -6,7 +6,7 @@ date:   2018-07-09
 categories: post
 tags: vr vive
 author: Sage Elliott
-published: true
+published: false
 ---
 
 # How I broke and fixed(mostly) a vive controller
