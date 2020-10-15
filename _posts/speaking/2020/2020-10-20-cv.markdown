@@ -1,17 +1,16 @@
 ---
 layout: speaking
-title:  "Intro to Computer Vision Part 2: Object Detection"
+title:  "Intro to Computer Vision: Object Detection"
 categories: event
 author: Sage Elliott
-date:   2020-07-29
-link: https://www.eventbrite.com/e/intro-to-computer-vision-part-2-object-detection-webinar-tickets-110891698054
+date:   2020-10-20
+link: https://www.eventbrite.com/e/introduction-to-computer-vision-live-online-tickets-123023758373
 time: 5:30pm
 published: true
 ---
 
 This workshop is a beginner friendly introduction about using Deep Learning for Computer Vision!
 About this Event
-Join us for Part 2 of this Intro to Computer Vision workshop!
 
 Thanks to advancements in deep learning and artificial neural networks, computer vision is increasingly capable of mimicking human vision and is paving the way for self-driving cars, medical diagnosis, scanning recorded surveillance, manufacturing and much more.
 
