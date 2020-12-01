@@ -1,0 +1,29 @@
+---
+layout: speaking
+title:  "Intro to Computer Vision: Object Detection"
+categories: event
+author: Sage Elliott
+date:   2020-12-15
+link: https://www.eventbrite.com/e/introduction-to-computer-vision-live-online-tickets-129172042055
+time: 5:30pm
+published: true
+---
+
+This workshop is a beginner friendly introduction about using Deep Learning for Computer Vision!
+About this Event
+
+Thanks to advancements in deep learning and artificial neural networks, computer vision is increasingly capable of mimicking human vision and is paving the way for self-driving cars, medical diagnosis, scanning recorded surveillance, manufacturing and much more.
+
+In this introductory workshop, Sage Elliot will give an overview of deep learning as it related to computer vision with a focused discussion around object detection. Object Detection is the foundation of identifying and locating objects of certain classes in the image
+
+What You Will Learn:
+
+- Computer Vision Systems for object detection and image segmentation
+
+- Practical Data Labeling for Computer Vision Projects
+
+- Train a computer vision model for Object Detection
+
+About Your Instructor:
+
+Sage Elliott is a Machine Learning Developer Evangelist for Sixgill with about 10 years of experience in the engineering space. He has passion for exploring new technologies and building communities. To learn more about Sage, you can reach him here.
