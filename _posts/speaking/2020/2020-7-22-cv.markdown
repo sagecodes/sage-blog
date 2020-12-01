@@ -5,6 +5,7 @@ categories: event
 author: Sage Elliott
 date:   2020-07-22
 link: https://www.eventbrite.com/e/intro-to-computer-vision-part-1-classification-webinar-tickets-110889557652
+recording: https://www.youtube.com/watch?v=vFSPhrVa2Vc
 time: 5:30pm
 published: true
 ---

@@ -1,10 +1,11 @@
 ---
 layout: speaking
-title:  "Hands on Workshop for Computer Vision and Object Detection"
+title:  "Hands on Workshop for Computer Vision and Object Detection with AI Camp"
 categories: event
 author: Sage Elliott
 date:   2020-10-08
 link: https://learn.xnextcon.com/event/eventdetails/W200100810
+recording: https://www.youtube.com/watch?v=_SUOVpAhB0g
 time: 6:00pm
 published: true
 ---

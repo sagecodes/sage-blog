@@ -5,6 +5,7 @@ categories: event
 author: Sage Elliott
 date:   2020-10-16
 link: https://lu.ma/sage-elliott-1016
+recording: https://www.youtube.com/watch?v=isDYaB3VxfE
 time: 4:00pm
 published: true
 ---
