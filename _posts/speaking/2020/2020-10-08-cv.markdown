@@ -1,0 +1,13 @@
+---
+layout: speaking
+title:  "Hands on Workshop for Computer Vision and Object Detection"
+categories: event
+author: Sage Elliott
+date:   2020-10-08
+link: https://learn.xnextcon.com/event/eventdetails/W200100810
+time: 6:00pm
+published: true
+---
+
+Get started with computer vision & Object Detection, Sage Elliott will walk through how to build your own object detector to locate objects in images and videos with Facebook detectron2 and cover practical data labeling methods for you to use in your own projects.
+A dataset will be provided, but it is strongly encouraged you get started making your own dataset.
