@@ -32,10 +32,10 @@ permalink: /blog/
       <li>
           <div class="caption">
           {% if post.link %}
-            <h3><a class="post-link" href="{{ post.link}}">{{ post.title }}</a></h3>
+            <h3><a class="post-link" href="{{ post.link}}" target="blank">{{ post.title }}</a></h3>
 
             <div class="post_meta">
-              <span class="post_excerpt"> <p>{{ post.content | strip_html | truncate: 300 }} <a href="{{post.link}}">Read&nbsp;more&nbsp;>></a></p> </span>
+              <span class="post_excerpt"> <p>{{ post.content | strip_html | truncate: 300 }} <a href="{{post.link}}" target="blank">Read&nbsp;more&nbsp;>></a></p> </span>
   
               {% if post.tags %}
                 {% for tag in post.tags %}
@@ -44,14 +44,14 @@ permalink: /blog/
               {% endif %}
               <br>
               <div class="blog-btn-wrapper">
-              <a class="btn btn-default" href="{{post.link}}"> Read more</a>
+              <a class="btn btn-default" href="{{post.link}}" target="blank"> Read more</a>
             </div>
           </div>
           {% else %}
             <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
           
           <div class="post_meta">
-            <span class="post_excerpt"> <p>{{ post.content | strip_html | truncate: 300 }} <a href="{{post.url | prepend: site.baseurl }}">Read&nbsp;more&nbsp;>></a></p> </span>
+            <span class="post_excerpt"> <p>{{ post.content | strip_html | truncate: 300 }} <a href="{{post.url | prepend: site.baseurl }}" >Read&nbsp;more&nbsp;>></a></p> </span>
 
             {% if post.tags %}
               {% for tag in post.tags %}
