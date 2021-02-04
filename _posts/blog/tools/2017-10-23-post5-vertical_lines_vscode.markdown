@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vertical lines in Visual Studio Code (VS Code)"
-permalink: /Vertical-lines-in-Visual-Studio-Code /
+permalink: /Vertical-lines-in-Visual-Studio-Code/
 date:   2017-10-23
 categories: post
 tags: tools
