@@ -5,6 +5,7 @@ categories: event
 author: Sage Elliott
 date:   2021-02-24
 link: https://www.eventbrite.com/e/intro-to-computer-vision-building-object-detection-models-and-datasets-tickets-141065471623?aff=SageSocial
+recording: https://www.youtube.com/watch?v=jL16z0d_lqc
 time: 5:30pm
 published: true
 ---
