@@ -6,7 +6,7 @@ categories: event
 date:   2018-05-31
 author: Sage Elliott
 link: https://www.meetup.com/meetup-datascience/events/248152512/
-recording: https://entreprov.com/machine-learning-in-retail-live-discussion-panel-live-recording/
+recording: https://www.youtube.com/watch?v=qxOpgWxdAsw
 displaydate: 05/31/2018 
 time: 5:00pm
 published: true
