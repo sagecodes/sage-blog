@@ -4,8 +4,8 @@ title:  "Intro to Computer Vision: Building Object Detection Models and Datasets
 categories: event
 author: Sage Elliott
 date:   2021-04-22
-link: https://www.aicamp.ai/event/eventdetails/W2021042219
-time: 5:30pm
+link: https://www.meetup.com/SV-SIGGRAPH/events/277228638
+time: 7:00pm
 published: true
 ---
 Invited by Silicon Valley ACM SIGGRAPH to speak!
