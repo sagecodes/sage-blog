@@ -5,7 +5,7 @@ categories: event
 author: Sage Elliott
 date:   2021-04-22
 link: https://www.meetup.com/SV-SIGGRAPH/events/277228638
-recording: https://www.youtube.com/watch?v=I9x2E3S74DM
+recording: https://medium.com/sixgill/computer-vision-object-detection-with-san-francisco-bay-acm-4abc91649275
 time: 7:00pm
 published: true
 ---
