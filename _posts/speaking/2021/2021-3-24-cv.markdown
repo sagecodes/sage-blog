@@ -3,7 +3,7 @@ layout: speaking
 title:  "Intro to Computer Vision: Building Object Detection Models and Datasets"
 categories: event
 author: Sage Elliott
-date:   2021-04-28
+date:   2021-03-24
 link: https://www.eventbrite.com/e/intro-to-computer-vision-building-object-detection-models-and-datasets-tickets-149360863363?aff=SageSocial
 time: 5:30pm
 published: true
