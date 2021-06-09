@@ -5,7 +5,7 @@ categories: event
 author: Sage Elliott
 date:   2021-06-23
 link: https://www.eventbrite.com/e/data-annotation-for-computer-vision-ai-powered-labeling-live-demo-tickets-157878903049?aff=sage
-time: 10:00pm
+time: 10:00am
 published: true
 ---
 
