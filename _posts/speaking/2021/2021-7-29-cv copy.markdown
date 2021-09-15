@@ -1,0 +1,24 @@
+---
+layout: speaking
+title:  "Intro to Computer Vision: Building Object Detection Models and Datasets"
+categories: event
+author: Sage Elliott
+date:   2021-07-29
+link: https://www.eventbrite.com/e/intro-to-computer-vision-building-object-detection-models-and-datasets-tickets-162084271419
+time: 10:00pm
+recording: https://www.youtube.com/watch?v=p6_tF-jrDZk
+published: true
+---
+
+Build your own object detection model from start to finish. Includes how to do data annotation and model training on your own dataset
+About this Event
+Join this hands on workshop to get started with Computer Vision & Object Detection.
+
+Being able to classify and localize where an object is in an image is foundational to many computer vision applications.
+
+In this workshop we'll cover:
+
+High Level Computer Vision Applications & Concepts
+How to label your own dataset for object detection & computer vision
+How to train your model using python & detectron2 (A PyTorch based modular object detection library)
+Run the model for object detection on images and video
