@@ -1,12 +1,11 @@
 ---
-layout: speaking
+layout: post
 title:  "Artificial Intelligence: Week #1 | 2021"
 categories: post
 author: Sage Elliott
 date:   2021-01-08
 tags: ai-news
 link: https://medium.com/sixgill/artificial-intelligence-week-1-2021-dadcc8bb9736
-time: 6:30pm
 published: true
 ---
 

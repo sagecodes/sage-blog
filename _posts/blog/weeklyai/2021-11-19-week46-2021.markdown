@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Artificial Intelligence Roundup: Week #46 | 2021"
+categories: post
+author: Sage Elliott
+date:   2021-11-19
+tags: ai-news
+link: https://medium.com/plainsight/artificial-intelligence-roundup-week-46-2021-7b44d8040f3e
+published: true
+---
+
+This week in AI & Machine Learning: Self-driving tractors, wikipedia tests AI, TensorFlow graph neural networks, OpenGL on low-end hardware, simple but effective: CLIP embeddings, and more!
