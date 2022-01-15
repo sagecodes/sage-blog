@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2022-01-12
 link: https://www.eventbrite.com/e/intro-to-computer-vision-building-object-detection-models-and-datasets-tickets-225984946057?aff=SageSocial
 time: 5:30pm
+recording: https://www.youtube.com/watch?v=gKbqLBT10CA
 published: true
 ---
 
