@@ -1,12 +1,12 @@
 ---
 layout: speaking
-title:  "Faster Data Annotation for Computer Vision with AI-Powered Labeling"
+title:  "No-code Deep Learning for Faster Computer Vision"
 categories: event
 author: Sage Elliott
-date:   2022-01-26
-link: https://www.eventbrite.com/e/faster-data-annotation-for-computer-vision-with-ai-powered-labeling-tickets-227803505417?aff=SageSocial
+date:   2022-02-23
+link: https://www.eventbrite.com/e/no-code-deep-learning-for-faster-computer-vision-free-workshop-tickets-213110468147
 time: 5:30pm
 published: true
 ---
 
-Join this computer vision data annotation workshop to learn about labeling data for object detection, instance segmentation, classification, feature point clustering and how to speed up the process using AI-Powered labeling tools.
+Build your own vision AI models from start to finish with no code--from data annotation, to model training and deployment.
