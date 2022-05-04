@@ -1,13 +1,12 @@
 ---
 layout: speaking
-title:  "New Drive-Thru Intelligence: Video Analytics for Restaurants"
+title:  "Real World Applications of Generative Deep Learning & NeRFs"
 categories: event
 author: Sage Elliott
-date:   2022-03-23
-link: https://www.eventbrite.com/e/new-drive-thru-intelligence-video-analytics-for-restaurants-tickets-291558789187
-time: 1:00pm
-recording: https://www.youtube.com/watch?v=e_mK0pQ5zDU
+date:   2022-05-17
+link: https://www.eventbrite.com/e/real-world-applications-of-generative-deep-learning-nerfs-tickets-330914693757?aff=sage
+time: 10:30am
 published: true
 ---
 
-In this free online event, you’ll learn how practical applications of vision AI can deliver actionable insights that help restaurants increase sales, improve the customer experience, and drive customer loyalty.
+Learn about real world applications of generative deep learning and neural radiance fields (NeRFs) for 3D object creation
