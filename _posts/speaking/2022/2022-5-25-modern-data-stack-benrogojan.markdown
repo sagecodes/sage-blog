@@ -9,4 +9,4 @@ time: 10:30am
 published: true
 ---
 
-Learn about real world applications of generative deep learning and neural radiance fields (NeRFs) for 3D object creation
+Join this live conversation with Benjamin Rogojan, aka “Seattle Data Guy” about the modern data engineering and machine learning stack.
