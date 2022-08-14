@@ -45,4 +45,13 @@ def findMean(numbers):
 findMean([2,4,5,6,7])
 ```
 
+{% highlight python %}
+# Take a list of numbers and return the mean
+def findMean(numbers):
+    mean = sum(numbers) / len(numbers)
+    print(mean)
+
+#Run the function and provide list of numbers 
+findMean([2,4,5,6,7])
+{% endhighlight %}
 
