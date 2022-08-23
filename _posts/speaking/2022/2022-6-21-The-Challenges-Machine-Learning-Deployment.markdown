@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "The Challenges of Machine Learning Deployment - Veselina Staneva"
+title:  "The Challenges of Machine Learning Deployment"
 categories: event
 author: Sage Elliott
 date:   2022-06-21

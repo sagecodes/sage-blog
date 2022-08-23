@@ -1,9 +1,9 @@
 ---
 layout: speaking
-title:  "The Modern Data Stack for Machine Learning Pipelines"
+title:  "Is the World Ready for AutoML?"
 categories: event
 author: Sage Elliott
-date:   2022-05-25
+date:   2022-06-30
 link: https://www.eventbrite.com/e/is-the-world-ready-for-automl-doris-xin-tickets-354280882657
 time: 11:00am
 recording: https://www.youtube.com/watch?v=2pq_qWLa-x0
