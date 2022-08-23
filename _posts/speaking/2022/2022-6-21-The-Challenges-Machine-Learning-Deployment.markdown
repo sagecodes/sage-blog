@@ -10,4 +10,5 @@ recording: https://www.youtube.com/watch?v=im9hIy9wUUg
 published: true
 ---
 
-Join this live conversation with Benjamin Rogojan, aka “Seattle Data Guy” about the modern data engineering and machine learning stack.
+We'll be speaking with Veselina Staneva about how to grow a product mindset in MLOps, the challenges around deployments, delivering business value, speed of iteration, and how increasing it is mission critical.
+
