@@ -5,6 +5,7 @@ permalink: /seattle-tech-events
 date:   2020-06-22
 categories: post
 tags: events seattle
+img: img\Carnival.jpg
 author: Sage Elliott
 published: true
 ---
