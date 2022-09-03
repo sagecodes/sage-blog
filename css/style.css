@@ -41,10 +41,10 @@ a:focus, a:hover {
   color: #777;
 }
 
-h1 {
+/* h1 {
     font-size: 2em;
     padding: 10px 0px 10px 0px;
-}
+} */
 
 h2 {
   /* margin: 0; */
@@ -52,6 +52,16 @@ h2 {
 
 h3 {
     margin-top: 0px;
+}
+
+.page-title {
+    font-size: 1.75em;
+    padding: 10px 0px 10px 0px;
+}
+
+.section-header {
+    font-size: 1.5em;
+    padding: 10px 0px 10px 0px;
 }
 
 .row {
