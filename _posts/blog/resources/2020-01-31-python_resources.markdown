@@ -6,7 +6,7 @@ date:   2020-01-31
 categories: post
 tags: python resources
 author: Sage Elliott
-published: true
+published: false
 ---
 
 This is a list of resources to start learning python. There are SOO many

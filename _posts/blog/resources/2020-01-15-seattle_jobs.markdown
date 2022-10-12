@@ -6,6 +6,7 @@ date:   2020-01-15
 categories: post
 tags: jobs seattle
 author: Sage Elliott
+img: img\projects\seattle_sky.png
 published: true
 ---
 
