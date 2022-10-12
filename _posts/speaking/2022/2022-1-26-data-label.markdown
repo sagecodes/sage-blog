@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Faster Data Annotation for Computer Vision with AI-Powered Labeling"
+title:  "Faster Data Annotation for Computer Vision with AI-Powered Labeling - Workshop"
 categories: event
 author: Sage Elliott
 date:   2022-01-26

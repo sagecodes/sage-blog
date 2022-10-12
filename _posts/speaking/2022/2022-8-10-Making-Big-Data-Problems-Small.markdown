@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Making Big Data Problems Small"
+title:  "Making Big Data Problems Small - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-08-10

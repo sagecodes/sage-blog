@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Is No-code the Future of Machine Learning?"
+title:  "Is No-code the Future of Machine Learning? - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-07-13

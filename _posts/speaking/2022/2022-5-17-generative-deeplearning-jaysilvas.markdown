@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Real World Applications of Generative Deep Learning & NeRFs"
+title:  "Real World Applications of Generative Deep Learning & NeRFs - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-05-17

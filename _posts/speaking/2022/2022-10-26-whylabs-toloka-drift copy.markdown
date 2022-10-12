@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Detect and Fix Data Drift for Computer Vision"
+title:  "Detect and Fix Data Drift for Computer Vision - Workshop"
 categories: event
 author: Sage Elliott
 date:   2022-10-26

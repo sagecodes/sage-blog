@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "The Challenges of Machine Learning Deployment"
+title:  "The Challenges of Machine Learning Deployment - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-06-21

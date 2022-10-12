@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "New Drive-Thru Intelligence: Video Analytics for Restaurants"
+title:  "New Drive-Thru Intelligence: Video Analytics for Restaurants - Webinar"
 categories: event
 author: Sage Elliott
 date:   2022-03-23

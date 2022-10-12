@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Is the World Ready for AutoML?"
+title:  "Is the World Ready for AutoML? - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-06-30

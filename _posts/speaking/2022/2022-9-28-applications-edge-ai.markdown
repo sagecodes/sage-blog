@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Applications of Edge AI"
+title:  "Applications of Edge AI - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-09-28
