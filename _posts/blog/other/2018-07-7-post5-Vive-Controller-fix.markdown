@@ -2,11 +2,12 @@
 layout: post
 title:  "Vive Controller Fix"
 permalink: /vive-controller-fix/
-date:   2018-07-09
+date:   2020-02-09
 categories: post
 tags: vr vive
 author: Sage Elliott
-published: false
+img: img\projects\vive_fix_cover.png
+published: true
 ---
 
 # How I broke and fixed(mostly) a vive controller

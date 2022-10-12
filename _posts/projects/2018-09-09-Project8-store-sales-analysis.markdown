@@ -6,6 +6,7 @@ date:   2018-09-09
 categories: project
 tags: tableau data-analysis
 author: Sage Elliott
+img: img\projects\sales_analysis_cover.png
 published: true
 demo_url: https://public.tableau.com/shared/YDSDFH3QX?:display_count=yes
 ---

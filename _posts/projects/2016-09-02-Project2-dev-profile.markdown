@@ -6,6 +6,7 @@ date:   2016-06-22
 categories: project
 tags: python flask postgres web-dev
 author: Sage Elliott
+img: img\projects\dev_profile_cover.png
 published: true
 github_url: https://github.com/sageio/devpost
 ---

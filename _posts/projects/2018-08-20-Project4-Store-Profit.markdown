@@ -6,6 +6,7 @@ date:   2018-08-20
 categories: project
 tags: tableau data-analysis
 author: Sage Elliott
+img: img\projects\store_profit_cover.png
 published: true
 demo_url: https://public.tableau.com/views/StoreProfitsVisualization-Example/Sheet1?:embed=y&:display_count=yes&publish=yes
 ---

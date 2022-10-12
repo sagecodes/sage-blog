@@ -6,7 +6,7 @@ date:   2016-08-16
 categories: post
 tags: aws flask python
 author: Sage Elliott
-published: true
+published: false
 ---
 
 This was originally an assigned project from Udacity's full-stack nanodegree program. It seemed complicated enough to deserve a post documenting the steps taken. I hope you enjoy  setting it up from scratch as much I did!
