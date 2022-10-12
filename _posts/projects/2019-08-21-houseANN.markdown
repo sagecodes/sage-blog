@@ -6,6 +6,7 @@ date: 2019-08-21
 categories: project
 tags: machine-learning case-study
 author: Sage Elliott
+img: img\projects\price_predict_ann.png
 published: true
 github_url: https://github.com/sagecodes/house-price-prediction-ANN
 ---

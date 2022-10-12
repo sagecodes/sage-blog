@@ -9,7 +9,7 @@ layout: default
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 
-  <img class="in-blog-cover-photo" src="{{page.img}}" alt="{{ page.title }}">
+  <!-- <img class="in-blog-cover-photo" src="{{page.img}}" alt="{{ page.title }}"> -->
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
@@ -17,8 +17,7 @@ layout: default
     -
     <br>
     <!-- Want events like these in your inbox? Sign up <a href="http://bit.ly/2MQbtnE" target="blank">here</a>.  -->
-    <br><br>
-    Connect with me:
+    If you have any questions about this post or want to stay connected find me at:
     <br><br>
     <a class="btn btn-email" href="{{ site.email }}">Email</a>
     <a class="btn btn-github" href="{{ site.github }}" target="blank">Github</a>
