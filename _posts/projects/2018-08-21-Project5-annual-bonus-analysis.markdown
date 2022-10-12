@@ -6,6 +6,7 @@ date:   2018-08-21
 categories: project
 tags: tableau data-analysis
 author: Sage Elliott
+img: img\projects\bonus_cover.png
 published: true
 demo_url: https://public.tableau.com/views/AnnualBonusAnalysis_656/AnnualBonusAnalysis?:embed=y&:display_count=yes&publish=yes
 ---

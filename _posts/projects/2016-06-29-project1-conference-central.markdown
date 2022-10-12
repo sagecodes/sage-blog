@@ -6,6 +6,7 @@ date:   2016-06-22
 categories: project
 tags: python AppEngine web-dev
 author: Sage Elliott
+img: img\projects\conference_cover.png
 published: true
 demo_url: https://conference-elliott.appspot.com/#/
 github_url: https://github.com/sageio/conference-central
