@@ -6,6 +6,7 @@ date: 2018-09-15
 categories: project
 tags: machine-learning case-study
 author: Sage Elliott
+img: img\projects\iris_cover.png
 published: true
 github_url: https://github.com/sagecodes/irsit-classification2-knn
 ---

@@ -6,6 +6,7 @@ date: 2019-08-11
 categories: project
 tags: machine-learning case-study
 author: Sage Elliott
+img: img\projects\titanic_shap.png
 published: true
 github_url: https://github.com/sagecodes/titanic-survival-logistic-regression
 ---

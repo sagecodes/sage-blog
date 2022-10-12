@@ -6,6 +6,7 @@ date: 2019-08-17
 categories: project
 tags: machine-learning case-study
 author: Sage Elliott
+img: img\projects\kyphosis_predict_cover.png
 published: true
 github_url: https://github.com/sagecodes/kyphsis-classifier-random-forest
 ---

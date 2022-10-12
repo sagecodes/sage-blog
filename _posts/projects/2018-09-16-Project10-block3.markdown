@@ -6,7 +6,7 @@ date: 2018-09-15
 categories: project
 tags: vr unity 
 author: Sage Elliott
-img: img\Carnival.jpg
+img: img\projects\Carnival_cover.png
 published: true
 github_url: https://github.com/sagecodes/vr-carnival
 ---
