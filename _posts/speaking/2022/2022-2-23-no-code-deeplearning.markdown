@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "No-code Deep Learning for Faster Computer Vision"
+title:  "No-code Deep Learning for Faster Computer Vision  - Workshop"
 categories: event
 author: Sage Elliott
 date:   2022-02-23

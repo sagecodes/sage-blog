@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Intro to Computer Vision: Building Object Detection Models and Datasets"
+title:  "Intro to Computer Vision: Building Object Detection Models and Datasets - Workshop"
 categories: event
 author: Sage Elliott
 date:   2022-01-12

@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "ML and Data Ops - live podcast"
+title:  "ML and Data Ops - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-10-26

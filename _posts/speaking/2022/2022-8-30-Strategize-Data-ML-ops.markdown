@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "How to Strategize for Data and ML ops"
+title:  "How to Strategize for Data and ML ops - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-08-30

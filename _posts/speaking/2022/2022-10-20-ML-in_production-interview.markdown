@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Machine Learning in Production - live podcast"
+title:  "Machine Learning in Production - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-10-20

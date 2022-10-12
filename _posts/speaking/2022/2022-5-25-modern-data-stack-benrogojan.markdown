@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "The Modern Data Stack for Machine Learning Pipelines"
+title:  "The Modern Data Stack for Machine Learning Pipelines - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-05-25

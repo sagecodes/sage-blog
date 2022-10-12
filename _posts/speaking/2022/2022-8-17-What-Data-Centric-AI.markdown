@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "What is Data-Centric AI?"
+title:  "What is Data-Centric AI? - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2022-08-17
