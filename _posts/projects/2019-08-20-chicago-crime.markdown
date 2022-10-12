@@ -6,6 +6,7 @@ date: 2019-08-20
 categories: project
 tags: machine-learning case-study
 author: Sage Elliott
+img: img\projects\crime_forecast_fb_pro.png
 published: true
 github_url: https://github.com/sagecodes/chicago-crime-prediction-fbprophet
 ---

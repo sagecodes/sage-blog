@@ -7,6 +7,7 @@ categories: project
 tags: web-dev 
 author: Sage Elliott
 published: true
+img: img\projects\block3homepage.png
 demo_url: http://block3hub.com/
 github_url: https://github.com/sagecodes/block3
 ---
