@@ -6,7 +6,7 @@ date:   2019-10-29
 categories: post
 tags: events seattle DeepLearning
 author: Sage Elliott
-published: true
+published: false
 ---
 
 Hello everyone who attended our first [Seattle Deep Learning Study Night](https://www.meetup.com/Seattle-Deep-Learning/)! I hope you all had a good time meeting new people, exchanging ideas, and working on projects. I know I did!
