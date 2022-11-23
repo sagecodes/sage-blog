@@ -3,7 +3,7 @@ layout: speaking
 title:  "Build and Monitor Computer Vision Models with TensorFlow 2.0 + WhyLabs - workshop"
 categories: event
 author: Sage Elliott
-date:   2022-11-16
+date:   2022-12-07
 link: https://www.eventbrite.com/e/intro-to-ai-observability-monitoring-ml-models-data-in-production-tickets-453351094327
 time: 10:00am
 published: true
