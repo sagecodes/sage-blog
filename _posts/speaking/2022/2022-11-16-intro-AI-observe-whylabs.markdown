@@ -3,9 +3,10 @@ layout: speaking
 title:  "Intro to AI Observability: Monitoring ML Models & Data in Production - Workshop"
 categories: event
 author: Sage Elliott
-date:   2022-10-12
-link: https://www.eventbrite.com/e/intro-to-ai-observability-monitoring-ml-models-data-in-production-tickets-427470233977?aff=sage
-time: 5:30pm
+date:   2022-11-16
+link: https://www.eventbrite.com/e/intro-to-ai-observability-monitoring-ml-models-data-in-production-tickets-453351094327
+time: 10:00am
+recording: https://www.youtube.com/watch?v=tW9hfrHY1Yg
 published: true
 ---
 
