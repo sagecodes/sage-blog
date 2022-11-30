@@ -8,3 +8,4 @@ tags: MLOps Data-Logging ML-Monitoring
 author: Sage Elliott
 img: img\blog_covers\data_quality_validation.png
 published: true
+---
