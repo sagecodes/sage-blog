@@ -1,12 +1,12 @@
 ---
 layout: speaking
-title:  "Intro to ML Monitoring: Classification Models using scikit-learn + WhyLabs - workshop"
+title:  "Build and Monitor Computer Vision Models with TensorFlow 2.0 + WhyLabs - workshop"
 categories: event
 author: Sage Elliott
-date:   2022-12-14
-link: https://www.eventbrite.com/e/intro-to-ml-monitoring-classification-models-using-scikit-learn-whylabs-tickets-478585230307
+date:   2022-12-07
+link: https://www.eventbrite.com/e/build-and-monitor-computer-vision-models-with-tensorflow-20-whylabs-tickets-472988580577
 time: 10:00am
 published: true
 ---
 
-Join this hands-on workshop to learn ML monitoring for classification models in production with scikit-learn and WhyLabs.
+How to build and perform ML monitoring with computer vision classification models in production.
