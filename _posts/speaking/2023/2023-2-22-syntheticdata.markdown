@@ -4,7 +4,7 @@ title:  "Why You Need Synthetic Data - Michael Galarnyk, Parallel Domain - Live 
 categories: event
 author: Sage Elliott
 date:   2023-02-22
-link: https://www.eventbrite.com/e/why-you-need-synthetic-data-michael-galarnyk-parallel-domain-tickets-531243312047?aff=wlevents
+link: https://www.eventbrite.com/e/why-you-need-synthetic-data-michael-galarnyk-parallel-domain-tickets-531243312047
 time: 1:00pm
 published: true
 ---
