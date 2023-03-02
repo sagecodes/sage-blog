@@ -9,4 +9,5 @@ time: 10:00am
 published: true
 ---
 
-How to build and perform ML monitoring with computer vision classification models in production.
+A hands-on workshop to get started with data and machine learning model monitoring
+
