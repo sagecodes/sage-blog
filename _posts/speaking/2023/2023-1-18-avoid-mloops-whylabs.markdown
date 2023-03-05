@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-01-18
 link: https://ai-educators.org/2022/10/26/applications-of-ai-and-ai-infrastructure/
 time: 9:30am
+recording: https://youtu.be/0VFJQXFj6o8?t=1431
 published: true
 ---
 
