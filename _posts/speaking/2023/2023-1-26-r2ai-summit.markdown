@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-01-26
 link: https://whylabs.ai/events/rsqrd-summit
 time: 9:15am
+recording: https://www.youtube.com/playlist?list=PLFDswngT2LSjdDJ3bsjbEYYyOI25_gW72
 published: true
 ---
 
