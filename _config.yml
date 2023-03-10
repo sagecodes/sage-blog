@@ -17,6 +17,8 @@ linkedin: https://www.linkedin.com/in/sageelliott
 medium: https://medium.com/@sagecodes
 # Add about_me value
 # Add Status value
+# paginate: 10
+
 
 # Build settings
 markdown: kramdown
