@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Monitoring ML Models & Data in Production - Workshop"
+title:  "ML Monitoring for Bias & Fairness with Tracing - Workshop"
 categories: event
 author: Sage Elliott
 date:   2023-03-22
