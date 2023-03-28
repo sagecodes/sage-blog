@@ -208,6 +208,10 @@ margin-bottom: 40px;
     padding-bottom: 50px;
 }
 
+.note-thumbnail  {
+    min-height: 140px;
+}
+
 .post-section {
   height: 220px;
   overflow: hidden;
