@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Intro to AI Observability: Monitoring ML Models & Data in Production"
+title:  "Understand ML Models with AI Explainability & Monitoring - Workshop"
 categories: event
 author: Sage Elliott
 date:   2023-03-29
