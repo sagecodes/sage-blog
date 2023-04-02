@@ -17,7 +17,7 @@ Check out my blog posts for more in-depth content.
 
 <br>
 
-# Getting Started with Flyte: Simplify Your Workflows with Code Examples
+## Getting Started with Flyte: Simplify Your Workflows with Code Examples
 
 Flyte is an open-source tool for orchestrating reliable and scalable workflows. If you're looking for a solution to simplify and streamline your data processing and machine learning tasks, you've come to the right place. In this blog, we'll introduce you to the basics of Flyte and provide code examples to help you hit the ground running. Let's dive in!
 

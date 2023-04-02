@@ -15,7 +15,7 @@ This post is a "note". I use notes to keep track of useful things for myself, bu
 Check out my blog posts for more in-depth content.
 **
 
-# Common Conda commands for managing environments
+## Common Conda commands for managing environments
 
 [Conda](https://docs.conda.io/en/latest/) is a package manager commonly used for python. It is used to create environments for different projects and to install packages in those environments. It is similar to virtualenv.
 
