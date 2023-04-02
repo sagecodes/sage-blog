@@ -3,11 +3,13 @@ layout: speaking
 title:  "Understand ML Models with AI Explainability & Monitoring - Workshop"
 categories: event
 author: Sage Elliott
-date:   2023-03-29
-link: https://www.eventbrite.com/e/understand-ml-models-with-ai-explainability-monitoring-tickets-565644005447
-time: 10:00am
+date:   2023-04-12
+link: https://www.eventbrite.com/e/intro-to-ai-observability-monitoring-ml-models-data-in-production-tickets-574953269707?aff=sage
+time: 4:00pm
 published: true
 ---
 
-A hands-on workshop to get started with AI explainability for ML models in production
+Join this hands-on workshop to get started with data and machine learning model monitoring.
+
+If you want to build reliable pipelines, trustworthy data, and responsible ML models, you need to validate and monitor your data.
 
