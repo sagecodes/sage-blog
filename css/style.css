@@ -30,12 +30,13 @@ body {
 
 /* "Alegreya", */
 body {
-    font-family: Alegreya, Georgia, serif;
+    font-family: Merriweather, Alegreya, Georgia, serif;
     font-weight: normal;
     color: #333;
-    font-size: 21px;
+    font-size: 16px;
     background: #1e1e1e;
     margin: 0px;
+    line-height: 24px;
 }
 a:focus, a:hover {
   color: #777;
@@ -109,7 +110,7 @@ h3 {
 }
 .navbar-text {
     display: inline-block;
-    font-size: 1.8em;
+    font-size: 1.6em;
     margin: 0px 0 0 00px;
 }
 
