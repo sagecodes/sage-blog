@@ -8,7 +8,6 @@ author: Sage Elliott
 published: true
 ---
 
-# Machine Learning Orchestration 
 In the past decade, machine learning (ML) has rapidly evolved from a niche domain to a mainstream aspect of technology. As ML models become increasingly complex and data-driven, the processes involved in training, deploying, and managing these models have beacome more challenging. This is where machine learning orchestration comes in.
 
 ## What is Machine Learning Orchestration?
