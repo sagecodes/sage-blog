@@ -200,14 +200,27 @@ margin-bottom: 40px;
     -webkit-transform: translate(0px,0px); /* Safari */
 }
 
+/* Project & blog grid */
 .project-thumbnail {
     min-height: 210px;
     padding-bottom: 50px;
 }
 
 .post-thumbnail {
-    min-height: 200px;
+    min-height: 322px;
     padding-bottom: 50px;
+}
+
+.image-wrapper {
+    /* Ensure the image occupies the full height of the container */
+    height: 150px;
+  }
+
+.blog-cover-photo {
+/* Set the image to cover the entire container while maintaining aspect ratio */
+object-fit: cover;
+width: 100%;
+height: 100%;
 }
 
 .note-thumbnail  {
