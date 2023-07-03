@@ -1,10 +1,10 @@
 ---
 layout: speaking
-title:  "https://www.eventbrite.com/e/intro-to-ml-monitoring-data-drift-quality-bias-and-explainability-tickets-667880527637?aff=sage - Workshop"
+title:  "Intro to ML Monitoring: Data Drift, Quality, Bias and Explainability - Workshop"
 categories: event
 author: Sage Elliott
 date:   2023-08-02
-link: https://www.eventbrite.com/e/intro-to-ml-monitoring-data-drift-quality-bias-and-explainability-tickets-620324696867?aff=sage
+link: https://www.eventbrite.com/e/intro-to-ml-monitoring-data-drift-quality-bias-and-explainability-tickets-667880527637?aff=sage
 time: 10:00am
 published: true
 ---
