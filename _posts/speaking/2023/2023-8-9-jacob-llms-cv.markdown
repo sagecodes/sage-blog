@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Solving LLM Data Hurdles: Strategies for Success - Yujian Tang - Live Podcast"
+title:  "Combining the Power of LLMs with Computer Vision - Jacob Marks - Live Podcast"
 categories: event
 author: Sage Elliott
 date:   2023-08-09
