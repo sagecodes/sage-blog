@@ -3,7 +3,7 @@ layout: speaking
 title:  "Monitoring LLMs in Production with Hugging Face & WhyLabs - Workshop"
 categories: event
 author: Sage Elliott
-date:   2023-08-06
+date:   2023-09-06
 link: https://www.eventbrite.com/e/monitoring-llms-in-production-with-hugging-face-whylabs-tickets-667887719147?aff=sage
 time: 10:00am
 published: true
