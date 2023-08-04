@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-07-19
 link: https://www.eventbrite.com/e/intro-to-llm-monitoring-in-production-with-langkit-whylabs-tickets-667913486217?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=DLJ8m3wMJrs
 published: true
 ---
 

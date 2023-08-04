@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-04-19
 link: https://www.eventbrite.com/e/model-serving-monitoring-with-bentoml-whylabs-tickets-600964560177?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=kSPclhhIlfI
 published: true
 ---
 

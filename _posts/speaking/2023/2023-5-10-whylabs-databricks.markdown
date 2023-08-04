@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-05-10
 link: https://www.eventbrite.com/e/whylabs-and-databricks-simplifying-ml-monitoring-in-complex-environments-tickets-617989121097?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=akELi-7einM
 published: true
 ---
 

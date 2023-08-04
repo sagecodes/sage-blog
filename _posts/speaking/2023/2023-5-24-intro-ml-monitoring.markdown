@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-05-24
 link: https://www.eventbrite.com/e/intro-to-ml-monitoring-data-drift-quality-bias-and-explainability-tickets-620324696867?aff=sage
 time: 3:00pm
+recording: https://www.youtube.com/watch?v=IuW96Ah0JCw
 published: true
 ---
 

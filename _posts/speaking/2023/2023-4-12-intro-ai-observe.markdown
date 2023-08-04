@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-04-12
 link: https://www.eventbrite.com/e/intro-to-ai-observability-monitoring-ml-models-data-in-production-tickets-574953269707?aff=sage
 time: 4:00pm
+recording: https://www.youtube.com/watch?v=KXpgtsRPM04
 published: true
 ---
 

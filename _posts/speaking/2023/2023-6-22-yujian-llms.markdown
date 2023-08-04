@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-06-22
 link: https://www.eventbrite.com/e/solving-llm-data-hurdles-strategies-for-success-yujian-tang-zilliz-tickets-638922994877?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=tW3AYwNZpQI
 published: true
 ---
 

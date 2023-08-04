@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-06-21
 link: https://www.eventbrite.com/e/monitoring-large-language-models-in-production-using-openai-whylabs-tickets-641674905917?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=HOPY1Fr_LEQ
 published: true
 ---
 

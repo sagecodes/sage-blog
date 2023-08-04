@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-07-27
 link: https://www.eventbrite.com/e/llms-in-production-lessons-learned-joe-heitzeberg-ceo-blueprint-ai-tickets-673409113787?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=u_D8FE2wawI
 published: true
 ---
 
