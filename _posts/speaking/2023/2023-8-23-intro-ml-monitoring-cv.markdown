@@ -7,6 +7,7 @@ author: Sage Elliott
 date:   2023-08-23
 link: https://www.eventbrite.com/e/build-and-monitor-computer-vision-models-with-tensorflowkeras-whylabs-tickets-691242152887?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=p8CPanY0rCQ
 published: true
 ---
 Join this hands-on workshop to learn ML monitoring for computer vision models in production with TensorFlow and WhyLabs.

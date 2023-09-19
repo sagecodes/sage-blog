@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-08-17
 link: https://www.eventbrite.com/e/building-better-computer-vision-models-harpreet-sahota-at-deci-ai-tickets-687513099187?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=dDsQ6BGeo0Y
 published: true
 ---
 

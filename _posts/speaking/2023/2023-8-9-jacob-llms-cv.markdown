@@ -6,6 +6,7 @@ author: Sage Elliott
 date:   2023-08-09
 link: https://www.eventbrite.com/e/combining-the-power-of-llms-with-computer-vision-jacob-marks-voxel51-tickets-670960048567?aff=sage
 time: 10:00am
+recording: https://www.youtube.com/watch?v=GL4XNKY5LS8
 published: true
 ---
 
