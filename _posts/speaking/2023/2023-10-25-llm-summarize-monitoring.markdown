@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Intro to LLM Monitoring in Production with LangKit & WhyLabs - Workshop"
+title:  "Create and Monitor LLM Summarization Apps using OpenAI and WhyLabs - Workshop"
 categories: event
 author: Sage Elliott
 date:   2023-10-25
