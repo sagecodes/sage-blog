@@ -9,6 +9,69 @@ published: true
 ---
 
 
+# Weekly AI and Data Event list:
+
+Happy Monday, everyone!
+
+Here is this Week's (Oct 16 - Oct 22) Quick Guide to Upcoming AI and Data Events! 📅 👇
+
+---
+
+### 📚 PyTorch Conference 2023
+- **Date:** Oct 16-17th
+- **Location:** San Francisco 
+- **RSVP:** [Luma](https://lu.ma/le6w043s)
+
+---
+
+### 📚 Intro to ML Monitoring: Data Drift, Quality, Bias and Explainability
+- **Date:** Oct 17th
+- **Location:** Online 
+- **RSVP:** [WhyLabs](https://whylabs.ai/events)
+
+---
+
+### 📚 AI Book Club: Natural Language Processing with Transformers
+- **Date:** Oct 17th
+- **Location:** Online 
+- **RSVP:** [LinkedIn](https://www.linkedin.com/events/aibookclub-naturallanguageproce7116914705805316096/)
+
+---
+
+### 📚 Revolutionizing Healthcare: Generative AI and Prompt Engineering in Emergency Medicine
+- **Date:** Oct 17th
+- **Location:** Online 
+- **RSVP:** [Data Science Dojo](https://datasciencedojo.com/event/revolutionizing-healthcare-generative-ai-and-prompt-engineering-in-emergency-medicine/)
+
+---
+
+### 📚 AI Workshop (Virtual): Building Generative AI workflows
+- **Date:** Oct 17th
+- **Location:** Online 
+- **RSVP:** [AI Camp](https://www.aicamp.ai/event/eventdetails/W2023101709)
+
+---
+
+### 📚 Machine Learning with Ray: Supercharge Your GPU Clusters
+- **Date:** Oct 17th
+- **Location:** Online 
+- **RSVP:** [Luma](https://lu.ma/le6w043s)
+
+---
+
+### 📚 Mastering ChatGPT: Crafting Powerful Prompts
+- **Date:** Oct 18th
+- **Location:** Online 
+- **RSVP:** [Data Science Dojo](https://datasciencedojo.com/event/mastering-chatgpt-crafting-powerful-prompts/)
+
+---
+
+### 📚 Learnings from LLMs and MLOps in Production
+- **Date:** Oct 19th
+- **Location:** Seattle 
+- **RSVP:** [Meetup](https://www.meetup.com/seattle-mlops-community/events/296304168/)
+
+
 
 **Happy Monday, everyone!** Here is this Week's (Oct 9 - Oct 15) Quick Guide to Upcoming AI and Data Events! 👇
 
