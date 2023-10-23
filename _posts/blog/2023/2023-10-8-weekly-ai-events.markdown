@@ -11,6 +11,67 @@ published: true
 
 # Weekly AI and Data Event list:
 
+## Oct 23 - Oct 29
+Happy Monday, everyone! Here is this Week's (Oct 23 - Oct 29) Quick Guide to AI and Data Events! 📅 👇
+
+### 💬 Chat LLMs & AI Agents - Use Gen AI to Build AI Systems and Agents At Scale
+- **Date:** Oct 24th
+- **Location:** Online 
+- **RSVP:** [AI Camp](https://www.aicamp.ai/event/eventdetails/W2023102409)
+
+---
+
+### 🚀 Boosting LLMs Performance with Retrieval-Augmented Generation (RAG)
+- **Date:** Oct 24th
+- **Location:** Online 
+- **RSVP:** [Data Science Dojo](https://datasciencedojo.com/event/boosting-llms-performance-with-retrieval-augmented-generation-rag/)
+
+---
+
+### 🗂️ Unstructured Data Meetup SF
+- **Date:** Oct 24th
+- **Location:** San Francisco
+- **RSVP:** [Luma](https://lu.ma/b3rhkle8)
+
+---
+
+### 📊 Create and Monitor LLM Summarization Apps using OpenAI and WhyLabs
+- **Date:** Oct 25th
+- **Location:** Online 
+- **RSVP:** [Eventbrite](https://www.eventbrite.com/e/create-and-monitor-llm-summarization-apps-using-openai-and-whylabs-tickets-730832468587?aff=sage)
+
+---
+
+### 🛠️ Getting Started with FiftyOne Workshop
+- **Date:** Oct 25th
+- **Location:** Online 
+- **RSVP:** [Voxel51](https://voxel51.com/computer-vision-events/fiftyone-workshop-oct-25/)
+
+---
+
+### 📈 Evaluation Builds Better Retrieval Augmented Generation Applications
+- **Date:** Oct 26th
+- **Location:** Online 
+- **RSVP:** [Zilliz](https://zilliz.com/event/rag-evals-truera)
+
+---
+
+### 🔒 Intro to LLM Security - OWASP Top 10 for Large Language Models (LLMs)
+- **Date:** Oct 26th
+- **Location:** Online 
+- **RSVP:** [WhyLabs](https://whylabs.ai/events)
+
+---
+
+### 🏫 Flyte School: Enrich your AI pipelines - A deep dive into Flyte plugins
+- **Date:** Oct 26th
+- **Location:** Online 
+- **RSVP:** [Union AI](https://www.union.ai/events/flyte-school-enrich-your-ai-pipelines-a-deep-dive-into-flyte-plugins)
+
+
+
+## (Oct 16 - Oct 22)
+
 Happy Monday, everyone!
 
 Here is this Week's (Oct 16 - Oct 22) Quick Guide to Upcoming AI and Data Events! 📅 👇
