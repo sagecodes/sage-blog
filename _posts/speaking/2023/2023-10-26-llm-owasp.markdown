@@ -1,0 +1,16 @@
+---
+layout: speaking
+title:  "Intro to LLM Security - OWASP Top 10 for Large Language Models (LLMs) - Workshop"
+categories: event
+author: Sage Elliott
+date:   2023-10-26
+link: https://www.eventbrite.com/e/create-and-monitor-llm-summarization-apps-using-openai-and-whylabs-tickets-730832468587?aff=sage
+time: 10:00am
+recording: https://www.youtube.com/watch?v=WjIpwYjkgB4
+published: true
+---
+Learn how to test, evaluate, and monitor LLMs for OWASP Top 10 security issues
+
+Join this hands-on workshop to implement ML monitoring on large language models (LLMs) for common security issues with WhyLabs LangKit.
+
+The ability to effectively monitor and manage large language models (LLMs) like GPT from OpenAI has become essential in the rapidly advancing field of AI. WhyLabs, in response to the growing demand, has created a powerful new tool, LangKit, to ensure LLM applications are monitored continuously and operated responsibly.
