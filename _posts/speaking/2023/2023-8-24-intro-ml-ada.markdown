@@ -1,6 +1,6 @@
 ---
 layout: speaking
-title:  "Intro to Machaine Learning with Python at Ada Developers Academy - Workshop"
+title:  "Intro to Machine Learning with Python at Ada Developers Academy - Workshop"
 categories: event
 author: Sage Elliott
 date:   2023-08-24
