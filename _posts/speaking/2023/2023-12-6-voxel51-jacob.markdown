@@ -7,6 +7,7 @@ date:   2023-12-06
 link: https://www.eventbrite.com/e/how-llms-are-transforming-computer-vision-jacob-marks-at-voxel51-tickets-760742710927
 time: 10:00am
 published: true
+recording: https://www.youtube.com/watch?v=ex807KJEQCM
 ---
 Join this fireside chat as we speak with Jacob Marks about how LLMs are transforming computer vision!
 
