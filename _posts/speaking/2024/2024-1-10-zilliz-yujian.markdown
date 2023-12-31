@@ -3,7 +3,7 @@ layout: speaking
 title:  "The Essential Role of Vector Databases in LLMOps | Yujian Tang at Zilliz - Fireside chat"
 categories: event
 author: Sage Elliott
-date:   2023-01-10
+date:   2024-01-10
 link: https://www.eventbrite.com/e/the-essential-role-of-vector-databases-in-llmops-yujian-tang-at-zilliz-tickets-777347024877
 time: 10:00am
 published: true
