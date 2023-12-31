@@ -5,7 +5,7 @@ categories: event
 author: Sage Elliott
 date:   2024-01-16
 link: https://www.meetup.com/aittg-seattle/events/297924950/
-time: 10:00am
+time: 5:00pm
 published: true
 ---
 Who Should attend:
