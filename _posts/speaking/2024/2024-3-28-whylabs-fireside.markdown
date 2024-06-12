@@ -4,7 +4,7 @@ title:  "LLMs in Production | Bernease Herman - WhyLabs - Fireside chat"
 categories: event
 author: Sage Elliott
 date:   2024-03-28
-link: How to Monitor & Evaluate LLMs in Production
+link: https://www.union.ai/events/how-to-monitor-evaluate-llms-in-production
 time: 10:00am
 published: true
 ---
