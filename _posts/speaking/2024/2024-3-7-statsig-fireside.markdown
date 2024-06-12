@@ -8,8 +8,7 @@ link: https://www.eventbrite.com/e/user-experimentation-for-ai-applications-timo
 time: 10:00am
 published: true
 ---
-Join this fireside chat as we speak with Rajat Arya about the Challenges of Building an ML Platform.
+Join this fireside chat as we speak with Timothy Chan from Statsig about user experimentation for AI applications.
 
+Register on Eventbrite or Union.ai to ensure you get the live link:
 RSVP to attend live, ask questions, connect with the community, and get the recording!
-
-This discussion will provide a unique opportunity to hear firsthand about the intricacies and hurdles that accompany the development of a creating cutting-edge ML platforms.
