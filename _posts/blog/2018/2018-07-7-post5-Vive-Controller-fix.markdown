@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vive Controller Fix"
+title:  "Vive Controller Fix (ribbon cables)"
 permalink: /vive-controller-fix/
 date:   2020-02-09
 categories: post
