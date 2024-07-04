@@ -3,7 +3,7 @@ layout: post
 title:  "Intro to Flyte Tasks & Workflows"
 permalink: /intro-flyte-task-and-workflows/
 date:   2023-03-27
-categories: note
+categories: post
 tags: mlops flyte workflow
 author: Sage Elliott
 published: true

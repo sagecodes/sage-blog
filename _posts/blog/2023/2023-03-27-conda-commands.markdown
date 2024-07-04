@@ -3,7 +3,7 @@ layout: post
 title:  "Conda commands for managing environments"
 permalink: /conda-commands/
 date:   2023-03-27
-categories: note
+categories: post
 tags: conda environment
 author: Sage Elliott
 published: true
