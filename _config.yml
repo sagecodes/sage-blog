@@ -25,3 +25,7 @@ youtube: https://www.youtube.com/@sagecodes
 markdown: kramdown
 permalink: /:categories/:title/
 future: true
+
+collections:
+  events:
+    output: true

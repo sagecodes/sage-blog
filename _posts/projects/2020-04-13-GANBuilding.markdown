@@ -6,7 +6,7 @@ date: 2019-12-18
 categories: project
 tags: computer-vision machine-learning
 author: Sage Elliott
-published: False
+published: True
 ---
 This project was in collaboration with the architect [Michael Hasey](http://www.michaelhasey.com/).
 
