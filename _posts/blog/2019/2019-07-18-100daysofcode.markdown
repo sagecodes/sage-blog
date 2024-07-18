@@ -6,7 +6,7 @@ date:   2019-07-18
 categories: post
 tags: machine-learning
 author: Sage Elliott
-published: false
+published: true
 ---
 
 A diary type post of my 100 days of Machine learning code [#100DaysofMLcode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah). Read below project list micro blog posts about each day.
