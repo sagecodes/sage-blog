@@ -3,7 +3,7 @@ layout: speaking
 title:  "Build Scalable Workflows for LLM Fine-Tuning - Workshop"
 categories: event
 author: Sage Elliott
-date:   2024-10-16
+date:   2024-11-20
 link: https://www.eventbrite.com/e/build-scalable-workflows-for-llm-fine-tuning-llmops-workshop-tickets-1072770538559
 time: 12 :00pm
 published: true
