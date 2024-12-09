@@ -5,6 +5,8 @@
 } */
 
 
+  
+
 * {
     box-shadow: none;
 }
@@ -367,3 +369,25 @@ color: #e8e8e8;
 .text-center {
     text-align: center;
 }
+
+  /* Post container clickable */
+.post-container {
+    cursor: pointer;
+  }
+  
+  /* Prevent specific elements from appearing clickable */
+  .post-date, .post-tags span {
+    text-decoration: none; /* No underline */
+    color: inherit; /* Use the parent element's text color */
+  }
+  
+  /* Ensure title link looks clickable */
+  .post-title a {
+    cursor: pointer; /* Pointer for interactivity */
+    font-size: 30px;
+  }
+  
+  .post-title a:hover {
+    text-decoration: underline;
+  }
+  
