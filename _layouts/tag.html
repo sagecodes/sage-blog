@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="header-space"></div>
+<section id="TagPosts">
+  <h1 class="section-header">Posts tagged with "{{ page.tag }}":</h1>
+
+  <div class="row">
+    {% for post in site.posts %}
+      {% if post.tags contains page.tag %}
+        <div class="post-container">
+          <div class="caption">
+            <h3 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+            <h5 class="post-date">{{ post.date | date: "%m/%d/%Y" }}</h5>
+            <div class="post-meta">
+              <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+            </div>
+          </div>
+        </div>
+        <hr>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
