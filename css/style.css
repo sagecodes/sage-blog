@@ -384,10 +384,11 @@ color: #e8e8e8;
   /* Ensure title link looks clickable */
   .post-title a {
     cursor: pointer; /* Pointer for interactivity */
-    font-size: 30px;
+    font-size: 25px;
   }
   
   .post-title a:hover {
     text-decoration: underline;
   }
+  
   
