@@ -1,6 +1,6 @@
 ---
 layout: tag
 title: MLOps
-tag: MLOps
+tag: mlops
 permalink: tags/mlops/
 ---
