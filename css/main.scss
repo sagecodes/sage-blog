@@ -79,16 +79,8 @@ body {
 .post_tag {
  font-size:12px;
  color: $grey-color;
- background-color:$grey-color-light;
- a, a:visited {
-    color: $grey-color;
-    padding: 5px;
-    background-color:$grey-color-light;
-    text-decoration: none;
- }
- a:hover, a:focus {
-  text-decoration: none;
- }
+
+
 }
 
 .btn {

@@ -3,7 +3,7 @@ layout: post
 title:  "Vector Databases: Powering Large Language Models (LLMs)"
 date:   2023-05-15
 categories: post
-tags: MLOps LLMs Vector-Databases
+tags: MLOps llms Vector-Databases
 author: Sage Elliott
 img: img\blog_covers\vector_embedding.png
 published: true

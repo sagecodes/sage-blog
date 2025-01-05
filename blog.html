@@ -28,8 +28,6 @@ permalink: /blog/
 </section>
 
 <section id="Posts">
-  <div class="header-space"></div>
-
   <div class="row">
     {% for post in site.categories.post %}
       <div class="post-container" onclick="window.location.href='{{ post.link | default: post.url | prepend: site.baseurl }}'">

@@ -72,9 +72,9 @@ a:focus, a:hover {
     margin: 0;
 }
 
-.section-header {
+/* .section-header {
     margin-left:15px;
-}
+} */
 
 .header-space {
     padding: 20px 0;
@@ -340,9 +340,9 @@ height: 100%;
 }
 
 
-#tag-btns {
+/* #tag-btns {
     padding: 0 15px
-}
+} */
 
 .blog-post_tag {
  font-size:15px;
@@ -351,14 +351,14 @@ height: 100%;
  padding: 10px;
  line-height: 45px;
 }
- .blog-post_tag a, .blog-post_tag a:visited {
+ /* .blog-post_tag a, .blog-post_tag a:visited {
     text-decoration: none;
     padding: 10px;
- }
+ } */
 
- .blog-post_tag a:hover, .blog-post_tag a:focus {
+ /* .blog-post_tag a:hover, .blog-post_tag a:focus {
   text-decoration: none;
- }
+ } */
 
 
 .active, .active:visited, .active a{
