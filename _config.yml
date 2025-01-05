@@ -26,6 +26,6 @@ markdown: kramdown
 permalink: /:categories/:title/
 future: true
 
-collections:
-  events:
-    output: true
+# collections:
+#   events:
+#     output: true
