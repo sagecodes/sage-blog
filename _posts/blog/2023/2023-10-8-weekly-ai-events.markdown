@@ -3,7 +3,7 @@ layout: post
 title:  "Upcoming AI and Data Events (updated weekly)"
 date:   2023-10-08
 categories: post
-tags: MLOps LLMs Vector-Databases
+tags: LLMs Vector-Databases
 author: Sage Elliott
 published: false
 ---
