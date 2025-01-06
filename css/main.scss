@@ -1,97 +1,100 @@
-// ---
-// ---
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
 
-// @charset "utf-8";
 
-// // 1) Define your mixin before using it.
-// @mixin media-query($device) {
-//   @media screen and (max-width: $device) {
-//     @content;
-//   }
-// }
 
-// // 2) Define variables.
-// $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-// $base-font-size:   16px;
-// $base-font-weight: 400;
-// $small-font-size:  $base-font-size * 0.875;
-// $base-line-height: 1.5;
+// Our variables (Jekyll defaults)
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
 
-// $spacing-unit:     30px;
+$spacing-unit:     30px;
 
-// $text-color:       #111;
-// $background-color: #fdfdfd;
-// $brand-color:      #2a7ae2;
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
 
-// $grey-color:       #828282;
-// $grey-color-light: lighten($grey-color, 40%);
-// $grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
 
-// $large-wrapper:    1100px;
-// // Width of the content area
-// $content-width:    1000px;
+$large-wrapper: 1100px;
+// Width of the content area
+$content-width:    1000px;
 
-// $on-palm:          600px;
-// $on-laptop:        800px;
+$on-palm:          600px;
+$on-laptop:        800px;
 
-// // 3) Use the mixin.
-// @include media-query($on-palm) {
-//   .wrapper {
-//     padding-right: 15px;
-//     padding-left: 15px;
-//   }
-// }
 
-// // 4) Import your partials (make sure they're located in the correct directory).
-// @import
-//   "base",
-//   "layout",
-//   "syntax-highlighting";
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+// Use media queries like this:
+@include media-query($on-palm) {
+    .wrapper {
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
 
-// // 5) Main styles.
-// body {
-//   font-family: "Merriweather", "Alegreya", Georgia, serif;
-//   font-weight: normal;
-//   color: #333;
-//   font-size: 1.20em;
-//   background: #f9f9f9;
-//   margin: 0;
-// }
 
-// .post_author,
-// .post_date,
-// .post_sep {
-//   font-size: 16px;
-// }
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
 
-// .post_excerpt {
-//   font-size: 16px;
-//   color: $grey-color;
 
-//   p {
-//     margin-bottom: 5px;
-//   }
-// }
 
-// .post_tag {
-//   font-size: 12px;
-//   color: $grey-color;
-// }
+body {
+  font-family: "Merriweather", "Alegreya", Georgia, serif;
+  font-weight: normal;
+  color: #333;
+  font-size: 1.20em;
+  background: #f9f9f9;
+  margin: 0px;
+}
 
-// .btn {
-//   padding: 10px;
-//   background-color: $grey-color-light;
-// }
+.post_author, .post_date, .post_sep {
+    font-size:16px;
+}
 
-// // Layout changes for embedding Jupyter notebooks
-// table {
-//   background-color: #fff !important;
-//   overflow-x: scroll;
-//   display: block;
-// }
+.post_excerpt {
+ font-size:16px;
+ color: $grey-color;
+ p {
+ margin-bottom: 5px;
+ }
+}
 
-// td,
-// th {
-//   padding: 0 4px !important;
-//   text-align: center;
-// }
+.post_tag {
+ font-size:12px;
+ color: $grey-color;
+
+
+}
+
+.btn {
+    padding:10px;
+    background-color:$grey-color-light;
+
+}
+
+// Layout changes for embeding Jupyter notebooks
+table {
+    background-color: #fff !important;
+    overflow-x: scroll;
+    display: block;
+}
+
+td, th {
+    padding: 0 4px !important;
+    text-align: center;
+}
