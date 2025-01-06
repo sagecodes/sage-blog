@@ -31,17 +31,17 @@ $on-laptop:        800px;
 
 // breaks?
 // Use media queries like this:
-@include media-query($on-palm) {
-    .wrapper {
-        padding-right: 15px;
-        padding-left: 15px;
-    }
-}
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: 15px;
+//         padding-left: 15px;
+//     }
+// }
+// @mixin media-query($device) {
+//     @media screen and (max-width: $device) {
+//         @content;
+//     }
+// }
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
