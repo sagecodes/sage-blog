@@ -1,97 +1,97 @@
----
----
+// ---
+// ---
 
-@charset "utf-8";
+// @charset "utf-8";
 
-// 1) Define your mixin before using it.
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
-}
+// // 1) Define your mixin before using it.
+// @mixin media-query($device) {
+//   @media screen and (max-width: $device) {
+//     @content;
+//   }
+// }
 
-// 2) Define variables.
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+// // 2) Define variables.
+// $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $base-font-size:   16px;
+// $base-font-weight: 400;
+// $small-font-size:  $base-font-size * 0.875;
+// $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+// $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+// $text-color:       #111;
+// $background-color: #fdfdfd;
+// $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+// $grey-color:       #828282;
+// $grey-color-light: lighten($grey-color, 40%);
+// $grey-color-dark:  darken($grey-color, 25%);
 
-$large-wrapper:    1100px;
-// Width of the content area
-$content-width:    1000px;
+// $large-wrapper:    1100px;
+// // Width of the content area
+// $content-width:    1000px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+// $on-palm:          600px;
+// $on-laptop:        800px;
 
-// 3) Use the mixin.
-@include media-query($on-palm) {
-  .wrapper {
-    padding-right: 15px;
-    padding-left: 15px;
-  }
-}
+// // 3) Use the mixin.
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: 15px;
+//     padding-left: 15px;
+//   }
+// }
 
-// 4) Import your partials (make sure they're located in the correct directory).
-@import
-  "base",
-  "layout",
-  "syntax-highlighting";
+// // 4) Import your partials (make sure they're located in the correct directory).
+// @import
+//   "base",
+//   "layout",
+//   "syntax-highlighting";
 
-// 5) Main styles.
-body {
-  font-family: "Merriweather", "Alegreya", Georgia, serif;
-  font-weight: normal;
-  color: #333;
-  font-size: 1.20em;
-  background: #f9f9f9;
-  margin: 0;
-}
+// // 5) Main styles.
+// body {
+//   font-family: "Merriweather", "Alegreya", Georgia, serif;
+//   font-weight: normal;
+//   color: #333;
+//   font-size: 1.20em;
+//   background: #f9f9f9;
+//   margin: 0;
+// }
 
-.post_author,
-.post_date,
-.post_sep {
-  font-size: 16px;
-}
+// .post_author,
+// .post_date,
+// .post_sep {
+//   font-size: 16px;
+// }
 
-.post_excerpt {
-  font-size: 16px;
-  color: $grey-color;
+// .post_excerpt {
+//   font-size: 16px;
+//   color: $grey-color;
 
-  p {
-    margin-bottom: 5px;
-  }
-}
+//   p {
+//     margin-bottom: 5px;
+//   }
+// }
 
-.post_tag {
-  font-size: 12px;
-  color: $grey-color;
-}
+// .post_tag {
+//   font-size: 12px;
+//   color: $grey-color;
+// }
 
-.btn {
-  padding: 10px;
-  background-color: $grey-color-light;
-}
+// .btn {
+//   padding: 10px;
+//   background-color: $grey-color-light;
+// }
 
-// Layout changes for embedding Jupyter notebooks
-table {
-  background-color: #fff !important;
-  overflow-x: scroll;
-  display: block;
-}
+// // Layout changes for embedding Jupyter notebooks
+// table {
+//   background-color: #fff !important;
+//   overflow-x: scroll;
+//   display: block;
+// }
 
-td,
-th {
-  padding: 0 4px !important;
-  text-align: center;
-}
+// td,
+// th {
+//   padding: 0 4px !important;
+//   text-align: center;
+// }
