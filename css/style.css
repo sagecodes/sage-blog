@@ -1,8 +1,73 @@
+/* old scss styles now in css
+===========================================*/
+
+@charset "utf-8";
+
+/* SCSS variables turned into actual values:
+   $grey-color:       #828282;
+   lighten(#828282, 40%) -> #b4b4b4 (approx);
+*/
+
+body {
+  font-family: "Merriweather", "Alegreya", Georgia, serif;
+  font-weight: normal;
+  color: #333;
+  font-size: 1.20em;
+  background: #f9f9f9;
+  margin: 0;
+}
+
+.post_author,
+.post_date,
+.post_sep {
+  font-size: 16px;
+}
+
+.post_excerpt {
+  font-size: 16px;
+  color: #828282;
+}
+
+/* Flattened nested rule from .post_excerpt p */
+.post_excerpt p {
+  margin-bottom: 5px;
+}
+
+.post_tag {
+  font-size: 12px;
+  color: #828282;
+}
+
+.btn {
+  padding: 10px;
+  background-color: #b4b4b4; /* lighten(#828282, 40%) */
+}
+
+/* Layout changes for embedding Jupyter notebooks */
+table {
+  background-color: #fff !important;
+  overflow-x: scroll;
+  display: block;
+}
+
+td,
+th {
+  padding: 0 4px !important;
+  text-align: center;
+}
+
+
+
+
 /* General styles
 ===========================================*/
 /* * {
     border: 0.1px solid red;
 } */
+
+
+
+
 
 
   
