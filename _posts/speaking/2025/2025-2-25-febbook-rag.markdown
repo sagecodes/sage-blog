@@ -7,6 +7,7 @@ date:   2025-02-25
 link: https://www.linkedin.com/events/7273413966280683520/comments/
 rsvpon: LinkedIn
 time: 1:00pm
+tags: book-club ai llms
 published: true
 ---
 February's read for AI book club is "RAG-Driven Generative AI" by Denis Rothman!
