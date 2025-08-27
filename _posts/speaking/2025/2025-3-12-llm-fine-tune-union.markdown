@@ -3,8 +3,8 @@ layout: speaking
 title:  "Build Scalable Workflows for LLM Fine-Tuning - Workshop"
 categories: event
 author: Sage Elliott
-date:   2025-02-12
-link: https://www.youtube.com/watch?v=8OwFv2PnL1k
+date:   2025-03-12
+link: https://www.youtube.com/watch?v=0AP2gIO9qj4&t=7s
 rsvpon: eventbrite
 time: 12:00pm
 tags: workshop ai llms mlops union

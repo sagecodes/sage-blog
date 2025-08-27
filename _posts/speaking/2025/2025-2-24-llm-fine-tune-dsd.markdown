@@ -1,11 +1,11 @@
 ---
 layout: speaking
-title:  "Build Scalable Workflows for LLM Fine-Tuning - Workshop"
+title:  "Build Scalable Workflows for LLM Fine-Tuning - Guest Speaker at Data Science Dojo"
 categories: event
 author: Sage Elliott
-date:   2025-02-12
-link: https://www.youtube.com/watch?v=8OwFv2PnL1k
-rsvpon: eventbrite
+date:   2025-02-24
+link: https://datasciencedojo.com/llm-bootcamp/
+rsvpon: dsd
 time: 12:00pm
 tags: workshop ai llms mlops union
 published: true

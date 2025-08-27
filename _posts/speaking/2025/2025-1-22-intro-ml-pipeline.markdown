@@ -4,7 +4,7 @@ title:  "Intro to ML Pipelines: Build Reliable AI Workflows - Workshop"
 categories: event
 author: Sage Elliott
 date:   2025-01-22
-link: https://www.eventbrite.com/e/intro-to-ml-pipelines-build-reliable-ai-workflows-free-mlops-workshop-tickets-1119390239339
+link: https://www.youtube.com/watch?v=A26Udu4_L1U&t=1s
 rsvpon: eventbrite
 tags: workshop machine-learning mlops
 time: 12:00pm
