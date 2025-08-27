@@ -1,0 +1,27 @@
+---
+layout: speaking
+title:  "The Hundred-Page Language Models Book - AI Book Club"
+categories: event
+author: Sage Elliott
+date:   2025-06-17
+recording: https://www.youtube.com/watch?v=h9B0PR3Xxbs
+rsvpon: LinkedIn
+time: 1:00pm
+tags: book-club ai llms Agents
+published: true
+---
+About the book:
+Title: The Hundred-Page Language Models Book: hands-on with PyTorch
+Authors: Andriy Burkov
+Published: January 15, 2025
+
+https://thelmbook.com/
+
+Chapters:
+
+Chapter 1. Machine Learning Basics
+Chapter 2. Language Modeling Basics
+Chapter 3. Recurrent Neural Network
+Chapter 4. Transformer
+Chapter 5. Large Language Model
+Chapter 6. Further Reading
