@@ -1,0 +1,13 @@
+---
+layout: speaking
+title:  "Seattle AI & MLOps Happy Hour"
+categories: event
+author: Sage Elliott
+date:   2025-08-28
+link: https://luma.com/7sxg0h00
+rsvpon: LinkedIn
+time: 5:30pm
+tags: happy-hour ai mlops
+published: true
+---
+Join us for a casual in-person gathering at Stoup Brewing (formerly Optimism) in Capitol Hill! Meet fellow AI & MLOps folks, share stories, and grab a drink.
