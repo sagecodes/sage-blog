@@ -3,16 +3,16 @@ layout: speaking
 title:  "Building Applications with AI Agents - AI Book Club"
 categories: event
 author: Sage Elliott
-date:   2025-10-28
+date:   2025-12-16
 link: https://luma.com/kfdhtjn9
 rsvpon: Luma
 time: 1:00pm
-tags: book-club ai llms pytorch
+tags: book-club ai llms
 published: true
 ---
 This is a casual-style event. Not a structured presentation on topics. Sometimes, the discussion even drifts away from the chapters, but feel free to grab the mic to help steer it back.
 
-Feel free to join the discussion even if you have not read the book chapters! :)
+Feel free to join the discussion even if you have not read the book chapters! :
 
 Want to discuss the contents during the reading week? Join the Slack Flyte MLOps Slack group and search for the "ai-reading-club" channel. https://slack.flyte.org/
 
