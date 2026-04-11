@@ -1190,6 +1190,128 @@ img {
 }
 
 /* ============================================
+   ABOUT TIMELINE
+   ============================================ */
+.about-timeline {
+  position: relative;
+  padding-left: 2.5rem;
+}
+
+.about-timeline::before {
+  content: '';
+  position: absolute;
+  left: 7px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: linear-gradient(180deg, var(--purple), var(--magenta), var(--purple));
+  opacity: 0.4;
+}
+
+.timeline-item {
+  position: relative;
+  padding-bottom: 2rem;
+}
+
+.timeline-item:last-child {
+  padding-bottom: 0;
+}
+
+.timeline-marker {
+  position: absolute;
+  left: -2.5rem;
+  top: 6px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 2px solid var(--purple);
+  box-shadow: 0 0 8px var(--glow-purple);
+  z-index: 1;
+}
+
+.timeline-item:first-child .timeline-marker {
+  border-color: var(--magenta);
+  box-shadow: 0 0 12px var(--glow-magenta);
+}
+
+.timeline-content h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  letter-spacing: -0.01em;
+}
+
+.timeline-role {
+  font-size: 0.9rem;
+  color: var(--purple-light);
+  font-weight: 500;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+
+.timeline-content p {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ============================================
+   LINK CARDS (organizer, links pages)
+   ============================================ */
+.link-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.link-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.15rem 1.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+}
+
+.link-card:hover {
+  border-color: var(--border-hover);
+  background: rgba(179, 71, 217, 0.04);
+  transform: translateX(4px);
+  color: inherit;
+}
+
+.link-card-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.link-card-arrow {
+  color: var(--text-dim);
+  font-size: 1.1rem;
+  transition: transform 0.2s ease, color 0.2s ease;
+  flex-shrink: 0;
+}
+
+.link-card:hover .link-card-arrow {
+  transform: translateX(4px);
+  color: var(--purple-light);
+}
+
+/* Page subtitle */
+.page-subtitle {
+  font-size: 1.1rem;
+  color: var(--text-muted);
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+/* ============================================
    ANIMATED GRID BACKGROUND
    ============================================ */
 .grid-bg {
