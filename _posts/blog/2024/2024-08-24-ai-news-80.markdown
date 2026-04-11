@@ -1,0 +1,11 @@
+---
+layout: post
+title: "AI, MLOps & Robotics Newsletter #80"
+date: 2024-08-24
+categories: post
+tags: ai-news
+author: Sage Elliott
+link: https://www.linkedin.com/pulse/ai-mlops-robotics-newsletter-80-sage-elliott-qxu0c
+readon: LinkedIn
+published: true
+---

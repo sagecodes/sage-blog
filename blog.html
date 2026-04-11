@@ -19,6 +19,7 @@ permalink: /blog/
 
     <div class="card-grid">
       {% for post in site.categories.post %}
+      {% unless post.tags contains "ai-news" %}
       <a class="card" href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"{% if post.link %} target="_blank"{% endif %}>
         <div class="card-img">
           {% if post.img %}
@@ -41,6 +42,7 @@ permalink: /blog/
           {% endif %}
         </div>
       </a>
+      {% endunless %}
       {% endfor %}
     </div>
   </div>

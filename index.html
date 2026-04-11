@@ -37,13 +37,17 @@ layout: default
   <div class="container">
     <h2 class="section-header">Recent Posts</h2>
     <div class="card-grid">
-      {% for post in site.categories.post limit:3 %}
+      {% assign shown = 0 %}
+      {% for post in site.categories.post %}
+        {% unless post.tags contains "ai-news" %}
+        {% if shown < 3 %}
+        {% assign shown = shown | plus: 1 %}
       <a class="card" href="{% if post.link %}{{ post.link }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}"{% if post.link %} target="_blank"{% endif %}>
         <div class="card-img">
           {% if post.img %}
-            <img src="{{ post.img | prepend: site.baseurl }}" alt="{{ post.title }}">
+            <img src="/{{ post.img | replace: '\', '/' }}" alt="{{ post.title }}">
           {% else %}
-            <div class="card-placeholder gradient-{{ forloop.index | modulo: 4 | plus: 1 }}">
+            <div class="card-placeholder gradient-{{ shown | modulo: 4 | plus: 1 }}">
               <span>{{ post.title | truncate: 60 }}</span>
             </div>
           {% endif %}
@@ -60,6 +64,8 @@ layout: default
           {% endif %}
         </div>
       </a>
+        {% endif %}
+        {% endunless %}
       {% endfor %}
     </div>
   </div>

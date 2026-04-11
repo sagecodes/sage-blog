@@ -6,6 +6,6 @@ categories: post
 tags: ai-news
 author: Sage Elliott
 link: https://www.linkedin.com/pulse/ai-mlops-robotics-newsletter-91-sage-elliott-lhbgc/
-readon: Union.ai
+readon: LinkedIn
 published: true
 ---
