@@ -1,46 +1,13 @@
-<header class="site-header">
-
-<!--   <div class="wrapper">
- -->
-
-  <!-- Navigation
-==========================================================================-->
-
-<nav class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                Menu
-            </button>
-            <!-- <a class="logo" class="navbar-brand" href="{{ site.baseurl }}/"><img alt="Sage Elliott Logo" src="{{"/img/logoblack.png" | prepend: site.baseurl }}"> </a> -->
-            <ul class="nav navbar-nav navbar-text">
-                <li><a href="{{ site.baseurl }}/">Sage Elliott</a></li>
-            </ul>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <!-- <ul class="nav navbar-nav navbar-text">
-                <li><a href="{{ site.baseurl }}/">Sage Elliott</a></li>
-            </ul> -->
-            <ul class="nav navbar-nav navbar-right">
-                <li><a class="page-link" href="{{ site.baseurl }}/">About</a></li>
-                <li><a class="page-link" href="{{ "/projects" | prepend: site.baseurl }}">Projects</a></li>
-                <li><a class="page-link" href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
-                <li><a class="page-link" href="{{ "/speaking" | prepend: site.baseurl }}">Speaking</a></li>
-                <li><a class="page-link" href="https://www.linkedin.com/newsletters/ai-mlops-and-robotics-7017658190519574528/" target="blank">Newsletter ↗</a></li>
-
-
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container-fluid -->
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a class="nav-brand" href="{{ site.baseurl }}/">Sage Elliott</a>
+    <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">Menu</button>
+    <ul class="nav-links">
+      <li><a href="{{ site.baseurl }}/">Home</a></li>
+      <li><a href="{{ "/projects" | prepend: site.baseurl }}">Projects</a></li>
+      <li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+      <li><a href="{{ "/speaking" | prepend: site.baseurl }}">Speaking</a></li>
+      <li><a href="https://www.linkedin.com/newsletters/ai-mlops-and-robotics-7017658190519574528/" target="_blank" class="external">Newsletter</a></li>
+    </ul>
+  </div>
 </nav>
-<!-- </div>
- -->
-
-
-</header>
-

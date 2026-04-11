@@ -1,24 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   {% include head.html %}
-  <link rel="icon" type="image/png" href="{{ "/img/logoblack.png" | prepend: site.baseurl }}">
 
-  <body data-spy="scroll", data-target=".navbar-collapse">
+  <body>
+    <div class="grid-bg"></div>
 
     {% include header.html %}
 
-    <div class="page-content">
-    <div class="outer-wrapper">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
+    <main>
+      {{ content }}
+    </main>
 
     {% include footer.html %}
-    </div>
-
   </body>
 
 </html>
