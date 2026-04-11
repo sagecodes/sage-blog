@@ -5,6 +5,7 @@ categories: event
 author: Sage Elliott
 date:   2026-02-24
 link: https://luma.com/r217e3a3
+recording: https://www.youtube.com/watch?v=v0O_MaqaIPw
 rsvpon: Luma
 time: 1:00pm
 tags: book-club ai llms pytorch
