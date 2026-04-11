@@ -1,26 +1,61 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="header-space"></div>
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 
+<article class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="blog-header">
+    {% if page.tags %}
+    <div class="blog-tag-row">
+      {% for tag in page.tags %}
+        <span class="blog-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <h1 itemprop="name headline">{{ page.title }}</h1>
+
+    <div class="blog-meta">
+      <div class="meta-text">
+        <span class="author-name" itemprop="author">{{ page.author | default: "Sage Elliott" }}</span>
+        <span class="meta-details">
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+        </span>
+      </div>
+    </div>
+
+    {% if page.demo_url or page.github_url %}
+    <div style="display: flex; gap: 0.75rem; margin-top: 1.5rem;">
+      {% if page.demo_url %}
+        <a class="btn-primary" href="{{ page.demo_url }}" target="_blank">Live Demo</a>
+      {% endif %}
+      {% if page.github_url %}
+        <a class="btn-secondary" href="{{ page.github_url }}" target="_blank">GitHub</a>
+      {% endif %}
+    </div>
+    {% endif %}
   </header>
 
-  {% if page.demo_url %}
-  <a class="btn btn-primary" href="{{ page.demo_url }}" target="blank">Demo</a>
-{% endif %}
-{% if page.github_url %}
-  <a class="btn btn-default" href="{{ page.github_url }}" target="blank">Github</a>
-{% endif %}
-<br><br>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+  {% if page.img %}
+  <div class="blog-hero-img">
+    <img src="/{{ page.img | replace: '\', '/' }}" alt="{{ page.title }}">
   </div>
-  <div>
+  {% endif %}
 
-</div>
+  <div class="blog-layout">
+    <div class="blog-body" itemprop="articleBody">
+      {{ content }}
+    </div>
+  </div>
+
+<script>
+document.querySelectorAll('.blog-body div.highlighter-rouge, .blog-body figure.highlight').forEach(function(block) {
+  var link = '{{ page.github_url | default: site.github_repo }}';
+  var footer = document.createElement('div');
+  footer.className = 'code-block-footer';
+  footer.innerHTML = '<a href="' + link + '" target="_blank">View full code on GitHub &rarr;</a>';
+  block.appendChild(footer);
+});
+</script>
+
 </article>

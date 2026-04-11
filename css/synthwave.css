@@ -697,7 +697,7 @@ img {
 }
 
 /* ============================================
-   PAGE CONTENT (blog posts, projects, etc.)
+   PAGE CONTENT (listing pages)
    ============================================ */
 .page-wrapper {
   padding-top: calc(var(--nav-height) + 2rem);
@@ -712,95 +712,400 @@ img {
   margin-bottom: 1.5rem;
 }
 
-/* Post content styling */
-.post-content {
-  max-width: 750px;
-  margin: 0 auto;
-  font-size: 1.05rem;
-  line-height: 1.8;
-  color: var(--text);
+/* ============================================
+   BLOG POST LAYOUT
+   ============================================ */
+.blog-post {
+  padding-bottom: 2rem;
 }
 
-.post-content h2 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
+/* Blog Header */
+.blog-header {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: calc(var(--nav-height) + 3rem) 2rem 2.5rem;
+}
+
+.blog-tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1.25rem;
+}
+
+.blog-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--purple-light);
+  background: rgba(179, 71, 217, 0.1);
+  padding: 0.3rem 0.75rem;
+  border-radius: 6px;
+}
+
+.blog-header h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 800;
+  line-height: 1.15;
+  color: #fafafa;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.03em;
+}
+
+.blog-subtitle {
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.blog-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.blog-meta .author-avatar {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+  border: 2px solid var(--border);
+}
+
+.blog-meta .author-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.blog-meta .meta-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.blog-meta .author-name {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.blog-meta .meta-details {
+  color: var(--text-dim);
+}
+
+/* Blog Hero Image */
+.blog-hero-img {
+  max-width: 960px;
+  margin: 2.5rem auto;
+  padding: 0 2rem;
+}
+
+.blog-hero-img img {
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+}
+
+/* Blog Body + Layout */
+.blog-layout {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.blog-body {
+  max-width: 700px;
+  padding-bottom: 3rem;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text-muted);
+}
+
+.blog-body h2 {
+  font-size: 1.65rem;
+  font-weight: 800;
+  color: #fafafa;
+  margin: 3rem 0 1rem;
+  line-height: 1.25;
   letter-spacing: -0.02em;
 }
 
-.post-content h3 {
-  font-size: 1.25rem;
+.blog-body h3 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--text);
+  margin: 2.5rem 0 0.75rem;
+  line-height: 1.3;
+}
+
+.blog-body p {
+  margin-bottom: 1.5rem;
+}
+
+.blog-body a {
+  color: var(--purple-light);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.15s;
+}
+
+.blog-body a:hover {
+  color: var(--magenta);
+}
+
+.blog-body strong {
+  color: var(--text);
   font-weight: 600;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
 }
 
-.post-content p {
-  margin-bottom: 1.25rem;
+/* Lists */
+.blog-body ul, .blog-body ol {
+  margin: 0 0 1.5rem 1.25rem;
 }
 
-.post-content ul, .post-content ol {
-  margin-bottom: 1.25rem;
-  padding-left: 1.5rem;
+.blog-body li {
+  margin-bottom: 0.5rem;
+  line-height: 1.8;
 }
 
-.post-content li {
-  margin-bottom: 0.4rem;
-}
-
-.post-content blockquote {
-  border-left: 3px solid var(--purple);
-  padding: 0.75rem 1.25rem;
-  margin: 1.5rem 0;
-  color: var(--text-muted);
-  background: rgba(179, 71, 217, 0.05);
-  border-radius: 0 8px 8px 0;
-}
-
-.post-content code {
-  font-family: 'Fira Code', 'JetBrains Mono', monospace;
-  font-size: 0.9em;
-  background: rgba(179, 71, 217, 0.1);
-  padding: 0.15em 0.4em;
-  border-radius: 4px;
+.blog-body li::marker {
   color: var(--purple-light);
 }
 
-.post-content pre {
-  background: #0f0f1a;
-  border: 1px solid var(--border);
-  border-radius: 10px;
-  padding: 1.25rem;
-  overflow-x: auto;
-  margin: 1.5rem 0;
+/* Blockquote */
+.blog-body blockquote {
+  border-left: 3px solid var(--purple);
+  padding: 0.75rem 0 0.75rem 1.5rem;
+  margin: 2rem 0;
+  background: rgba(179, 71, 217, 0.04);
+  border-radius: 0 8px 8px 0;
 }
 
-.post-content pre code {
+.blog-body blockquote p {
+  font-size: 1.1rem;
+  color: var(--text);
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+/* Inline code */
+.blog-body code {
+  font-family: 'Fira Code', 'JetBrains Mono', monospace;
+  font-size: 0.9em;
+  background: rgba(179, 71, 217, 0.1);
+  color: var(--purple-light);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+
+/* Code blocks — macOS window style
+   Target only block-level code: div.highlighter-rouge (not inline code > .highlighter-rouge)
+   and figure.highlight. The inner div.highlight should NOT get its own box. */
+.blog-body div.highlighter-rouge,
+.blog-body figure.highlight {
+  position: relative;
+  margin: 2rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: #0c0c18;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+}
+
+.blog-body div.highlighter-rouge::before,
+.blog-body figure.highlight::before {
+  content: '';
+  display: block;
+  padding: 0.65rem 1rem;
+  background: rgba(255, 255, 255, 0.03);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  background-image:
+    radial-gradient(circle at 16px 50%, #ef4444 4.5px, transparent 4.5px),
+    radial-gradient(circle at 34px 50%, #eab308 4.5px, transparent 4.5px),
+    radial-gradient(circle at 52px 50%, #22c55e 4.5px, transparent 4.5px);
+  background-repeat: no-repeat;
+}
+
+/* Inner div.highlight inside highlighter-rouge should be transparent, no border/box */
+.blog-body div.highlighter-rouge div.highlight,
+.blog-body figure.highlight div.highlight {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  margin: 0;
+  overflow: visible;
+}
+
+.blog-body div.highlighter-rouge div.highlight::before,
+.blog-body figure.highlight div.highlight::before {
+  display: none;
+}
+
+.blog-body div.highlighter-rouge pre,
+.blog-body figure.highlight pre {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 1.25rem 1.5rem;
+  overflow-x: auto;
+  margin: 0;
+  line-height: 1.7;
+}
+
+.blog-body div.highlighter-rouge pre code,
+.blog-body figure.highlight pre code {
   background: none;
   padding: 0;
   font-size: 0.85rem;
   color: var(--text);
 }
 
-.post-content img {
-  border-radius: 10px;
-  margin: 1.5rem 0;
+/* Code block GitHub footer — added by JS */
+.code-block-footer {
+  padding: 0.5rem 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
+  text-align: right;
 }
 
-.post-content a {
-  border-bottom: 1px solid rgba(179, 71, 217, 0.3);
+.code-block-footer a {
+  font-size: 0.72rem;
+  color: var(--text-dim);
+  text-decoration: none;
+  transition: color 0.15s;
 }
 
-.post-content a:hover {
-  border-color: var(--magenta);
+.code-block-footer a:hover {
+  color: var(--purple-light);
 }
 
-/* Post meta */
-.post-meta {
+/* Standalone pre (not wrapped) */
+.blog-body > pre {
+  background: #0c0c18;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  overflow-x: auto;
+  margin: 2rem 0;
+  line-height: 1.7;
+}
+
+.blog-body > pre code {
+  background: none;
+  padding: 0;
+  font-size: 0.85rem;
+  color: var(--text);
+}
+
+/* Images in body */
+.blog-body img {
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  margin: 2rem 0;
+  width: 100%;
+}
+
+/* Tables */
+.blog-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+  display: table;
+  overflow-x: auto;
+  background: transparent;
+}
+
+.blog-body th {
+  text-align: left;
+  padding: 0.75rem 1rem;
+  color: #fafafa;
+  font-weight: 600;
+  border-bottom: 2px solid rgba(179, 71, 217, 0.2);
+}
+
+.blog-body td {
+  padding: 0.75rem 1rem;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+}
+
+/* Horizontal rule */
+.blog-body hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 3rem 0;
+}
+
+/* Author Bio */
+.blog-author-bio {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem 3rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  gap: 1.25rem;
+  align-items: center;
+}
+
+.blog-author-bio .bio-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 2px solid var(--border);
+}
+
+.blog-author-bio .bio-content {
   font-size: 0.9rem;
   color: var(--text-dim);
-  margin-bottom: 2rem;
+  line-height: 1.5;
+}
+
+.blog-author-bio .bio-content strong {
+  color: var(--text);
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.blog-author-bio .bio-content p {
+  margin: 0 0 0.5rem;
+}
+
+.blog-author-bio .bio-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.blog-author-bio .bio-links a {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.blog-author-bio .bio-links a:hover {
+  color: var(--purple-light);
+}
+
+@media (max-width: 600px) {
+  .blog-author-bio {
+    flex-direction: column;
+    text-align: center;
+  }
+  .blog-author-bio .bio-links {
+    justify-content: center;
+  }
 }
 
 /* ============================================

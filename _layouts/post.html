@@ -65,4 +65,13 @@ layout: default
     </div>
   </div>
 
+<script>
+document.querySelectorAll('.blog-body div.highlighter-rouge, .blog-body figure.highlight').forEach(function(block) {
+  var footer = document.createElement('div');
+  footer.className = 'code-block-footer';
+  footer.innerHTML = '<a href="{{ site.github_repo }}" target="_blank">View more code on GitHub &rarr;</a>';
+  block.appendChild(footer);
+});
+</script>
+
 </article>
