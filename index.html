@@ -77,7 +77,7 @@ layout: default
       <a class="card" href="{{ post.url | prepend: site.baseurl }}">
         <div class="card-img">
           {% if post.img %}
-            <img src="{{ post.img | prepend: site.baseurl }}" alt="{{ post.title }}">
+            <img src="/{{ post.img | replace: '\', '/' }}" alt="{{ post.title }}">
           {% else %}
             <div class="card-placeholder gradient-{{ forloop.index | modulo: 4 | plus: 1 }}">
               <span>{{ post.title | truncate: 50 }}</span>

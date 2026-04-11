@@ -1,28 +1,68 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <div class="header-space"></div>
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+<article class="blog-post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <!-- Blog Header -->
+  <header class="blog-header">
+    {% if page.tags %}
+    <div class="blog-tag-row">
+      {% for tag in page.tags %}
+        <span class="blog-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <h1 itemprop="name headline">{{ page.title }}</h1>
+
+    {% if page.description %}
+      <p class="blog-subtitle">{{ page.description }}</p>
+    {% endif %}
+
+    <div class="blog-meta">
+      <div class="author-avatar">
+        <img src="/img/sage2016.jpg" alt="{{ page.author }}">
+      </div>
+      <div class="meta-text">
+        <span class="author-name" itemprop="author">{{ page.author | default: "Sage Elliott" }}</span>
+        <span class="meta-details">
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+          {% if page.readon %}
+            &middot; Originally on {{ page.readon }}
+          {% endif %}
+        </span>
+      </div>
+    </div>
   </header>
 
-  <!-- <img class="in-blog-cover-photo" src="{{page.img}}" alt="{{ page.title }}"> -->
+  <!-- Hero image -->
+  {% if page.img %}
+  <div class="blog-hero-img">
+    <img src="/{{ page.img | replace: '\', '/' }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-
-    
-    <br>
-    <!-- Want events like these in your inbox? Sign up <a href="http://bit.ly/2MQbtnE" target="blank">here</a>.  -->
-    If you have any questions about this post or want to stay connected find me at:
-    <br><br>
-    <a class="btn btn-email" href="{{ site.email }}">Email</a>
-    <a class="btn btn-github" href="{{ site.github }}" target="blank">Github</a>
-    <a class="btn btn-twitter" href="{{ site.twitter }}" target="blank">Twitter</a>
-    <a class="btn btn-linkedin" href="{{ site.linkedin }}" target="blank">LinkedIn</a>
-    <br><br>
+  <!-- Article body -->
+  <div class="blog-layout">
+    <div class="blog-body" itemprop="articleBody">
+      {{ content }}
+    </div>
   </div>
 
+  <!-- Author bio / contact -->
+  <div class="blog-author-bio">
+    <img class="bio-avatar" src="/img/sage2016.jpg" alt="Sage Elliott">
+    <div class="bio-content">
+      <strong>Sage Elliott</strong>
+      <p>Machine Learning Engineer at Union. I like helping people learn and creating things with technology.</p>
+      <div class="bio-links">
+        <a href="{{ site.email }}">Email</a>
+        <a href="{{ site.github }}" target="_blank">GitHub</a>
+        <a href="{{ site.twitter }}" target="_blank">Twitter</a>
+        <a href="{{ site.linkedin }}" target="_blank">LinkedIn</a>
+      </div>
+    </div>
+  </div>
+
+</article>

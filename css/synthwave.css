@@ -542,6 +542,118 @@ img {
 }
 
 /* ============================================
+   STATS ROW
+   ============================================ */
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.stat-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.stat-number {
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  background: linear-gradient(135deg, var(--purple-light), var(--magenta));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 500px) {
+  .stats-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ============================================
+   EVENT EXTRAS (badges, arrows, year nav)
+   ============================================ */
+.event-item.upcoming {
+  border-color: rgba(179, 71, 217, 0.25);
+  background: rgba(179, 71, 217, 0.04);
+}
+
+.event-arrow {
+  color: var(--text-dim);
+  font-size: 1.1rem;
+  transition: transform 0.2s ease, color 0.2s ease;
+  flex-shrink: 0;
+}
+
+.event-item:hover .event-arrow {
+  transform: translateX(4px);
+  color: var(--purple-light);
+}
+
+.event-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--cyan);
+  background: rgba(6, 214, 160, 0.1);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.year-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.year-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.6rem 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.year-link:hover {
+  border-color: var(--purple);
+  color: var(--purple-light);
+  background: rgba(179, 71, 217, 0.08);
+  transform: translateY(-1px);
+}
+
+.title-count {
+  font-weight: 400;
+  color: var(--text-dim);
+  font-size: 0.6em;
+}
+
+/* ============================================
    FOOTER
    ============================================ */
 .site-footer {
