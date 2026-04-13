@@ -351,6 +351,132 @@ img {
 }
 
 /* ============================================
+   FEATURE GRID (What I Do)
+   ============================================ */
+.feature-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  padding: 2.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.feature-grid:last-child {
+  border-bottom: none;
+}
+
+.feature-grid.reverse .feature-text {
+  order: 2;
+}
+
+.feature-grid.reverse .feature-media {
+  order: 1;
+}
+
+.feature-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--purple-light);
+  background: rgba(179, 71, 217, 0.1);
+  padding: 0.3rem 0.75rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+.feature-text h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.02em;
+}
+
+.feature-text p {
+  font-size: 1rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 1.25rem;
+}
+
+.feature-list {
+  list-style: none;
+  padding: 0;
+}
+
+.feature-list li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.feature-list li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--purple);
+  box-shadow: 0 0 6px var(--glow-purple);
+}
+
+.feature-media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature-placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  position: relative;
+  overflow: hidden;
+}
+
+.feature-placeholder::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 30% 70%, var(--glow-purple), transparent 60%),
+              radial-gradient(circle at 70% 30%, var(--glow-magenta), transparent 60%);
+  opacity: 0.6;
+}
+
+.feature-placeholder span {
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 768px) {
+  .feature-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .feature-grid.reverse .feature-text,
+  .feature-grid.reverse .feature-media {
+    order: unset;
+  }
+  .feature-media {
+    order: -1;
+  }
+}
+
+/* ============================================
    CARDS
    ============================================ */
 .card-grid {

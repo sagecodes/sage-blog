@@ -32,6 +32,99 @@ layout: default
   </div>
 </section>
 
+<!-- What I Do -->
+<section class="section">
+  <div class="container">
+    <h2 class="section-header">What I Do</h2>
+
+    <div class="feature-grid">
+      <div class="feature-text">
+        <span class="feature-tag">AI Engineering</span>
+        <h3>Building Applied AI Systems</h3>
+        <p>I work at the intersection of machine learning research and production systems. Currently building out an applied AI lab focused on durable AI pipelines, multi-agent orchestration, and scalable ML infrastructure.</p>
+        <ul class="feature-list">
+          <li>Multi-agent systems & orchestration</li>
+          <li>MLOps & production ML pipelines</li>
+          <li>LLM applications & RAG systems</li>
+        </ul>
+      </div>
+      <div class="feature-media">
+        <div class="feature-placeholder gradient-2">
+          <span>AI Engineering</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="feature-grid reverse">
+      <div class="feature-text">
+        <span class="feature-tag">Developer Relations</span>
+        <h3>7+ Years of DevRel</h3>
+        <p>I've spent years helping developers learn, build, and ship. From teaching coding bootcamps to running workshops, writing technical content, and building communities around AI/ML tooling.</p>
+        <ul class="feature-list">
+          <li>Technical workshops & live coding</li>
+          <li>Community building & event organizing</li>
+          <li>Technical writing & content creation</li>
+        </ul>
+      </div>
+      <div class="feature-media">
+        <div class="feature-placeholder gradient-3">
+          <span>Developer Relations</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="feature-grid">
+      <div class="feature-text">
+        <span class="feature-tag">Hardware</span>
+        <h3>Electronics, Robotics & Reliability</h3>
+        <p>Before software, I came up through hardware — electronics manufacturing, reliability engineering, and testing. Now I combine that background with AI through robotics and embedded systems projects.</p>
+        <ul class="feature-list">
+          <li>Robotics & embedded systems</li>
+          <li>Electronics & PCB design</li>
+          <li>Hardware reliability engineering</li>
+        </ul>
+      </div>
+      <div class="feature-media">
+        <div class="feature-placeholder gradient-4">
+          <span>Hardware & Robotics</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- Upcoming Talks -->
+<section class="section">
+  <div class="container">
+    <h2 class="section-header">
+      Upcoming Talks
+      <a class="section-link" href="{{ "/speaking" | prepend: site.baseurl }}">All events &rarr;</a>
+    </h2>
+    <div class="event-list">
+      {% assign talks_shown = 0 %}
+      {% for post in site.categories.event reversed %}
+        {% if post.date > site.time %}
+          {% if talks_shown < 3 %}
+          {% assign talks_shown = talks_shown | plus: 1 %}
+        <a class="event-item" href="{% if post.recording %}{{ post.recording }}{% else %}{{ post.link }}{% endif %}" target="_blank">
+          <span class="event-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="event-title">{{ post.title }}</span>
+          {% if post.tags %}
+          <span class="event-tags">
+            {% for tag in post.tags %}
+              <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </span>
+          {% endif %}
+        </a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
 <!-- Recent Posts -->
 <section class="section">
   <div class="container">
@@ -107,29 +200,3 @@ layout: default
   </div>
 </section>
 
-<!-- Upcoming Talks -->
-<section class="section">
-  <div class="container">
-    <h2 class="section-header">
-      Upcoming Talks
-      <a class="section-link" href="{{ "/speaking" | prepend: site.baseurl }}">All events &rarr;</a>
-    </h2>
-    <div class="event-list">
-      {% for post in site.categories.event reversed %}
-        {% if post.date > site.time %}
-        <a class="event-item" href="{% if post.recording %}{{ post.recording }}{% else %}{{ post.link }}{% endif %}" target="_blank">
-          <span class="event-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <span class="event-title">{{ post.title }}</span>
-          {% if post.tags %}
-          <span class="event-tags">
-            {% for tag in post.tags %}
-              <span class="tag">{{ tag }}</span>
-            {% endfor %}
-          </span>
-          {% endif %}
-        </a>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-</section>
