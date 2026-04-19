@@ -8,7 +8,7 @@ link: https://www.youtube.com/watch?v=KhU9BwLebXE
 recording: https://www.youtube.com/watch?v=KhU9BwLebXE
 rsvpon: YouTube
 time: 12:00pm
-tags: ai llms workshop agents
+tags: workshop
 published: true
 ---
 A hands-on workshop building scalable research agents using Tavily, LangGraph, and Flyte.

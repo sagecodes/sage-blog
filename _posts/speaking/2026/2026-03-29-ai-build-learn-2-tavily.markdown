@@ -8,7 +8,7 @@ link: https://www.youtube.com/watch?v=WqdhxthHL04
 recording: https://www.youtube.com/watch?v=WqdhxthHL04
 rsvpon: YouTube
 time: 12:00pm
-tags: ai stream build-and-learn agents
+tags: build-and-learn
 published: true
 ---
 Second episode of the AI Build & Learn series. This session covers building agentic search with Tavily.

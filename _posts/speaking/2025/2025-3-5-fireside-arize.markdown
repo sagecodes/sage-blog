@@ -7,7 +7,7 @@ date:   2025-03-05
 link: https://www.youtube.com/watch?v=4irMLklEfpA
 rsvpon: eventbrite
 time: 12:00pm
-tags: fireside ai llms mlops
+tags: fireside
 published: true
 ---
 LLM Observability: Tracing, Evaluations, and Real-Time Insights with John Gilhuly from Arize

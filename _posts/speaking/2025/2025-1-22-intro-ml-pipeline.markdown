@@ -6,7 +6,7 @@ author: Sage Elliott
 date:   2025-01-22
 link: https://www.youtube.com/watch?v=A26Udu4_L1U&t=1s
 rsvpon: eventbrite
-tags: workshop machine-learning mlops
+tags: workshop
 time: 12:00pm
 published: true
 ---

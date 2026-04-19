@@ -7,7 +7,7 @@ date:   2025-07-24
 link: https://www.youtube.com/watch?v=IfBT_Alo4jg
 rsvpon: eventbrite
 time: 12:00pm
-tags: workshop ai computer-vision object-detetcion union
+tags: workshop
 published: true
 ---
 We'll cover data annotation for object detection, model fine-tuning, versioning, building an efficient AI pipeline, and deploy the trained computer vision model.

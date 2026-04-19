@@ -8,7 +8,7 @@ link: https://luma.com/icapnnju
 recording: https://www.youtube.com/watch?v=XgcTJQGmsIg
 rsvpon: Luma
 time: 1:00pm
-tags: book-club ai llms pytorch
+tags: book-club
 published: true
 ---
 January's book is "Hands-On Machine Learning with Scikit-Learn and PyTorch"!

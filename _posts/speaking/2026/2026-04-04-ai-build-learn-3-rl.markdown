@@ -8,7 +8,7 @@ link: https://www.youtube.com/watch?v=VUb16HYIyl4
 recording: https://www.youtube.com/watch?v=VUb16HYIyl4
 rsvpon: YouTube
 time: 12:00pm
-tags: ai stream build-and-learn reinforcement-learning
+tags: build-and-learn
 published: true
 ---
 Third episode of the AI Build & Learn series. This session covers reinforcement learning with OpenEnv.

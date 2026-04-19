@@ -1,16 +1,16 @@
 ---
 layout: speaking
-title:  "AI Book Club: Designing Data-Intensive Applications, 2nd Edition"
+title:  "AI Book Club: Build a Text-to-Image Generator (from Scratch)"
 categories: event
 author: Sage Elliott
-date:   2026-04-28
-link: https://luma.com/ov1shwzp
+date:   2026-05-26
+link: https://luma.com/zo2jbdp7
 rsvpon: Luma
 time: 1:00pm
 tags: book-club
 published: true
 ---
-April's book is "Designing Data-Intensive Applications, 2nd Edition" by Martin Kleppmann and Chris Riccomini!
+May's book is "Build a Text-to-Image Generator (from Scratch)" by Mark Liu!
 
 This is a casual-style event. Not a structured presentation on topics. Sometimes, the discussion even drifts away from the chapters, but feel free to grab the mic to help steer it back.
 

@@ -7,7 +7,7 @@ date:   2025-05-28
 link: https://www.youtube.com/watch?v=DJhsqdl_8fc
 rsvpon: eventbrite
 time: 12:00pm
-tags: workshop ai llms mlops union
+tags: workshop
 published: true
 ---
 Join us live for an inside look at how Union.ai is simplifying real-time serving for models and applications—no complex infrastructure configuration required.

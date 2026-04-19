@@ -7,7 +7,7 @@ date:   2025-10-28
 link: https://www.linkedin.com/events/7359702429828829184/
 rsvpon: LinkedIn
 time: 1:00pm
-tags: book-club ai llms
+tags: book-club
 published: true
 ---
 About the book:

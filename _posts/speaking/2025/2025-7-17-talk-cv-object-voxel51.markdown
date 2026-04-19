@@ -7,7 +7,7 @@ date:   2025-07-17
 link: https://www.youtube.com/watch?v=gVujINk3GuM
 rsvpon: eventbrite
 time: 12:00pm
-tags: talk ai computer-vision object-detetcion union
+tags: talk
 published: true
 ---
 We'll cover data annotation for object detection, model fine-tuning, versioning, building an efficient AI pipeline, and deploy the trained computer vision model.

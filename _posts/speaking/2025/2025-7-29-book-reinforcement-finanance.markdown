@@ -7,7 +7,7 @@ date:   2025-08-26
 recording: https://www.youtube.com/watch?v=aSS3K-Q4flA
 rsvpon: LinkedIn
 time: 1:00pm
-tags: book-club ai
+tags: book-club
 published: true
 ---
 About the book:

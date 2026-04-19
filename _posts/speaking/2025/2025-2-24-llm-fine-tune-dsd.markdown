@@ -7,7 +7,7 @@ date:   2025-02-24
 link: https://datasciencedojo.com/llm-bootcamp/
 rsvpon: dsd
 time: 12:00pm
-tags: workshop ai llms mlops union
+tags: workshop
 published: true
 ---
 Training today's complex AI models requires combining various steps into an interconnected workflow. Modern MLOps/LLMOps tooling helps you scale your AI training by orchestrating these workflows. Great tooling provides a reliable framework for your machine learning operations by streamlining processes, increasing efficiency, and adding reproducibility.

@@ -7,7 +7,7 @@ date:   2025-12-16
 link: https://luma.com/kfdhtjn9
 rsvpon: Luma
 time: 1:00pm
-tags: book-club ai llms
+tags: book-club
 published: true
 ---
 This is a casual-style event. Not a structured presentation on topics. Sometimes, the discussion even drifts away from the chapters, but feel free to grab the mic to help steer it back.

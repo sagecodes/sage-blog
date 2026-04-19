@@ -8,7 +8,7 @@ link: https://www.meetup.com/ai-builders-and-learners-seattle/events/306333138/
 recording: https://www.youtube.com/watch?v=iOqvrgxQBSM
 rsvpon: LinkedIn
 time: 1:00pm
-tags: book-club ai llms Agents
+tags: book-club
 published: true
 ---
 About the book:

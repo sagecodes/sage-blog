@@ -8,7 +8,7 @@ link: https://www.meetup.com/ai-builders-and-learners-sf/events/306873410/
 recording: https://www.youtube.com/watch?v=UhmP4UMZXSo
 rsvpon: LinkedIn
 time: 1:00pm
-tags: book-club ai api
+tags: book-club
 published: true
 ---
 About the book:

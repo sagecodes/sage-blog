@@ -8,7 +8,7 @@ link: https://www.youtube.com/watch?v=2khlIyHLBPw
 recording: https://www.youtube.com/watch?v=2khlIyHLBPw
 rsvpon: YouTube
 time: 12:00pm
-tags: union ai mlops office-hours
+tags: office-hours
 published: true
 ---
 AI Engineering Office Hours covering local development with the Flyte 2.0 SDK.

@@ -7,7 +7,7 @@ date:   2025-11-25
 recording: https://www.youtube.com/watch?v=vZiF64zoSwk
 rsvpon: LinkedIn
 time: 1:00pm
-tags: book-club ai llms llmops
+tags: book-club
 published: true
 ---
 This is a casual-style event. Not a structured presentation on topics. Sometimes, the discussion even drifts away from the chapters, but feel free to grab the mic to help steer it back.

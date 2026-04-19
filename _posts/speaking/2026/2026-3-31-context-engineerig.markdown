@@ -8,7 +8,7 @@ link: https://luma.com/6mocgoum
 recording: https://www.youtube.com/watch?v=mbVVFEFhunQ
 rsvpon: Luma
 time: 1:00pm
-tags: book-club ai llms context-engineering
+tags: book-club
 published: true
 ---
 ​March's book is "Context Engineering for Multi-Agent Systems"!

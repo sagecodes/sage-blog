@@ -7,7 +7,7 @@ date:   2025-05-14
 link: https://odsc.com/speakers/build-scalable-workflows-for-llm-fine-tuning-with-hugging-face-peft-and-unionx/
 rsvpon: LinkedIn
 time: 5:25pm
-tags: conference llm lora peft
+tags: conference
 published: true
 ---
 Training complex AI models at scale requires orchestrating multiple steps into a reproducible workflow and understanding how to optimize resource utilization for efficient fine-tuning. Modern MLOps and LLMOps tools help streamline these processes, improving the efficiency and reliability of your AI pipelines. This workshop will introduce you to the basics of MLOps and best practices for building efficient AI pipelines for large language models (LLMs).

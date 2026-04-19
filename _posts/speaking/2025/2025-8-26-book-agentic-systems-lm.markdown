@@ -7,7 +7,7 @@ date:   2025-08-26
 recording: https://www.youtube.com/watch?v=KVbizx_BVHg
 rsvpon: LinkedIn
 time: 1:00pm
-tags: book-club ai llms agents
+tags: book-club
 published: true
 ---
 About the book:
